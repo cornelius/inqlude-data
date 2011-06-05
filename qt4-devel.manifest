@@ -1,0 +1,10 @@
+{
+  "name": "qt4-devel",
+  "version": "4.7.1",
+  "summary": "Qt Development Kit",
+  "homepage": "http://www.qtsoftware.com",
+  "license": "GPLv2 ; GPLv3",
+  "description": "You need this package, if you want to compile programs with Qt. It\ncontains the \"Qt Crossplatform Development Kit\". It does contain\ninclude files and development applications like GUI designers,\ntranslator tools and code generators.\n\n\n\n",
+  "authors": ["Qt Software"],
+  "maturity": "stable"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qoauth1",
+  "version": "1.0.1",
+  "summary": "QOAuth is an attempt to support interaction with OAuth-powered network services",
+  "homepage": "http://github.com/ayoy/qoauth",
+  "license": "LGPL",
+  "description": "QOAuth is an attempt to support interaction with OAuth-powered network services\nin a Qt way, i.e. simply, clearly and efficiently.\n\n",
+  "authors": ["Dominik Kapusta <d@ayoy.net>"],
+  "maturity": "stable"
+}

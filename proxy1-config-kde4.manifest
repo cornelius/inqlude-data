@@ -1,0 +1,10 @@
+{
+  "name": "proxy1-config-kde4",
+  "version": "0.4.6",
+  "summary": "Libproxy module for KDE configuration",
+  "homepage": "http://code.google.com/p/libproxy/",
+  "license": "GPLv2+ ; LGPLv2.1+",
+  "description": "A module to extend libproxy with capabilities to query KDE4 about proxy\nsettings.\n",
+  "authors": [],
+  "maturity": "stable"
+}

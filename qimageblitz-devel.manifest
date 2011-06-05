@@ -1,0 +1,10 @@
+{
+  "name": "qimageblitz-devel",
+  "version": "0.0.4",
+  "summary": "Image Effect Library for KDE",
+  "homepage": "http://delta.affinix.com/qca/",
+  "license": "BSD 3-Clause",
+  "description": "Development files for the Blitz library.\n\n\n\n",
+  "authors": ["Daniel Duley <daniel.duley@verizon.net>"],
+  "maturity": "stable"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "akonadiprotocolinternals1",
+  "version": "1.5.0",
+  "summary": "PIM Storage Service",
+  "homepage": "http://akonadi-project.org",
+  "license": "LGPLv2.1+",
+  "description": "This package contains the data files of Akonadi, the KDE PIM storage\nservice.\n\n\n\n",
+  "authors": ["The KDE Team <kde@kde.org>"],
+  "maturity": "stable"
+}

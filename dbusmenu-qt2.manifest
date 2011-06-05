@@ -1,0 +1,10 @@
+{
+  "name": "dbusmenu-qt2",
+  "version": "0.6.6",
+  "summary": "Development package for dbusmenu-qt",
+  "homepage": "(none)",
+  "license": "GPL",
+  "description": "This library provides a Qt implementation of the DBusMenu protocol.\n\nThe DBusMenu protocol makes it possible for applications to export and import\ntheir menus over DBus.\n\n\nAuthor\n--------\n\nCanonical DX Team, Aurélien Gâteau <aurelien.gateau@canonical.com>\n",
+  "authors": [],
+  "maturity": "stable"
+}

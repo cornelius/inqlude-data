@@ -1,0 +1,10 @@
+{
+  "name": "bluedevil1",
+  "version": "1.8",
+  "summary": "Qt Wrapper for Bluez",
+  "homepage": "http://www.kde.org",
+  "license": "GPL",
+  "description": "Qt wrapper for BlueZ. This wrapper is used by KDE's Bluetooth layer.\n\n\n\nAuthor(s):\n  Eduardo Robles Elvira <edulix@gmail.com>\n  Alex Fiestas <afiestas@eyeos.org>\n  Rafael Fernandez Lopez <ereslibre@kde.org>\n",
+  "authors": [],
+  "maturity": "stable"
+}

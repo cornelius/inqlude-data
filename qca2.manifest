@@ -1,0 +1,10 @@
+{
+  "name": "qca2",
+  "version": "2.0.2",
+  "summary": "Qt Cryptographic Architecture 2",
+  "homepage": "http://delta.affinix.com/qca/",
+  "license": "LGPLv2.1+",
+  "description": "This package provides a generic Qt cryptographic architecture,\nincluding a library and a plug-in for using all supported capabilities\nof openssl, like SSL/TLS, X509, RSA, SHA1, MD5, Blowfish, 3DES, and\nAES.\n\nIt can be extended by further plug-ins, for example, with qca-sasl for\nSASL support.\n\n\n\n",
+  "authors": ["Justin Karneges <justin@affinix.com>"],
+  "maturity": "stable"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ksane0",
+  "version": "4.6.0",
+  "summary": "KDE scan library",
+  "homepage": "http://www.kde.org",
+  "license": "GPLv2+",
+  "description": "This package contains a library to add scan support to KDE\napplications.\n",
+  "authors": [],
+  "maturity": "stable"
+}

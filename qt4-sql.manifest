@@ -1,0 +1,10 @@
+{
+  "name": "qt4-sql",
+  "version": "4.7.1",
+  "summary": "Qt 4 SQL related libraries",
+  "homepage": "http://www.qtsoftware.com",
+  "license": "GPLv2 ; GPLv3",
+  "description": "Qt 4 libraries which are used for connection with an SQL server. You\nwill need also a plugin package for a supported SQL server.\n\n\n\n",
+  "authors": ["Qt Software"],
+  "maturity": "stable"
+}

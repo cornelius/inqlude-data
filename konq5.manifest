@@ -1,0 +1,10 @@
+{
+  "name": "konq5",
+  "version": "4.6.0",
+  "summary": "KDE Konqueror Libraries",
+  "homepage": "http://www.kde.org/",
+  "license": "GPLv2+",
+  "description": "This package contains the libraries used by file managers as Konqueror.\n",
+  "authors": [],
+  "maturity": "stable"
+}

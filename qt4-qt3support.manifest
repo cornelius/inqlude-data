@@ -1,0 +1,10 @@
+{
+  "name": "qt4-qt3support",
+  "version": "4.7.1",
+  "summary": "C++ Program Library, Core Components",
+  "homepage": "http://www.qtsoftware.com",
+  "license": "GPLv2 ; GPLv3",
+  "description": "Qt is a set of libraries for developing applications.\n\nThis package contains base tools, like string, xml, and network\nhandling.\n\n\n\n",
+  "authors": ["Qt Software"],
+  "maturity": "stable"
+}

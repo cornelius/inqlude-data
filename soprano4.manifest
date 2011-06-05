@@ -1,0 +1,10 @@
+{
+  "name": "soprano4",
+  "version": "2.5.63",
+  "summary": "C++/Qt based interface library for RDF",
+  "homepage": "http://soprano.sourceforge.net/",
+  "license": "LGPLv2.1+",
+  "description": "Soprano is an open and pluggable RDF resource framework which is build\non top of QT4. It provides RDF storage, RDF parsing, serialization,\ninference, and full text indexing in a nice C++ API. The main target of\nSoprano are desktop applications as it is being developed as a\nsubroject of Nepomuk, the semantic desktop initiative.\n\n\n\n",
+  "authors": ["Daniele Galdi <daniele.galdi@gmail.com>","Sebastian Trueg <trueg@kde.org>"],
+  "maturity": "stable"
+}

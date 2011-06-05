@@ -1,0 +1,10 @@
+{
+  "name": "reoffice-kde4",
+  "version": "3.3.1.2",
+  "summary": "KDE4 Extensions for LibreOffice",
+  "homepage": "http://www.documentfoundation.org/",
+  "license": "LGPLv3",
+  "description": "This package contains some KDE4 extensions for LibreOffice.\n",
+  "authors": [],
+  "maturity": "stable"
+}

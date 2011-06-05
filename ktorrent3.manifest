@@ -1,0 +1,10 @@
+{
+  "name": "ktorrent3",
+  "version": "1.0.80",
+  "summary": "KDE BitTorrent Client Build Environment",
+  "homepage": "http://ktorrent.pwsp.net/",
+  "license": "GPLv2+",
+  "description": "This package includes the ktorrent donwloading library\n\n\n\n",
+  "authors": ["Jois Guisson <jrois.guisson@gmail.com>"],
+  "maturity": "stable"
+}

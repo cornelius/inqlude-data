@@ -1,0 +1,10 @@
+{
+  "name": "kdcraw9",
+  "version": "4.6.0",
+  "summary": "Shared library interface around dcraw",
+  "homepage": "http://www.kde.org",
+  "license": "LGPLv2.1+",
+  "description": "Libkdcraw is a C++ interface around dcraw binary program used to decode\nRAW picture files.  The library documentation is available on header\nfiles.\n\nThis library is used by kipi-plugins, digiKam and others kipi host\nprograms.\n",
+  "authors": [],
+  "maturity": "stable"
+}

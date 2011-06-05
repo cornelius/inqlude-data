@@ -1,0 +1,10 @@
+{
+  "name": "kdecore4",
+  "version": "4.6.0",
+  "summary": "KDE Core Libraries",
+  "homepage": "http://www.kde.org",
+  "license": "LGPLv2.1+",
+  "description": "This package contains the core libraries of the K Desktop Environment.\n\nThis package is absolutely necessary for using KDE applications.\n\n\n\n",
+  "authors": ["The KDE Team <kde@kde.org>"],
+  "maturity": "stable"
+}

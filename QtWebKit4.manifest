@@ -1,0 +1,10 @@
+{
+  "name": "QtWebKit4",
+  "version": "4.7.1",
+  "summary": "Open source Web Browser engine based on Qt4",
+  "homepage": "http://www.qtsoftware.com",
+  "license": "GPLv2 ; GPLv3",
+  "description": "WebKit is an open source web browser engine. WebKit's HTML and JavaScript\ncode began as a branch of the KHTML and KJS libraries from KDE. As part of\nKDE framework KHTML was based on Qt but during their porting efforts Apple's\nengineers made WebKit toolkit independent. WebKit Qt is a project aiming at\nporting this fabulous engine back to Qt.\n\n\n\n",
+  "authors": ["Qt Software"],
+  "maturity": "stable"
+}

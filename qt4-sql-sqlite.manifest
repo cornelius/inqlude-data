@@ -1,0 +1,10 @@
+{
+  "name": "qt4-sql-sqlite",
+  "version": "4.7.1",
+  "summary": "Qt 4 sqlite plugin",
+  "homepage": "http://www.qtsoftware.com",
+  "license": "GPLv2 ; GPLv3",
+  "description": "Qt 4 sqlite plugin to be able to use database functionality with Qt\napplications without the need to setup a SQL server.\n\n\n\n",
+  "authors": ["Qt Software"],
+  "maturity": "stable"
+}

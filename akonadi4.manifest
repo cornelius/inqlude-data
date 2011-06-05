@@ -1,0 +1,10 @@
+{
+  "name": "akonadi4",
+  "version": "4.6.0",
+  "summary": "PIM Storage Service Libraries",
+  "homepage": "http://www.kde.org",
+  "license": "LGPLv2.1+",
+  "description": "This package contains the libraries of Akonadi, the KDE PIM storage\nservice.\n\n\n\n",
+  "authors": ["The KDE Team <kde@kde.org>"],
+  "maturity": "stable"
+}

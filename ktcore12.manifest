@@ -1,0 +1,10 @@
+{
+  "name": "ktcore12",
+  "version": "4.0.99beta1",
+  "summary": "Library for ktorrent",
+  "homepage": "http://ktorrent.pwsp.net/",
+  "license": "GPLv2+",
+  "description": "This package contains ktorrent's library\n",
+  "authors": ["Jois Guisson <jrois.guisson@gmail.com>"],
+  "maturity": "stable"
+}
