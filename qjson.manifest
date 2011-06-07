@@ -9,7 +9,7 @@
     "source": {
       "url": "http://sourceforge.net/projects/qjson/files/qjson/0.7.1/qjson-0.7.1.tar.bz2/download"
     },
-    "open_suse": {
+    "openSUSE": {
       "11.4" : {
         "repository": {
           "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
