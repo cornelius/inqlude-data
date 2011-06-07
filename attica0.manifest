@@ -6,5 +6,12 @@
   "license": "LGPLv2.1+",
   "description": "Attica is a library to access Open Collaboration Service servers.\n\n\n\n",
   "authors": ["Cornelius Schumacher <schumacher@kde.org>","Frederik Gladhorn <gladhorn@kde.org>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libattica0"
+      }
+    }
+  }
 }

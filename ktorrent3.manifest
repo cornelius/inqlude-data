@@ -6,5 +6,12 @@
   "license": "GPLv2+",
   "description": "This package includes the ktorrent donwloading library\n\n\n\n",
   "authors": ["Jois Guisson <jrois.guisson@gmail.com>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libktorrent3"
+      }
+    }
+  }
 }

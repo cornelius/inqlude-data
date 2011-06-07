@@ -6,5 +6,12 @@
   "license": "GPLv2+",
   "description": "Libkexiv2 is a wrapper around Exiv2 library to manipulate pictures\nmetadata.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libkexiv2-9"
+      }
+    }
+  }
 }

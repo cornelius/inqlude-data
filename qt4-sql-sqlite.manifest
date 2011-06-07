@@ -6,5 +6,12 @@
   "license": "GPLv2 ; GPLv3",
   "description": "Qt 4 sqlite plugin to be able to use database functionality with Qt\napplications without the need to setup a SQL server.\n\n\n\n",
   "authors": ["Qt Software"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libqt4-sql-sqlite"
+      }
+    }
+  }
 }

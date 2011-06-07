@@ -6,5 +6,12 @@
   "license": "GPLv2+",
   "description": "libworkman is a multi-plaform CD-Player library for creating various\nCD-Player-UIs.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libkcompactdisc4"
+      }
+    }
+  }
 }

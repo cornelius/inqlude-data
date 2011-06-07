@@ -6,5 +6,12 @@
   "license": "LGPL",
   "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format.\nIt can represent integer, real number, string, an ordered sequence of value,\nand a collection of name/value pairs. QJson is a qt-based library that maps\nJSON data to QVariant objects. JSON arrays will be mapped to QVariantList\ninstances, while JSON's objects will be mapped to QVariantMap.\n\n",
   "authors": ["Flavio Castelli <flavio@castelli.name>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libqjson0"
+      }
+    }
+  }
 }

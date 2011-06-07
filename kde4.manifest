@@ -6,5 +6,12 @@
   "license": "LGPLv2.1+",
   "description": "This package contains the basic packages of the K Desktop Environment.\nIt contains the necessary libraries for the KDE desktop.\n\nThis package is absolutely necessary for using graphical KDE\napplications.\n\n\n\n",
   "authors": ["The KDE Team <kde@kde.org>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libkde4"
+      }
+    }
+  }
 }

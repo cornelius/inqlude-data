@@ -6,5 +6,12 @@
   "license": "GPLv2+ ; LGPLv2.1+",
   "description": "strigi is a very fast crawling, very small memory footprint, no\nhammering of the system with pluggable backend desktop search engine.\n\n\n\n",
   "authors": ["Jos van den Oever <jos@vandenoever.info>","Ben van Klinken <bvanklinken@gmail.com>","Flavio Castelli <micron@madlab.it>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libstrigi0"
+      }
+    }
+  }
 }

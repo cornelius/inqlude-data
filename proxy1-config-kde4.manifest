@@ -6,5 +6,12 @@
   "license": "GPLv2+ ; LGPLv2.1+",
   "description": "A module to extend libproxy with capabilities to query KDE4 about proxy\nsettings.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libproxy1-config-kde4"
+      }
+    }
+  }
 }

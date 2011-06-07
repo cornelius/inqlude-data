@@ -6,5 +6,12 @@
   "license": "LGPLv2.1+",
   "description": "Libkdcraw is a C++ interface around dcraw binary program used to decode\nRAW picture files.  The library documentation is available on header\nfiles.\n\nThis library is used by kipi-plugins, digiKam and others kipi host\nprograms.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libkdcraw9"
+      }
+    }
+  }
 }

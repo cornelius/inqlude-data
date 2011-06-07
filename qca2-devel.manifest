@@ -6,5 +6,12 @@
   "license": "LGPLv2.1+",
   "description": "This package provides a generic Qt cryptographic architecture,\nincluding a library and a plugin for using all supported capabilities\nof openssl, like SSL/TLS, X509, RSA, SHA1, MD5, Blowfish, 3DES and AES.\n\n\n\n",
   "authors": ["Justin Karneges <justin@affinix.com>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libqca2-devel"
+      }
+    }
+  }
 }

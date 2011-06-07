@@ -6,5 +6,12 @@
   "license": "X11",
   "description": "This library implements private API to install additional packages for KDE.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libksuseinstall1"
+      }
+    }
+  }
 }

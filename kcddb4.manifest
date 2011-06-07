@@ -6,5 +6,12 @@
   "license": "GPLv2+",
   "description": "A library for retrieving and sending cddb information\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libkcddb4"
+      }
+    }
+  }
 }

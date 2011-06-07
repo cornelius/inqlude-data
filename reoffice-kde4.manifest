@@ -6,5 +6,12 @@
   "license": "LGPLv3",
   "description": "This package contains some KDE4 extensions for LibreOffice.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libreoffice-kde4"
+      }
+    }
+  }
 }

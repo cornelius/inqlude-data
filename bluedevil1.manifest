@@ -6,5 +6,12 @@
   "license": "GPL",
   "description": "Qt wrapper for BlueZ. This wrapper is used by KDE's Bluetooth layer.\n\n\n\nAuthor(s):\n  Eduardo Robles Elvira <edulix@gmail.com>\n  Alex Fiestas <afiestas@eyeos.org>\n  Rafael Fernandez Lopez <ereslibre@kde.org>\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libbluedevil1"
+      }
+    }
+  }
 }

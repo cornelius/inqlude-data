@@ -6,5 +6,12 @@
   "license": "LGPL",
   "description": "QOAuth is an attempt to support interaction with OAuth-powered network services\nin a Qt way, i.e. simply, clearly and efficiently.\n\n",
   "authors": ["Dominik Kapusta <d@ayoy.net>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libqoauth1"
+      }
+    }
+  }
 }

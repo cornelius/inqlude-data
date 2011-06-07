@@ -6,5 +6,12 @@
   "license": "GPLv2+",
   "description": "This package contains ktorrent's library\n",
   "authors": ["Jois Guisson <jrois.guisson@gmail.com>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libktcore12"
+      }
+    }
+  }
 }

@@ -6,5 +6,12 @@
   "license": "LGPLv2.1+",
   "description": "This package contains the libraries of Akonadi, the KDE PIM storage\nservice.\n\n\n\n",
   "authors": ["The KDE Team <kde@kde.org>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libakonadi4"
+      }
+    }
+  }
 }

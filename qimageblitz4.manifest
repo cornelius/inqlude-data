@@ -6,5 +6,12 @@
   "license": "BSD 3-Clause",
   "description": "Blitz is an interm image effect library that people can use until KDE\n4.1 is released. KImageEffect, the old image effect class is being\ndropped for KDE 4.0 and the replacement, Quasar, won't be ready until\nKDE 4.1. Blitz gives people something to use in the meantime.\n\n\n\n",
   "authors": ["Daniel Duley <daniel.duley@verizon.net>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libqimageblitz4"
+      }
+    }
+  }
 }

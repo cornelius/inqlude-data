@@ -6,5 +6,12 @@
   "license": "GPLv2 ; GPLv3",
   "description": "Qt 4 libraries which are used for connection with an SQL server. You\nwill need also a plugin package for a supported SQL server.\n\n\n\n",
   "authors": ["Qt Software"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libqt4-sql"
+      }
+    }
+  }
 }

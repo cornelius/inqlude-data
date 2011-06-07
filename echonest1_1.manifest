@@ -6,5 +6,12 @@
   "license": "GPLv2",
   "description": "It currently supports almost all of the features of the Echo Nest API, including all the API functions.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libechonest1_1"
+      }
+    }
+  }
 }

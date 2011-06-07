@@ -6,5 +6,12 @@
   "license": "GPLv3",
   "description": "liblastfm is a collection of libraries to help you integrate Last.fm services\ninto your rich desktop software. It is officially supported software developed\nby Last.fm staff.\n\n",
   "authors": ["Max Howell","Jono Cole","Doug Mansell"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "liblastfm0"
+      }
+    }
+  }
 }

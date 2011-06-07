@@ -6,5 +6,12 @@
   "license": "LGPLv2.1+",
   "description": "This package contains all necessary include files and libraries needed\nto develop non-graphical KDE applications.\n\n\n\n",
   "authors": ["The KDE Team <kde@kde.org>"],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libkdecore4-devel"
+      }
+    }
+  }
 }

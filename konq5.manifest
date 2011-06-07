@@ -6,5 +6,12 @@
   "license": "GPLv2+",
   "description": "This package contains the libraries used by file managers as Konqueror.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libkonq5"
+      }
+    }
+  }
 }

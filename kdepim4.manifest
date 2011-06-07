@@ -6,5 +6,12 @@
   "license": "LGPLv2.1+",
   "description": "This package contains the basic packages for KDE PIM applications.\n",
   "authors": [],
-  "maturity": "stable"
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libkdepim4"
+      }
+    }
+  }
 }
