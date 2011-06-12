@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "echonest",
+  "version": "1.1.8",
+  "summary": "Qt library for communicating with The Echo Nest",
+  "homepage": "https://projects.kde.org/libechonest",
+  "license": "LGPL",
+  "description": "It currently supports almost all of the features of the Echo Nest API, including all the API functions.\n",
+  "authors": [],
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libechonest1_1",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "libechonest-1.1.8-1.1.src.rpm"
+      }
+    }
+  }
+}

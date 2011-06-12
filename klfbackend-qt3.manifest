@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "klfbackend-qt3",
+  "version": "3.2.2",
+  "summary": "KLatexFormula backend library (Qt4)",
+  "homepage": "http://klatexformula.sourceforge.net/",
+  "license": "GPLv2+",
+  "description": "A C++/Qt library to generate images (PNG, EPS, PDF, plus all Qt-supported image\nformats) from LaTeX equations.\n\nThis library implements the base functionality of KLatexFormula. This library\nis compiled for Qt 4.\n\nSee also packages klatexformula and libklfbackend-qt3.\n",
+  "authors": [],
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libklfbackend3_2",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "klatexformula-3.2.2-3.2.src.rpm"
+      }
+    }
+  }
+}

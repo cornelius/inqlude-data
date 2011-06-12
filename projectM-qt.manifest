@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "projectM-qt",
+  "version": "2.0.1",
+  "summary": "Sound Visualization Library",
+  "homepage": "http://projectm.sourceforge.net/",
+  "license": "LGPL",
+  "description": "ProjectM-qt is a GUI designed to enhance the projectM user and preset writer.\nexperience. I could say it's the best direction for projectM and that's why I.\nwrote it, but it was really a curious digression in Qt4.\n",
+  "authors": [],
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libprojectM-qt1",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "projectM-qt-2.0.1-2.pm.3.1.src.rpm"
+      }
+    }
+  }
+}

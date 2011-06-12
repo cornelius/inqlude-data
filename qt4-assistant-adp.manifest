@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "qt4-assistant-adp",
+  "version": "4.6.3",
+  "summary": "Qt Development Kit",
+  "homepage": "http://www.qtsoftware.com",
+  "license": "GPLv2 ; GPLv3",
+  "description": "You need this package, if you want to compile programs with Qt. It\ncontains the \"Qt Crossplatform Development Kit\". It does contain\ninclude files and development applications like GUI designers,\ntranslator tools and code generators.\n",
+  "authors": [],
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libQtAssistantClient4",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "qt4-assistant-adp-4.6.3-8.3.src.rpm"
+      }
+    }
+  }
+}

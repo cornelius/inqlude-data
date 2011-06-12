@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "name": "qt4",
+  "name": "QtWebKit",
   "version": "4.7.1",
   "summary": "C++ Program Library, Core Components",
   "homepage": "http://www.qtsoftware.com",

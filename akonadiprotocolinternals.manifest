@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "akonadiprotocolinternals",
+  "version": "1.5.0",
+  "summary": "PIM Storage Service",
+  "homepage": "http://akonadi-project.org",
+  "license": "LGPLv2.1+",
+  "description": "This package contains the data files of Akonadi, the KDE PIM storage\nservice.\n\n\n\n",
+  "authors": ["The KDE Team <kde@kde.org>"],
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libakonadiprotocolinternals1",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "akonadi-runtime-1.5.0-3.3.1.src.rpm"
+      }
+    }
+  }
+}

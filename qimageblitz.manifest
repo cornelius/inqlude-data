@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "qimageblitz",
+  "version": "0.0.4",
+  "summary": "Image Effect Library for KDE",
+  "homepage": "http://delta.affinix.com/qca/",
+  "license": "BSD 3-Clause",
+  "description": "Blitz is an interm image effect library that people can use until KDE\n4.1 is released. KImageEffect, the old image effect class is being\ndropped for KDE 4.0 and the replacement, Quasar, won't be ready until\nKDE 4.1. Blitz gives people something to use in the meantime.\n\n\n\n",
+  "authors": ["Daniel Duley <daniel.duley@verizon.net>"],
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libqimageblitz4",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "libqimageblitz4-0.0.4-106.1.src.rpm"
+      }
+    }
+  }
+}

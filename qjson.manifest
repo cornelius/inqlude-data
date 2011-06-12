@@ -1,28 +1,23 @@
 {
+  "schema_version": 1,
+  "name": "qjson",
   "version": "0.7.1",
-  "summary": "QJson is a qt-based library that maps JSON data to QVariant objects",
-  "homepage": "http://qjson.sourceforge.net",
+  "summary": "Development files for QJson",
+  "homepage": "http://qjson.sourceforge.net/",
   "license": "LGPL",
-  "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format.\nIt can represent integer, real number, string, an ordered sequence of value,\nand a collection of name/value pairs. QJson is a qt-based library that maps\nJSON data to QVariant objects. JSON arrays will be mapped to QVariantList\ninstances, while JSON's objects will be mapped to QVariantMap.\n",
-  "apidocs": "",
+  "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format.\nIt can represent integer, real number, string, an ordered sequence of value,\nand a collection of name/value pairs. QJson is a qt-based library that maps\nJSON data to QVariant objects. JSON arrays will be mapped to QVariantList\ninstances, while JSON's objects will be mapped to QVariantMap.\n\nThis package contains files for developing applications using QJson.\n\n",
+  "authors": ["Flavio Castelli <flavio@castelli.name>"],
+  "maturity": "stable",
   "packages": {
-    "source": {
-      "url": "http://sourceforge.net/projects/qjson/files/qjson/0.7.1/qjson-0.7.1.tar.bz2/download"
-    },
     "openSUSE": {
-      "11.4" : {
+      "11.4": {
+        "package_name": "libqjson-devel",
         "repository": {
           "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
-          "name": "openSUSE:11.4"
+          "name": "openSUSE-11.4-Oss"
         },
-        "package_name": "libqjson0"
+        "source_rpm": "libqjson-0.7.1-9.3.src.rpm"
       }
     }
-  },
-  "authors": [
-    "Flavio Castelli"
-  ],
-  "name": "qjson",
-  "maturity": "stable",
-  "schema_version": 1
+  }
 }

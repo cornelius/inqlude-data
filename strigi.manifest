@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "strigi",
+  "version": "0.7.3.99",
+  "summary": "Lightweight and fast desktop search engine",
+  "homepage": "http://www.vandenoever.info/software/strigi/",
+  "license": "GPLv2+ ; LGPLv2.1+",
+  "description": "strigi is a very fast crawling, very small memory footprint, no\nhammering of the system with pluggable backend desktop search engine.\n\n\n\n",
+  "authors": ["Jos van den Oever <jos@vandenoever.info>","Ben van Klinken <bvanklinken@gmail.com>","Flavio Castelli <micron@madlab.it>"],
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libstrigi0",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "strigi-0.7.3.99-9.2.src.rpm"
+      }
+    }
+  }
+}

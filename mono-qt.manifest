@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "name": "kdepim4",
-  "version": "4.4.10",
-  "summary": "KDE PIM Libraries",
-  "homepage": "http://www.kde.org",
+  "name": "mono-qt",
+  "version": "4.6.0",
+  "summary": "Bindings for Qt4 libraries",
+  "homepage": "(none)",
   "license": "LGPLv2.1+",
-  "description": "This package contains the basic packages for KDE PIM applications.\n",
+  "description": "Shared library for the Mono bindings for the Qt4 toolkit.\n",
   "authors": [],
   "maturity": "stable",
   "packages": {
     "openSUSE": {
       "11.4": {
-        "package_name": "libkdepim4",
+        "package_name": "libqyoto2",
         "repository": {
           "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
           "name": "openSUSE-11.4-Oss"
         },
-        "source_rpm": "kdepim4-4.4.10-3.2.src.rpm"
+        "source_rpm": "mono-kde4-4.6.0-3.4.src.rpm"
       }
     }
   }

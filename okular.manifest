@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "name": "kdepimlibs4",
+  "name": "okular",
   "version": "4.6.0",
-  "summary": "KDE PIM Libraries",
+  "summary": "Library to manipulate picture meta data",
   "homepage": "http://www.kde.org",
-  "license": "LGPLv2.1+",
-  "description": "This package contains the basic libraries for KDE PIM applications.\n\n\n\n",
-  "authors": ["The KDE Team <kde@kde.org>"],
+  "license": "GPLv2+",
+  "description": "Libkexiv2 is a wrapper around Exiv2 library to manipulate pictures\nmetadata.\n",
+  "authors": [],
   "maturity": "stable",
   "packages": {
     "openSUSE": {
       "11.4": {
-        "package_name": "libkdepimlibs4",
+        "package_name": "libkexiv2-9",
         "repository": {
           "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
           "name": "openSUSE-11.4-Oss"
         },
-        "source_rpm": "kdepimlibs4-4.6.0-4.7.1.src.rpm"
+        "source_rpm": "kdegraphics4-4.6.0-6.9.2.src.rpm"
       }
     }
   }

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "qtweetlib",
+  "version": "1306193028",
+  "summary": "C++ Qt based Twitter library",
+  "homepage": "https://github.com/minimoog/QTweetLib",
+  "license": "GPLv2",
+  "description": "C++ Qt based Twitter library.\n",
+  "authors": [],
+  "maturity": "stable",
+  "packages": {
+    "openSUSE": {
+      "11.4": {
+        "package_name": "libQTweetLib0_0",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "qtweetlib-1306193028-4.1.src.rpm"
+      }
+    }
+  }
+}

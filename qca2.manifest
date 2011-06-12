@@ -1,4 +1,5 @@
 {
+  "schema_version": 1,
   "name": "qca2",
   "version": "2.0.2",
   "summary": "Qt Cryptographic Architecture 2",
@@ -10,7 +11,12 @@
   "packages": {
     "openSUSE": {
       "11.4": {
-        "package_name": "libqca2"
+        "package_name": "libqca2",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "libqca2-2.0.2-11.1.src.rpm"
       }
     }
   }

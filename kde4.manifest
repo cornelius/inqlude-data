@@ -1,4 +1,5 @@
 {
+  "schema_version": 1,
   "name": "kde4",
   "version": "4.6.0",
   "summary": "KDE Base Libraries",
@@ -10,7 +11,12 @@
   "packages": {
     "openSUSE": {
       "11.4": {
-        "package_name": "libkde4"
+        "package_name": "libkde4",
+        "repository": {
+          "url": "http://download.opensuse.org/distribution/11.4/repo/oss/",
+          "name": "openSUSE-11.4-Oss"
+        },
+        "source_rpm": "kdelibs4-4.6.0-6.11.1.src.rpm"
       }
     }
   }
