@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "name": "okular",
+  "release_date": "1970-01-01",
   "version": "4.6.0",
   "summary": "Library to manipulate picture meta data",
   "homepage": "http://www.kde.org",
-  "license": "GPLv2+",
+  "licenses": ["GPLv2+"],
   "description": "Libkexiv2 is a wrapper around Exiv2 library to manipulate pictures\nmetadata.\n",
   "authors": [],
   "maturity": "stable",

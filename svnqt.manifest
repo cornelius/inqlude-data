@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "name": "svnqt",
+  "release_date": "1970-01-01",
   "version": "1.5.5",
   "summary": "KDE Subversion Client",
   "homepage": "http://www.alwins-world.de/programs/kdesvn/index.html",
-  "license": "GPLv2+",
+  "licenses": ["GPLv2+"],
   "description": "kdesvn is a GUI client for subversion repositories.\n\n\n\n",
   "authors": ["Rajko Albrecht <ral@alwins-world.de>"],
   "maturity": "stable",

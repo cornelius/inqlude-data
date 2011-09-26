@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "name": "phonon",
+  "release_date": "1970-01-01",
   "version": "4.4.4",
   "summary": "Phonon Multimedia Platform Abstraction",
   "homepage": "http://phonon.kde.org/",
-  "license": "LGPLv2.0+",
+  "licenses": ["LGPLv2.0+"],
   "description": "Phonon is a cross-platform portable Multimedia Support Abstraction,\nwhich allows you to play multiple audio or video formats with the same\nquality on all platforms, no matter which underlying architecture is\nused.\n",
   "authors": [],
   "maturity": "stable",

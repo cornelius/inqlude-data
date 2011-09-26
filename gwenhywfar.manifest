@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "name": "gwenhywfar",
+  "release_date": "1970-01-01",
   "version": "4.0.4",
   "summary": "Multiplatform Helper Library for Other Libraries -- Qt UI Backend",
   "homepage": "http://gwenhywfar.sourceforge.net/",
-  "license": "LGPLv2.1+",
+  "licenses": ["LGPLv2.1+"],
   "description": "Gwenhywfar is a base library used to provide OS abstraction functions\nfor Linux, FreeBSD, OpenBSD, NetBSD, and Windows. It also includes\nsome often needed functions (for example, for handling and parsing of\nconfiguration files, reading and writing of XML files, and interprocess\ncommunication).\n\nThis package provides the Qt implementation of the generic UI toolkit.\n",
   "authors": [],
   "maturity": "stable",

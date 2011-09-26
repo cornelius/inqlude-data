@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "name": "qwt",
+  "release_date": "1970-01-01",
   "version": "5.2.1",
   "summary": "Shared library for Qt Widgets",
   "homepage": "http://qwt.sourceforge.net/",
-  "license": "Qwt License 1.0",
+  "licenses": ["Qwt License 1.0"],
   "description": "This package contains the shared library to run Technical Applications\ndeveloped with/for Qwt.\n\n",
   "authors": ["Uwe Rathmann","Josef Wilgen ( <= Qwt 0.2 )"],
   "maturity": "stable",

@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "name": "SoQt",
+  "release_date": "1970-01-01",
   "version": "1.5.0",
   "summary": "SoQt is a library which provides the glue between Coin and Qt",
   "homepage": "http://www.coin3d.org/lib/soqt",
-  "license": "GPL",
+  "licenses": ["GPL"],
   "description": "By using the combination of Coin, Qt and SoQt for your 3D applications, you\nhave a framework for writing completely portable software across the whole range\nof UNIX, Linux, Microsoft Windows and Mac OS X operating systems. Coin, Qt and\nSoQt makes this possible from a 100% common codebase, which means there is a\nminimum of hassle for developers when working on multiplatform software, with\nthe resulting large gains in productivity.\n",
   "authors": [],
   "maturity": "stable",

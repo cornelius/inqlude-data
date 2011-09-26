@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "name": "qwtplot3d",
+  "release_date": "1970-01-01",
   "version": "0.2.7",
   "summary": "QwtPlot3D a feature-rich Qt/OpenGL-based C++ programming library",
   "homepage": "http://qwtplot3d.sourceforge.net/",
-  "license": "GPL",
+  "licenses": ["GPL"],
   "description": "QwtPlot3D is not a  program, but a feature-rich Qt/OpenGL-based C++\nprogramming library. She provides essentially a  bunch of 3D-widgets\nfor programmers. The library is zlib licensed.\n",
   "authors": [],
   "maturity": "stable",

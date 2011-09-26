@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "name": "botan",
+  "release_date": "1970-01-01",
   "version": "1.8.10",
   "summary": "A C++ Crypto Library",
   "homepage": "http://botan.randombit.net",
-  "license": "BSD3c",
+  "licenses": ["BSD3c"],
   "description": "Botan is a C++ library that provides support for many common\ncryptographic operations, including encryption, authentication, and\nX.509v3 certificates and CRLs. A wide variety of algorithms is\nsupported, including RSA, DSA, DES, AES, MD5, and SHA-1.\n\n\n\n",
   "authors": ["Jack Lloyd <lloyd@randombit.net>"],
   "maturity": "stable",
