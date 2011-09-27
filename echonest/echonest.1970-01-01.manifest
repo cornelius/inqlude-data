@@ -4,7 +4,9 @@
   "release_date": "1970-01-01",
   "version": "1.1.8",
   "summary": "Qt library for communicating with The Echo Nest",
-  "homepage": "https://projects.kde.org/libechonest",
+  "urls": {
+    "homepage": "https://projects.kde.org/libechonest"
+  },
   "licenses": ["LGPL"],
   "description": "It currently supports almost all of the features of the Echo Nest API, including all the API functions.\n",
   "authors": [],

@@ -4,7 +4,9 @@
   "release_date": "1970-01-01",
   "version": "0.2.0",
   "summary": "Open Collaboration Service client library - development files",
-  "homepage": "http://websvn.kde.org/trunk/kdesupport/attica",
+  "urls": {
+    "homepage": "http://websvn.kde.org/trunk/kdesupport/attica"
+  },
   "licenses": ["LGPLv2.1+"],
   "description": "Attica is a library to access Open Collaboration Service servers.\n\n\n\n",
   "authors": ["Cornelius Schumacher <schumacher@kde.org>","Frederik Gladhorn <gladhorn@kde.org>"],

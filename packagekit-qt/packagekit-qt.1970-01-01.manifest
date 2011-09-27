@@ -4,7 +4,9 @@
   "release_date": "1970-01-01",
   "version": "0.6.14",
   "summary": "Simple software installation management software",
-  "homepage": "http://packagekit.org/",
+  "urls": {
+    "homepage": "http://packagekit.org/"
+  },
   "licenses": ["GPLv2+"],
   "description": "PackageKit is a system designed to make installing and updating\nsoftware on your computer easier.  The primary design goal is to unify\nall the software graphical tools used in different distributions, and\nuse some of the latest technology like PolicyKit to make the process\nsuck less.\n",
   "authors": [],

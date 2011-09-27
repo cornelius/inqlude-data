@@ -4,7 +4,9 @@
   "release_date": "1970-01-01",
   "version": "1306193028",
   "summary": "C++ Qt based Twitter library",
-  "homepage": "https://github.com/minimoog/QTweetLib",
+  "urls": {
+    "homepage": "https://github.com/minimoog/QTweetLib"
+  },
   "licenses": ["GPLv2"],
   "description": "C++ Qt based Twitter library.\n",
   "authors": [],

@@ -4,7 +4,9 @@
   "release_date": "1970-01-01",
   "version": "4.7.1",
   "summary": "C++ Program Library, Core Components",
-  "homepage": "http://www.qtsoftware.com",
+  "urls": {
+    "homepage": "http://www.qtsoftware.com"
+  },
   "licenses": ["GPLv3","LGPLv2.1+"],
   "description": "Qt is a set of libraries for developing applications.\n\nThis package contains base tools, like string, xml, and network\nhandling.\n\n\n\n",
   "authors": ["Qt Software"],

@@ -4,7 +4,9 @@
   "release_date": "1970-01-01",
   "version": "0.14.4",
   "summary": "PDF Rendering Library - Qt4 Wrapper",
-  "homepage": "http://poppler.freedesktop.org/",
+  "urls": {
+    "homepage": "http://poppler.freedesktop.org/"
+  },
   "licenses": ["GPLv2+"],
   "description": "Poppler is a PDF rendering library, forked from the xpdf PDF viewer\ndeveloped by Derek Noonburg of Glyph and Cog, LLC.\n",
   "authors": [],
