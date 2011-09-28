@@ -11,6 +11,7 @@
   "description": "QwtPlot3D is not a  program, but a feature-rich Qt/OpenGL-based C++\nprogramming library. She provides essentially a  bunch of 3D-widgets\nfor programmers. The library is zlib licensed.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

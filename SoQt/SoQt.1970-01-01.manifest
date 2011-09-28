@@ -11,6 +11,7 @@
   "description": "By using the combination of Coin, Qt and SoQt for your 3D applications, you\nhave a framework for writing completely portable software across the whole range\nof UNIX, Linux, Microsoft Windows and Mac OS X operating systems. Coin, Qt and\nSoQt makes this possible from a 100% common codebase, which means there is a\nminimum of hassle for developers when working on multiplatform software, with\nthe resulting large gains in productivity.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

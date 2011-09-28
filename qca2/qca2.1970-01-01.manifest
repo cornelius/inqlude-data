@@ -11,6 +11,7 @@
   "description": "This package provides a generic Qt cryptographic architecture,\nincluding a library and a plug-in for using all supported capabilities\nof openssl, like SSL/TLS, X509, RSA, SHA1, MD5, Blowfish, 3DES, and\nAES.\n\nIt can be extended by further plug-ins, for example, with qca-sasl for\nSASL support.\n\n\n\n",
   "authors": ["Justin Karneges <justin@affinix.com>"],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

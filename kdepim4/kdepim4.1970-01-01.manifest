@@ -11,6 +11,7 @@
   "description": "This package contains the basic packages for KDE PIM applications.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

@@ -11,6 +11,7 @@
   "description": "Shared library for the Mono bindings for the Qt4 toolkit.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

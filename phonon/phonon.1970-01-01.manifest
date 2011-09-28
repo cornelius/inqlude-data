@@ -11,6 +11,7 @@
   "description": "Phonon is a cross-platform portable Multimedia Support Abstraction,\nwhich allows you to play multiple audio or video formats with the same\nquality on all platforms, no matter which underlying architecture is\nused.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

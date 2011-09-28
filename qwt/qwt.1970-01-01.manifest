@@ -11,6 +11,7 @@
   "description": "This package contains the shared library to run Technical Applications\ndeveloped with/for Qwt.\n\n",
   "authors": ["Uwe Rathmann","Josef Wilgen ( <= Qwt 0.2 )"],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

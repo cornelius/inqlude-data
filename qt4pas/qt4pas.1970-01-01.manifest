@@ -11,6 +11,7 @@
   "description": "Provide a Qt4 binding for FreePascal that may be of use\nto provide the Lazarus LCL library with a Qt interface.\n\nThis package contains the shared library for package qt4pas.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

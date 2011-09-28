@@ -11,6 +11,7 @@
   "description": "ProjectM-qt is a GUI designed to enhance the projectM user and preset writer.\nexperience. I could say it's the best direction for projectM and that's why I.\nwrote it, but it was really a curious digression in Qt4.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

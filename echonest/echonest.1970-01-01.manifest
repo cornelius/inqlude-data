@@ -11,6 +11,7 @@
   "description": "It currently supports almost all of the features of the Echo Nest API, including all the API functions.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

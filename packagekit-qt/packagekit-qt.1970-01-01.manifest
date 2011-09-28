@@ -11,6 +11,7 @@
   "description": "PackageKit is a system designed to make installing and updating\nsoftware on your computer easier.  The primary design goal is to unify\nall the software graphical tools used in different distributions, and\nuse some of the latest technology like PolicyKit to make the process\nsuck less.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

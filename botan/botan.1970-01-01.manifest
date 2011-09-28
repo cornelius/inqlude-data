@@ -11,6 +11,7 @@
   "description": "Botan is a C++ library that provides support for many common\ncryptographic operations, including encryption, authentication, and\nX.509v3 certificates and CRLs. A wide variety of algorithms is\nsupported, including RSA, DSA, DES, AES, MD5, and SHA-1.\n\n\n\n",
   "authors": ["Jack Lloyd <lloyd@randombit.net>"],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

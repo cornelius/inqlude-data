@@ -11,6 +11,7 @@
   "description": "Gwenhywfar is a base library used to provide OS abstraction functions\nfor Linux, FreeBSD, OpenBSD, NetBSD, and Windows. It also includes\nsome often needed functions (for example, for handling and parsing of\nconfiguration files, reading and writing of XML files, and interprocess\ncommunication).\n\nThis package provides the Qt implementation of the generic UI toolkit.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

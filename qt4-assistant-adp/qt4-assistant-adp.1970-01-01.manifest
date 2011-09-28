@@ -11,6 +11,7 @@
   "description": "You need this package, if you want to compile programs with Qt. It\ncontains the \"Qt Crossplatform Development Kit\". It does contain\ninclude files and development applications like GUI designers,\ntranslator tools and code generators.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

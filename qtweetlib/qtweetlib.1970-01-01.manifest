@@ -11,6 +11,7 @@
   "description": "C++ Qt based Twitter library.\n",
   "authors": [],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

@@ -11,6 +11,7 @@
   "description": "Qt is a set of libraries for developing applications.\n\nThis package contains base tools, like string, xml, and network\nhandling.\n\n\n\n",
   "authors": ["Qt Software"],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {

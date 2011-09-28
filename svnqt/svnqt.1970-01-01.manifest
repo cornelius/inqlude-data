@@ -11,6 +11,7 @@
   "description": "kdesvn is a GUI client for subversion repositories.\n\n\n\n",
   "authors": ["Rajko Albrecht <ral@alwins-world.de>"],
   "maturity": "stable",
+  "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {
       "11.4": {
