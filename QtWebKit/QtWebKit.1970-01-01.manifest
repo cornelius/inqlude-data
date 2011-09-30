@@ -2,16 +2,17 @@
   "schema_version": 1,
   "name": "QtWebKit",
   "release_date": "1970-01-01",
-  "version": "4.7.1",
-  "summary": "C++ Program Library, Core Components",
+  "version": "2.0",
+  "summary": "Qt port of WebKit",
   "urls": {
-    "homepage": "http://www.qtsoftware.com"
+    "homepage": "http://trac.webkit.org/wiki/QtWebKit",
+    "api_docs": "http://doc.qt.nokia.com/latest/qtwebkit.html"
   },
   "licenses": ["GPLv3","LGPLv2.1+"],
-  "description": "Qt is a set of libraries for developing applications.\n\nThis package contains base tools, like string, xml, and network\nhandling.\n\n\n\n",
+  "description": "WebKit is an open source web browser engine. WebKit's HTML and JavaScript code began as a branch of the KHTML and KJS libraries from KDE. As part of KDE framework KHTML was based on Qt but during their porting efforts Apple's engineers made WebKit toolkit independent. QtWebKit is a project aiming at porting this fabulous engine back to Qt.\n\nQtWebKit 2.0 is released as part of Qt 4.7.",
   "authors": ["Qt Software"],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [ "Linux","Windows","MacOS","Symbian" ],
   "packages": {
     "openSUSE": {
       "11.4": {

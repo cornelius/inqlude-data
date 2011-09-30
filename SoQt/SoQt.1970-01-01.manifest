@@ -3,15 +3,16 @@
   "name": "SoQt",
   "release_date": "1970-01-01",
   "version": "1.5.0",
-  "summary": "SoQt is a library which provides the glue between Coin and Qt",
+  "summary": "Qt interface for 3D visualization libary Coin",
   "urls": {
-    "homepage": "http://www.coin3d.org/lib/soqt"
+    "homepage": "http://www.coin3d.org/lib/soqt",
+    "api_docs": "http://doc.coin3d.org/SoQt/"
   },
   "licenses": ["GPL"],
   "description": "By using the combination of Coin, Qt and SoQt for your 3D applications, you\nhave a framework for writing completely portable software across the whole range\nof UNIX, Linux, Microsoft Windows and Mac OS X operating systems. Coin, Qt and\nSoQt makes this possible from a 100% common codebase, which means there is a\nminimum of hassle for developers when working on multiplatform software, with\nthe resulting large gains in productivity.\n",
   "authors": [],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [ "Linux","Windows","MacOS" ],
   "packages": {
     "openSUSE": {
       "11.4": {
