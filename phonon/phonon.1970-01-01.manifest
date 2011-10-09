@@ -1,15 +1,19 @@
 {
   "schema_version": 1,
   "name": "phonon",
-  "release_date": "1970-01-01",
+  "release_date": "2011-01-21",
   "version": "4.4.4",
   "summary": "Phonon Multimedia Platform Abstraction",
   "urls": {
-    "homepage": "http://phonon.kde.org/"
-  },
+    "homepage": "http://phonon.kde.org/",
+    "tutorial": "http://techbase.kde.org/Development/Tutorials/Phonon/Introduction",
+    "vcs": "https://projects.kde.org/projects/kdesupport/phonon",
+    "api_docs": "http://api.kde.org/kdesupport-api/phonon-apidocs/phonon/html/index.html",
+    "download": "ftp://ftp.kde.org/pub/kde/stable/phonon/"
+ },
   "licenses": ["LGPLv2.0+"],
   "description": "Phonon is a cross-platform portable Multimedia Support Abstraction,\nwhich allows you to play multiple audio or video formats with the same\nquality on all platforms, no matter which underlying architecture is\nused.\n",
-  "authors": [],
+  "authors": [ "Harald Sitter <sitter@kde.org>" ],
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {

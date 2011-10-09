@@ -3,13 +3,13 @@
   "name": "qtweetlib",
   "release_date": "1970-01-01",
   "version": "1306193028",
-  "summary": "C++ Qt based Twitter library",
+  "summary": "Library to access Twitter",
   "urls": {
     "homepage": "https://github.com/minimoog/QTweetLib"
   },
   "licenses": ["GPLv2"],
-  "description": "C++ Qt based Twitter library.\n",
-  "authors": [],
+  "description": "Library to access the Twitter API from Qt applications",
+  "authors": [ "Toni Jovanoski <minimoog77@gmail.com>" ],
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {

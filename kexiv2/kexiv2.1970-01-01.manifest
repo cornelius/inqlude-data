@@ -1,15 +1,20 @@
 {
   "schema_version": 1,
-  "name": "kexiv2",
-  "release_date": "1970-01-01",
+  "name": "libkexiv2",
+  "release_date": "2011-01-26",
   "version": "4.6.0",
-  "summary": "Library to manipulate picture meta data",
+  "summary": "Qt bindings for Exiv2, the library to manipulate picture meta data",
   "urls": {
-    "homepage": "http://www.kde.org"
+    "homepage": "https://projects.kde.org/projects/kde/kdegraphics/libs/libkexiv2",
+    "api_docs": "http://api.kde.org/4.x-api/kdegraphics-apidocs/libs/libkexiv2/libkexiv2/html/index.html",
+    "vcs": "https://projects.kde.org/projects/kde/kdegraphics/libs/libkexiv2/repository",
+    "custom": {
+      "Exiv2": "http://www.exiv2.org/"
+    }
   },
   "licenses": ["GPLv2+"],
   "description": "Libkexiv2 is a wrapper around Exiv2 library to manipulate pictures\nmetadata.\n",
-  "authors": [],
+  "authors": [ "Gilles Caulier", "Marcel Wiesweg <marcel.wiesweg@gmx.de>" ],
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {

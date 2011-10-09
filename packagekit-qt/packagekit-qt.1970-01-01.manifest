@@ -1,15 +1,16 @@
 {
   "schema_version": 1,
   "name": "packagekit-qt",
-  "release_date": "1970-01-01",
+  "release_date": "2011-05-04",
   "version": "0.6.14",
-  "summary": "Simple software installation management software",
+  "summary": "Qt bindings for PackageKit, the backend for managing software installation",
   "urls": {
-    "homepage": "http://packagekit.org/"
+    "homepage": "http://packagekit.org/",
+    "vcs": "http://gitorious.org/packagekit/packagekit/trees/master/lib/packagekit-qt"
   },
   "licenses": ["GPLv2+"],
-  "description": "PackageKit is a system designed to make installing and updating\nsoftware on your computer easier.  The primary design goal is to unify\nall the software graphical tools used in different distributions, and\nuse some of the latest technology like PolicyKit to make the process\nsuck less.\n",
-  "authors": [],
+  "description": "PackageKit is a system designed to make installing and updating\nsoftware on your computer easier. The primary design goal is to unify\nall the software graphical tools used in different distributions, and provide a common backend. This library provides Qt bindings for PackageKit.\n",
+  "authors": [ "Adrien Bustany <madcat@mymadcat.com>" ],
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {

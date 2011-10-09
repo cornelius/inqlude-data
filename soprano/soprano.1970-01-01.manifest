@@ -1,16 +1,19 @@
 {
   "schema_version": 1,
   "name": "soprano",
-  "release_date": "1970-01-01",
+  "release_date": "2010-11-23",
   "version": "2.5.63",
-  "summary": "C++/Qt based interface library for RDF",
+  "summary": "Qt/C++ RDF framework",
   "urls": {
-    "homepage": "http://soprano.sourceforge.net/"
+    "homepage": "http://soprano.sourceforge.net/",
+    "download": "http://sourceforge.net/projects/soprano/files/Soprano/",
+    "api_docs": "http://soprano.sourceforge.net/apidox/stable/index.html",
+    "vcs": "http://quickgit.kde.org/?p=soprano.git&a=summary"
   },
   "licenses": ["LGPLv2.1+"],
   "description": "Soprano is an open and pluggable RDF resource framework which is build\non top of QT4. It provides RDF storage, RDF parsing, serialization,\ninference, and full text indexing in a nice C++ API. The main target of\nSoprano are desktop applications as it is being developed as a\nsubroject of Nepomuk, the semantic desktop initiative.\n\n\n\n",
   "authors": ["Daniele Galdi <daniele.galdi@gmail.com>","Sebastian Trueg <trueg@kde.org>"],
-  "maturity": "stable",
+  "maturity": "beta",
   "platforms": [ "Linux" ],
   "packages": {
     "openSUSE": {

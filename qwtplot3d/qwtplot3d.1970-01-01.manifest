@@ -1,15 +1,18 @@
 {
   "schema_version": 1,
   "name": "qwtplot3d",
-  "release_date": "1970-01-01",
+  "release_date": "2007-06-25",
   "version": "0.2.7",
-  "summary": "QwtPlot3D a feature-rich Qt/OpenGL-based C++ programming library",
+  "summary": "3D plot widgets",
   "urls": {
-    "homepage": "http://qwtplot3d.sourceforge.net/"
+    "homepage": "http://qwtplot3d.sourceforge.net/",
+    "api_docs": "http://qwtplot3d.sourceforge.net/current/web/doxygen/hierarchy.html",
+    "download": "http://sourceforge.net/projects/qwtplot3d/files/qwtplot3d/",
+    "vcs": "http://qwtplot3d.svn.sourceforge.net/viewvc/qwtplot3d/"
   },
-  "licenses": ["GPL"],
-  "description": "QwtPlot3D is not a  program, but a feature-rich Qt/OpenGL-based C++\nprogramming library. She provides essentially a  bunch of 3D-widgets\nfor programmers. The library is zlib licensed.\n",
-  "authors": [],
+  "licenses": ["zlib"],
+  "description": "QwtPlot3D is a Qt/OpenGL-based C++\nprogramming library. It provides a set of 3D plot widgets.",
+  "authors": [ "Michael Bieber" ],
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {

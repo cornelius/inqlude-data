@@ -3,9 +3,12 @@
   "name": "polkit-qt-1",
   "release_date": "1970-01-01",
   "version": "0.99.1",
-  "summary": "PolicyKit Library Qt Bindings",
+  "summary": "Qt bindings for PolicyKit",
   "urls": {
-    "homepage": "http://api.kde.org/kdesupport-api/kdesupport-apidocs/polkit-qt/html/"
+    "homepage": "https://projects.kde.org/projects/kdesupport/polkit-qt-1",
+    "vcs": "https://projects.kde.org/projects/kdesupport/polkit-qt-1/repository",
+    "api_docs": "http://api.kde.org/kdesupport-api/polkit-qt-1-apidocs/",
+    "download": "ftp://ftp.kde.org/pub/kde/stable/apps/KDE4.x/admin/"
   },
   "licenses": ["LGPLv2.1+"],
   "description": "Polkit-qt aims to make it easy for Qt developers to take advantage of\nPolicyKit API. It is a convenience wrapper around QAction and\nQAbstractButton that lets you integrate those two components easily\nwith PolicyKit.\n\n\n\n",
