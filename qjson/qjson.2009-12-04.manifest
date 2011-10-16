@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "qjson",
-  "release_date": "1970-01-01",
+  "release_date": "2009-12-04",
   "version": "0.7.1",
   "summary": "JSON parser for Qt",
   "urls": {

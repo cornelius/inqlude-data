@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "polkit-qt-1",
-  "release_date": "1970-01-01",
+  "release_date": "2010-12-08",
   "version": "0.99.1",
   "summary": "Qt bindings for PolicyKit",
   "urls": {

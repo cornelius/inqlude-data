@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "qtweetlib",
-  "release_date": "1970-01-01",
+  "release_date": "2010-10-13",
   "version": "1306193028",
   "summary": "Library to access Twitter",
   "urls": {

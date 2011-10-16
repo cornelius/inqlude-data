@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "strigi",
-  "release_date": "1970-01-01",
+  "release_date": "2011-01-18",
   "version": "0.7.3.99",
   "summary": "Lightweight and fast desktop search engine",
   "urls": {
