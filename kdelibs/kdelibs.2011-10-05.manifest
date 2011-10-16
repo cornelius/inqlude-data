@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "name": "kdelibs",
+  "release_date": "2011-10-05",
+  "version": "4.7.2",
+  "summary": "KDE Development Platform",
+  "urls": {
+    "homepage": "http://techbase.kde.org",
+    "api_docs": "http://api.kde.org/4.7-api/kdelibs-apidocs/",
+    "tutorial": "http://techbase.kde.org/Development/Tutorials",
+    "vcs": "https://projects.kde.org/projects/kde/kdelibs/repository"
+  },
+  "licenses": ["LGPLv2.1+"],
+  "description": "The KDE Development Platform provides a powerful framework for writing desktop applications and more. Among other things, the KDE libraries provide standard user interface elements, handling of confiugration data, site-independent access to standard resources, network transparent input and output, embedding of application components, multimedia and hardware interaction, semantic information and tagging, advanced thread handling, and a framework for graphical desktop widgets.",
+  "authors": ["The KDE Team <kde@kde.org>"],
+  "maturity": "stable",
+  "platforms": [ "Linux", "Windows", "MacOS" ],
+  "packages": {
+    "source": "ftp://ftp.kde.org/pub/kde/stable/4.7.2/src/kdelibs-4.7.2.tar.bz2"
+  }
+}
