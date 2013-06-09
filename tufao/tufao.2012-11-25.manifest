@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "tufao",
+  "release_date": "2012-1-14",
+  "version": "5.2.1",
+  "summary": "An asynchronous web framework for C++ built on top of Qt",
+  "urls": {
+    "homepage": "http://tufao.googlecode.com/",
+    "vcs": "http://code.google.com/p/tufao/source/checkout",
+    "download": "http://code.google.com/p/tufao/downloads/list",
+    "api_docs": "http://code.google.com/p/tufao/wiki/Doxygen"
+  },
+  "licenses": ["LGPLv2 or any later"],
+  "description": "Tufão is a web framework for C++ that makes use of Qt's object communication system (signals & slots). It features a high performance standalone server, good documentation, support for modern HTTP features (e.g. WebSocket), a flexible request router, a full-featured file server, a plugin-based server to allow to change the running code without restart the application, among other...",
+  "authors": ["Vinícius dos Santos Oliveira <vini.ipsmaker@gmail.com>"],
+  "maturity": "stable",
+  "platforms": [ "Linux", "Windows", "MacOS" ]
+}
