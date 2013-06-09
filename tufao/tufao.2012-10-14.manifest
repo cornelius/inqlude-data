@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "name": "tufao",
-  "release_date": "2012-1-14",
-  "version": "5.2.1",
+  "release_date": "2012-10-14",
+  "version": "0.4.1",
   "summary": "An asynchronous web framework for C++ built on top of Qt",
   "urls": {
     "homepage": "http://tufao.googlecode.com/",
