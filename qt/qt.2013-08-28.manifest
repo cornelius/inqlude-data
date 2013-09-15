@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "name": "qt",
+  "release_date": "2013-08-28",
+  "version": "5.1.1",
+  "summary": "Cross-platform application and UI framework",
+  "urls": {
+    "homepage": "http://qt-project.org",
+    "download": "http://qt-project.org/downloads",
+    "api_docs": "http://qt-project.org/doc/qt-5.1/qtdoc/index.html",
+    "tutorial": "http://qt-project.org/doc/qt-5.1/qtdoc/qtexamplesandtutorials.html",
+    "vcs": "http://qt.gitorious.org/qt"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv2.1+"
+  ],
+  "description": "Qt is a cross-platform application and UI framework. It provides a rich set of C++ libraries with building blocks for application and UI programming, including UI widget components and declarative UI support, handling of network access, XML support, and more.",
+  "authors": [
+    "Digia"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "packages": {
+    "source": "http://download.qt-project.org/official_releases/qt/5.1/5.1.1/single/qt-everywhere-opensource-src-5.1.1.tar.gz"
+  }
+}

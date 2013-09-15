@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "name": "qjson",
+  "release_date": "2012-11-27",
+  "version": "0.8.1",
+  "summary": "JSON parser for Qt",
+  "urls": {
+    "homepage": "http://qjson.sourceforge.net/",
+    "api_docs": "http://qjson.sourceforge.net/docs/index.html",
+    "vcs": "https://github.com/flavio/qjson",
+    "download": "https://github.com/flavio/qjson/releases"
+  },
+  "licenses": [
+    "LGPL"
+  ],
+  "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format.\nIt can represent integer, real number, string, an ordered sequence of value,\nand a collection of name/value pairs. QJson is a qt-based library that maps\nJSON data to QVariant objects. JSON arrays will be mapped to QVariantList\ninstances, while JSON's objects will be mapped to QVariantMap.\n\n",
+  "authors": [
+    "Flavio Castelli <flavio@castelli.name>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://github.com/flavio/qjson/archive/0.8.1.tar.gz"
+  }
+}

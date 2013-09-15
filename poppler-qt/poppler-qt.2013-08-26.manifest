@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "name": "poppler-qt",
+  "release_date": "2013-08-26",
+  "version": "0.24.1",
+  "summary": "Qt bindings for Qt, the PDF rendering library",
+  "urls": {
+    "homepage": "http://poppler.freedesktop.org/",
+    "vcs": "http://cgit.freedesktop.org/poppler/poppler/tree/qt4",
+    "download": "http://poppler.freedesktop.org/releases.html",
+    "api_docs": "http://people.freedesktop.org/~aacid/docs/qt4/"
+  },
+  "licenses": [
+    "GPLv2+"
+  ],
+  "description": "Poppler is a PDF rendering library, forked from the xpdf PDF viewer\ndeveloped by Derek Noonburg of Glyph and Cog, LLC. This library provides Qt bindings for Poppler.\n",
+  "authors": [
+    "Albert Astals Cid <aacid@kde.org>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://poppler.freedesktop.org/poppler-0.24.1.tar.xz"
+  }
+}

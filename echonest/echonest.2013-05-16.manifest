@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "name": "echonest",
+  "release_date": "2013-05-16",
+  "version": "2.1.0",
+  "summary": "Qt library for communicating with The Echo Nest",
+  "urls": {
+    "homepage": "https://projects.kde.org/libechonest",
+    "api_docs": "http://pwsp.cleinias.com/libechonest_api/",
+    "vcs": "https://projects.kde.org/projects/playground/libs/libechonest/repository"
+  },
+  "licenses": [
+    "LGPL"
+  ],
+  "description": "The Echo Nest is a music intelligence platform, which provides APIs to retrieve a wide variety of context information about music. libechonest currently supports almost all of the features of the Echo Nest API, including all the API functions.\n",
+  "authors": [
+    "Leo Franchi <lfranchi@kde.org>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://files.lfranchi.com/libechonest-2.1.0.tar.bz2"
+  }
+}

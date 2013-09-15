@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "qtweetlib",
+  "release_date": "2012-03-09",
+  "version": "0.5",
+  "summary": "Library to access Twitter",
+  "urls": {
+    "homepage": "https://github.com/minimoog/QTweetLib",
+    "download": "https://github.com/minimoog/QTweetLib/releases"
+  },
+  "licenses": [
+    "GPLv2"
+  ],
+  "description": "Library to access the Twitter API from Qt applications",
+  "authors": [
+    "Toni Jovanoski <minimoog77@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://github.com/minimoog/QTweetLib/archive/0.5.tar.gz"
+  }
+}

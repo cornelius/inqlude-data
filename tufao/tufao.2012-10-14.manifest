@@ -14,5 +14,8 @@
   "description": "Tufão is a web framework for C++ that makes use of Qt's object communication system (signals & slots). It features a high performance standalone server, good documentation, support for modern HTTP features (e.g. WebSocket), a flexible request router, a full-featured file server, a plugin-based server to allow to change the running code without restart the application, among other...",
   "authors": ["Vinícius dos Santos Oliveira <vini.ipsmaker@gmail.com>"],
   "maturity": "stable",
-  "platforms": [ "Linux", "Windows", "MacOS" ]
+  "platforms": [ "Linux", "Windows", "MacOS" ],
+  "packages": {
+    "source": "http://tufao.googlecode.com/files/tufao-0.4.1-src.tar.bz2"
+  }
 }

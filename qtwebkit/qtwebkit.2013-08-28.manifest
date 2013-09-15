@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "name": "qtwebkit",
+  "release_date": "2013-08-28",
+  "version": "5.1.1",
+  "summary": "Qt port of WebKit",
+  "urls": {
+    "homepage": "http://trac.webkit.org/wiki/QtWebKit",
+    "api_docs": "http://qt-project.org/doc/qt-5.1/qtwebkit/qtwebkit-index.html",
+    "download": "http://download.qt-project.org/official_releases/qt/"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv2.1+"
+  ],
+  "description": "WebKit is an open source web browser engine. WebKit's HTML and JavaScript code began as a branch of the KHTML and KJS libraries from KDE. As part of KDE framework KHTML was based on Qt but during their porting efforts Apple's engineers made WebKit toolkit independent. QtWebKit is a project aiming at porting this fabulous engine back to Qt.\n\nQtWebKit is released as part of Qt.",
+  "authors": [
+    "Digia"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "packages": {
+    "source": "http://download.qt-project.org/official_releases/qt/5.1/5.1.1/submodules/qtwebkit-opensource-src-5.1.1.tar.xz"
+  }
+}

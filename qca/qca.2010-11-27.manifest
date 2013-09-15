@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "name": "qca",
+  "release_date": "2010-11-27",
+  "version": "2.0.3",
+  "summary": "Qt Cryptographic Architecture",
+  "urls": {
+    "homepage": "http://delta.affinix.com/qca/",
+    "vcs": "http://websvn.kde.org/trunk/kdesupport/qca/",
+    "api_docs": "http://delta.affinix.com/docs/qca/",
+    "download": "http://delta.affinix.com/download/qca/2.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This package provides a generic Qt cryptographic architecture,\nincluding a library and a plug-in for using all supported capabilities\nof openssl, like SSL/TLS, X509, RSA, SHA1, MD5, Blowfish, 3DES, and\nAES.\n\nIt can be extended by further plug-ins, for example, with qca-sasl for\nSASL support.\n\n\n\n",
+  "authors": [
+    "Justin Karneges <justin@affinix.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://delta.affinix.com/download/qca/2.0/qca-2.0.3.tar.bz2"
+  }
+}
