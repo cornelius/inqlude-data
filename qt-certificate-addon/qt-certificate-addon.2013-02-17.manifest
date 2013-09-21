@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "name": "qt-certificate-addon",
+  "version": "edge",
+  "release_date": "2013-02-17",
+  "summary": "Qt Certificate Addon",
+  "urls": {
+    "homepage": "http://xmelegance.org/devel/qt-certificate-addon/",
+    "vcs": "https://gitorious.org/qt-certificate-addon"
+  },
+  "licenses": [
+    "LGPLv2.1"
+  ],
+  "description": "This is the start of some work to create a nice Qt-style API for creating SSL certificates. Unlike the QSsl classes in the QtNetwork module, it uses the gnutls library, but it automatically converts between the two, for example a created certificate is returned as a QSslCertificate.",
+  "maturity": "edge",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://gitorious.org/qt-certificate-addon/qt-certificate-addon/archive/f807e92da99d0a770d2bf22adff8b728dab83d29.tar.gz"
+  }
+}
