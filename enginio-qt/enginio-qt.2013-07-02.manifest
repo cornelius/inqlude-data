@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "name": "enginio-qt",
+  "release_date": "2013-07-02",
+  "version": "0.5.0",
+  "summary": "Enginio client library for Qt platfom. Provides both Qt C++ and QML APIs to client applications.",
+  "urls": {
+    "homepage": "https://engin.io/",
+    "vcs": "https://github.com/enginio/enginio-qt",
+    "contact": "http://qt.digia.com/contact-us"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv2.1"
+  ],
+  "description": "Enginio is a cloud-based service for storing and accessing backend data. enginio-qt provides a client library for accessing Enginio service from Qt and QML code.",
+  "authors": [
+    "Digia"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windos",
+    "OS X"
+  ],
+  "packages": {
+    "source": "https://github.com/enginio/enginio-qt/archive/0.5.0.tar.gz"
+  }
+}

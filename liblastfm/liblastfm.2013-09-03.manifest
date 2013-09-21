@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "liblastfm",
+  "release_date": "2013-09-03",
+  "version": "1.0.8",
+  "summary": "A Qt C++ library for the Last.fm webservices",
+  "urls": {
+    "homepage": "http://www.last.fm/download",
+    "vcs": "https://github.com/lastfm/liblastfm"
+  },
+  "licenses": [
+    "GPLv3"
+  ],
+  "description": "liblastfm is a collection of libraries to help you integrate Last.fm services into your rich desktop software. It is officially supported software developed by Last.fm staff.",
+  "authors": [
+    "Last.fm"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ],
+  "packages": {
+    "source": "https://github.com/lastfm/liblastfm/archive/1.0.8.tar.gz"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "vlc-qt",
+  "release_date": "2013-04-27",
+  "version": "0.8.1",
+  "summary": "VLC-Qt - a simple library to connect Qt application with libVLC",
+  "urls": {
+    "homepage": "http://projects.tano.si",
+    "vcs": "https://github.com/ntadej/vlc-qt"
+  },
+  "licenses": [
+    "LGPLv3"
+  ],
+  "description": "VLC-Qt is a free library used to connect Qt and libvlc libraries. It contains core classes for main media playback and also some GUI classes for faster media player developement.",
+  "authors": [
+    "Tadej Novak <tadej@tano.si>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux", "OS X", "Windows"
+  ],
+  "packages": {
+    "source": "https://github.com/ntadej/vlc-qt/archive/0.8.1.tar.gz"
+  }
+}
