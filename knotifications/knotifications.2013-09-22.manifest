@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "knotifications",
+  "version": "edge",
+  "release_date": "2013-09-22",
+  "summary": "User notification of events",
+  "urls": {
+    "vcs": "https://projects.kde.org/projects/kde/kdelibs/repository/revisions/frameworks/show/tier2/knotifications",
+    "homepage": "http://community.kde.org/Frameworks"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KNotification is a complete framework for user notifications. It allows to use different types of noticiations, such as persistent ones, and to configure details of the notifications, such as if a sound should be played, a passive popup, a script executed, etc. KNotifications supports the Freedesktop Notifications protocol.",
+  "maturity": "edge",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://anongit.kde.org/kdelibs/kdelibs-latest.tar.gz"
+  },
+  "authors": [
+    "The KDE Community"
+  ]
+}

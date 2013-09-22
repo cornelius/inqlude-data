@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "itemmodels",
+  "version": "edge",
+  "release_date": "2013-09-22",
+  "summary": "Data models on top of QAbstractItemModel",
+  "urls": {
+    "vcs": "https://projects.kde.org/projects/kde/kdelibs/repository/revisions/frameworks/show/tier1/itemmodels",
+    "homepage": "http://community.kde.org/Frameworks"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "The ItemModels framework contains data models on top of QAbstractItemModel that help in common tasks, such as sorting, proxying and filtering. ItemModels contains useful classes such as a model for checkable or selectable items, recursive filtering and breadcrumb selection.",
+  "maturity": "edge",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://anongit.kde.org/kdelibs/kdelibs-latest.tar.gz"
+  },
+  "authors": [
+    "The KDE Community"
+  ]
+}

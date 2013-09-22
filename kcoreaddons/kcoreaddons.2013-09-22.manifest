@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "kcoreaddons",
+  "version": "edge",
+  "release_date": "2013-09-22",
+  "summary": "KCoreAddons offers many commonly used solutions for caching, ui, job handling, randomization, macros and strings and shell and user handling",
+  "urls": {
+    "vcs": "https://projects.kde.org/projects/kde/kdelibs/repository/revisions/frameworks/show/tier1/kcoreaddons",
+    "homepage": "http://community.kde.org/Frameworks"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KCoreAddons's KSharedDataCache is a fast, memory-mapped inter-process cache for applications. It can be used for various datatypes and is optimized for fast access. KDirWatch allows to monitor the filesystem for changes, and is essential when writing event-driven code. KJob offers a flexible job-handling API, containing simple and composite jobs, job tracking and UI delegates. KRandom allows to create random number and strings, and to randomize sequences of data. KStringHandler and KMacroExpander allow for flexible text manipulation and contain some convenience API on top of QString. KShell allows for manipulation and parsing of shell commands.",
+  "maturity": "edge",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://anongit.kde.org/kdelibs/kdelibs-latest.tar.gz"
+  },
+  "authors": [
+    "The KDE Community"
+  ]
+}

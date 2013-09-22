@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "kconfig",
+  "version": "edge",
+  "release_date": "2013-09-22",
+  "summary": "The KConfig framework offers functionality around reading and writing configuration",
+  "urls": {
+    "vcs": "https://projects.kde.org/projects/kde/kdelibs/repository/revisions/frameworks/show/tier1/kconfig",
+    "homepage": "http://community.kde.org/Frameworks"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KConfig consists of two parts, KConfigCore and KConfigGui. KConfigCore offers an abstract API to configuration files. It allows grouping and transparent cascading and (de-)serialization. KConfigGui offers, on top of KConfigCore, shortcuts and configuration for some common cases, such as session and window restoration.",
+  "maturity": "edge",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://anongit.kde.org/kdelibs/kdelibs-latest.tar.gz"
+  },
+  "authors": [
+    "The KDE Community"
+  ]
+}
