@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "name": "qxmpp",
+  "release_date": "2013-03-09",
+  "version": "0.7.6",
+  "summary": "XMPP client and server library",
+  "urls": {
+    "homepage": "https://code.google.com/p/qxmpp/",
+    "vcs": "https://code.google.com/p/qxmpp/source/checkout",
+    "download": "https://code.google.com/p/qxmpp/downloads/list",
+    "api_docs": "http://doc.qxmpp.org/qxmpp-0.7.6/"
+  },
+  "licenses": [
+    "LGPL 2.1 or later"
+  ],
+  "description": "QXmpp is a cross-platform C++ XMPP client and server library. QXmpp strives to be as easy to use as possible, the underlying TCP socket, the core XMPP RFCs (RFC3920 and RFC3921) and XMPP extensions have been encapsulated into classes and functions. QXmpp comes with full API documentation, automatic tests and numerous examples.",
+  "authors": [
+    "Manjeet Dahiya <manjeetdahiya@gmail.com>",
+    "Jeremy Lainé <jeremy.laine@m4x.org>",
+    "Ian Reinhart Geiser <geiseri@kde.org>",
+    "Georg Rudoy <0xd34df00d@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "packages": {
+    "source": "https://code.google.com/p/qxmpp/downloads/detail?name=qxmpp-0.7.6.tar.gz&can=2&q="
+  }
+}
