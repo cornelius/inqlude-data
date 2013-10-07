@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "name": "vlc-qt",
-  "release_date": "2013-04-27",
-  "version": "0.8.1",
+  "release_date": "2013-09-26",
+  "version": "0.9.0",
   "summary": "VLC-Qt - a simple library to connect Qt application with libVLC",
   "urls": {
     "homepage": "http://projects.tano.si",
@@ -20,6 +20,6 @@
     "Linux", "OS X", "Windows"
   ],
   "packages": {
-    "source": "https://github.com/ntadej/vlc-qt/archive/0.8.1.tar.gz"
+    "source": "https://github.com/ntadej/vlc-qt/archive/0.9.0.tar.gz"
   }
 }
