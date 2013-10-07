@@ -3,7 +3,7 @@
   "name": "poppler-qt",
   "release_date": "2013-08-26",
   "version": "0.24.1",
-  "summary": "Qt bindings for Qt, the PDF rendering library",
+  "summary": "Qt bindings for Poppler, the PDF rendering library",
   "urls": {
     "homepage": "http://poppler.freedesktop.org/",
     "vcs": "http://cgit.freedesktop.org/poppler/poppler/tree/qt4",
