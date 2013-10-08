@@ -6,7 +6,7 @@
   "summary": "Qt-only wrapper for the Systemd API",
   "urls": {
     "homepage": "https://github.com/scarpin0/libsystemd-qt",
-    "vcs": "https://github.com/scarpin0/libsystemd-qt",
+    "vcs": "https://github.com/scarpin0/libsystemd-qt"
   },
   "licenses": [
     "LGPLv3"
