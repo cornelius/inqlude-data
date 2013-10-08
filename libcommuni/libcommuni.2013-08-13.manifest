@@ -6,6 +6,7 @@
   "summary": "IRC framework",
   "urls": {
     "homepage": "http://communi.github.io",
+    "api_docs": "http://communi.github.io/doc/",
     "vcs": "https://github.com/communi/libcommuni",
     "download": "https://github.com/communi/libcommuni/releases"
   },
