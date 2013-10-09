@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "qsqlmigrator",
+  "release_date": "2013-10-09",
+  "version": "1.0",
+  "summary": "QSqlMigrator - keep track of your database migrations",
+  "urls": {
+    "homepage": "https://github.com/hicknhack-software/QSqlMigrator",
+    "vcs": "https://github.com/hicknhack-software/QSqlMigrator"
+  },
+  "licenses": [
+    "LGPLv2.1", "GPLv3"
+  ],
+  "description": "A library to help you keep track of database schema migrations. This tool is inspired by ActiveRecord migrations which is part of Ruby on Rails.",
+  "authors": [
+    "HicknHack Software <contact@hicknhack-software.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux", "Mac", "Windows"
+  ],
+  "packages": {
+    "source": "https://github.com/hicknhack-software/QSqlMigrator/archive/v1.0.tar.gz"
+  }
+}
