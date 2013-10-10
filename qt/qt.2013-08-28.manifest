@@ -17,7 +17,7 @@
   ],
   "description": "Qt is a cross-platform application and UI framework. It provides a rich set of C++ libraries with building blocks for application and UI programming, including UI widget components and declarative UI support, handling of network access, XML support, and more.",
   "authors": [
-    "Digia"
+    "The Qt Project"
   ],
   "maturity": "stable",
   "platforms": [
