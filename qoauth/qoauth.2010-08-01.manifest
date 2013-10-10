@@ -15,6 +15,7 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
+    "source": "https://github.com/ayoy/qoauth/archive/v1.0.1.tar.gz",
     "openSUSE": {
       "11.4": {
         "package_name": "libqoauth1",

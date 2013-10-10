@@ -16,6 +16,7 @@
   "maturity": "beta",
   "platforms": [ "Linux" ],
   "packages": {
+    "source": "http://sourceforge.net/projects/soprano/files/Soprano/2.5.63/soprano-2.5.63.tar.bz2/download",
     "openSUSE": {
       "11.4": {
         "package_name": "libsoprano4",

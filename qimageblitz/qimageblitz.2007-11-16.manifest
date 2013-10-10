@@ -16,6 +16,7 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
+    "source": "http://sourceforge.net/projects/qimageblitz/files/qimageblitz/QImageBlitz%200.0.4/qimageblitz-0.0.4.tar.bz2/download",
     "openSUSE": {
       "11.4": {
         "package_name": "libqimageblitz4",

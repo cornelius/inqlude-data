@@ -16,6 +16,7 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
+    "source": "ftp://ftp.kde.org/pub/kde/stable/apps/KDE4.x/admin/polkit-qt-1-0.99.1.tar.bz2",
     "openSUSE": {
       "11.4": {
         "package_name": "libpolkit-qt-1-1",

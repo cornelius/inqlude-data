@@ -15,6 +15,7 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
+    "source": "https://github.com/flavio/qjson/archive/0.7.1.tar.gz",
     "openSUSE": {
       "11.4": {
         "package_name": "libqjson-devel",

@@ -16,6 +16,7 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
+    "source": "http://sourceforge.net/projects/qwtplot3d/files/qwtplot3d/0.2.7/qwtplot3d-0.2.7.tgz/download",
     "openSUSE": {
       "11.4": {
         "package_name": "libqwtplot3d0",

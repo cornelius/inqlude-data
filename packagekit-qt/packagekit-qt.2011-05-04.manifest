@@ -14,6 +14,7 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
+    "source": "http://www.packagekit.org/releases/PackageKit-Qt-0.6.14.tar.xz",
     "openSUSE": {
       "11.4": {
         "package_name": "libpackagekit-qt14",
