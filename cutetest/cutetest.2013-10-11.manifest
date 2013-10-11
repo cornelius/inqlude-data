@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "name": "cutetest",
+  "version": "?",
+  "release_date": "2013-10-11",
+  "summary": "unit testing framework for C++",
+  "urls": {
+    "vcs": "https://bitbucket.org/mayastudios/cutetest/src",
+    "homepage": "https://bitbucket.org/mayastudios/cutetest/overview"
+  },
+  "licenses": [
+    "LGPLv3"
+  ],
+  "description": "extension for QTest (Qt's unit test framework) that provides easier test case creation and a nice GUI for viewing the test results",
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OSX",
+  ],
+  "packages": {
+    "source": "https://bitbucket.org/mayastudios/cutetest/get/default.tar.bz2"
+  },
+  "authors": [
+    "mayastudios"
+  ]
+}
