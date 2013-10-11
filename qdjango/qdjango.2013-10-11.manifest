@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "qdjango",
+  "version": "0.4.0",
+  "release_date": "2013-10-11",
+  "summary": "ORM and HTTP request/response framework",
+  "urls": {
+    "homepage": "https://code.google.com/p/qdjango/"
+  },
+  "licenses": [
+    "GPL"
+  ],
+  "description": "web framework written in C++ and built on top of the Qt library",
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OSX",
+  ],
+  "packages": {
+    "source": "https://qdjango.googlecode.com/files/qdjango-0.4.0.tar.gz"
+  }
+}
