@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "qextserialport",
+  "version": "1.2",
+  "release_date": "2013-10-11",
+  "summary": "Qt based interface to serial ports",
+  "urls": {
+    "homepage": "https://code.google.com/p/qextserialport/"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "provides an interface to old fashioned serial ports for Qt-based applications.",
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OSX",
+  ],
+  "packages": {
+    "source": "https://code.google.com/p/qextserialport/"
+  }
+}
