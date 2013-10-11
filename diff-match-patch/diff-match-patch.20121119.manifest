@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "name": "google-diff-match-patch",
+  "name": "diff-match-patch",
   "version": "20121119",
   "release_date": "20121119",
   "summary": "Diff, Match and Patch libraries for Plain Text",

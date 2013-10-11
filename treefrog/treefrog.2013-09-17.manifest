@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "name": "treefrogframework",
+  "name": "treefrog",
   "version": "1.7.1",
   "release_date": "2013-09-17",
   "summary": "Framework for developing web applications",

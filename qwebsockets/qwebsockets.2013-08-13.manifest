@@ -4,7 +4,7 @@
   "release_date": "2013-08-13",
   "version": "v0.9.0",
   "display_name": "QWebSockets",
-  "summary": "QWebSockets is a pure Qt implementation of WebSockets - both client and server.",
+  "summary": "Qt implementation of WebSockets client and server.",
   "urls": {
     "homepage": "http://kurtpattyn.github.io/QWebSockets/",
     "vcs": "https://github.com/KurtPattyn/QWebSockets"

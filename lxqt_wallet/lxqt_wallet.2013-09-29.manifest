@@ -3,7 +3,7 @@
   "name": "lxqt_wallet",
   "release_date": "2013-09-29",
   "version": "1.1.0",
-  "summary": "a C++/Qt library for secure storage of data in an internal storage system or in KDE KWallet or GNOME libsecret",
+  "summary": "Secure storage of data in an internal storage system or in KDE KWallet or GNOME libsecret",
   "urls": {
     "homepage": "https://github.com/mhogomchungu/lxqt_wallet",
     "vcs": "https://github.com/mhogomchungu/lxqt_wallet.git",
