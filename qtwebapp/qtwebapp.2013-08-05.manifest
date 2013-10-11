@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "name": "qtwebapp",
+  "version": "1.3.1",
+  "release_date": "2013-08-05",
+  "summary": "Web application framework similar to Java Servlet API",
+  "urls": {
+    "homepage": "http://stefanfrings.de/qtwebapp/index-en.html",
+    "vcs": "",
+    "api_docs": "http://stefanfrings.de/qtwebapp/api/index.html"
+  },
+  "licenses": [
+    "LGPLv3"
+  ],
+  "description": "Develop web-server applications for Linux, Windows and Mac OS in C++ with QtWebApp. The API is very similar to the Java Servlet API.",
+  "maturity": "stable",
+  "authors": [
+    "Stefan Frings <stefan@stefanfrings.de>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "packages": {
+    "source": "http://stefanfrings.de/qtwebapp/QtWebApp-src.zip"
+  }
+}

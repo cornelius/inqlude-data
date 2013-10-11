@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "qslog",
+  "version": "2.0b1",
+  "release_date": "2013-05-30",
+  "summary": "Simple Qt logger",
+  "urls": {
+    "homepage": "https://bitbucket.org/razvanpetru/qt-components/wiki/QsLog",
+    "vcs": "https://bitbucket.org/razvanpetru/qt-components/src"
+  },
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "description": "QsLog is an easy to use logger that is based on Qt's QDebug class.",
+  "maturity": "beta",
+  "authors": [
+    "Razvan Petru <razvan@codeimproved.net>"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://bitbucket.org/razvanpetru/qt-components/downloads/QsLog_2.0b1.zip"
+  }
+}

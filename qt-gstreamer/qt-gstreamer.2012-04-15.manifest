@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "qt-gstreamer",
+  "version": "0.10.2",
+  "release_date": "2012-04-15",
+  "summary": "Qt bindings for GStreamer",
+  "urls": {
+    "homepage": "http://gstreamer.freedesktop.org/modules/qt-gstreamer.html",
+    "vcs": "http://cgit.freedesktop.org/gstreamer/qt-gstreamer"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "QtGStreamer is a set of libraries providing C++ bindings for GStreamer with a Qt-style API, plus some helper classes and elements for integrating GStreamer better in Qt applications.",
+  "maturity": "stable",
+  "authors": [
+    "George Kiagiadakis <george.kiagiadakis@collabora.co.uk>"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://gstreamer.freedesktop.org/src/qt-gstreamer/qt-gstreamer-0.10.2.tar.gz"
+  }
+}

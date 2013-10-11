@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "qtioccontainer",
+  "version": "3.5",
+  "release_date": "2006-12-17",
+  "summary": "Application framework inspired by Inversion Of Control concept",
+  "urls": {
+    "homepage": "http://qtioccontainer.sourceforge.net/index.html",
+    "vcs": "http://svn.sourceforge.net/qtioccontainer",
+    "api_docs": "http://qtioccontainer.sourceforge.net/annotated.html"
+  },
+  "licenses": [
+    "LGPLv2"
+  ],
+  "description": "Qt IoC Container is C++ application framework inspired by Inversion Of Control concept as demonstrated by Spring framework. It uses Qt meta object system and plugin system to get around the C++'s lacking of reflection mechanism.",
+  "maturity": "beta",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/qtioccontainer/files/qtioccontainer/qtioccontainer-3.5/qtioccontainer-3-5.tar.gz/download"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "name": "qscintilla",
+  "version": "2.7.2",
+  "release_date": "2013-06-16",
+  "summary": "Qt port of Scintilla C++ editor control",
+  "urls": {
+    "homepage": "http://www.riverbankcomputing.com/software/qscintilla/intro",
+    "download": "http://www.riverbankcomputing.com/software/qscintilla/download",
+    "api_docs": "http://pyqt.sourceforge.net/Docs/QScintilla2/index.html"
+  },
+  "licenses": [
+    "GPLv2",
+    "GPLv3",
+    "Commercial"
+  ],
+  "description": "QScintilla is a port to Qt of Neil Hodgson's Scintilla C++ editor control.\n\nAs well as features found in standard text editing components, QScintilla includes features especially useful when editing and debugging source code. These include support for syntax styling, error indicators, code completion and call tips. The selection margin can contain markers like those used in debuggers to indicate breakpoints and the current line. Styling choices are more open than with many editors, allowing the use of proportional fonts, bold and italics, multiple foreground and background colours and multiple fonts.",
+  "maturity": "stable",
+  "authors": [
+    "Riverbank Computing Limited <info@riverbankcomputing.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.7.2/QScintilla-gpl-2.7.2.tar.gz/download"
+  }
+}

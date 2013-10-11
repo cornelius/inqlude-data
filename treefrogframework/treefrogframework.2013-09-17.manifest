@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "name": "treefrogframework",
+  "version": "1.7.1",
+  "release_date": "2013-09-17",
+  "summary": "Framework for developing web applications",
+  "urls": {
+    "homepage": "http://www.treefrogframework.org/",
+    "vcs": "https://github.com/treefrogframework/treefrog-framework",
+    "download": "http://www.treefrogframework.org/download",
+    "api_docs": "http://treefrogframework.org/tf_doxygen/classes.html"
+  },
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "description": "TreeFrog Framework is a full-stack Web application framework. Written in C++, it is lightweight (low resource demands), and allows extremely fast working.\n\nWith the aim of reducing development costs while producing a C++ framework, a policy of 'convention over configuration' has been followed. The configuration file has been made as small as possible. Because it provides help in automatic generation of code for template systems (scaffolding), O/R mapping and ORM, developers are free to focus on logic.",
+  "maturity": "stable",
+  "authors": [
+    "AOYAMA Kazuharu <a.kazuharu@gmail.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/treefrog/files/src/treefrog-1.7.1.tar.gz/download"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "name": "log4qt",
+  "version": "0.3",
+  "release_date": "2009-03-01",
+  "summary": "C++ port of the Log4j logging framework",
+  "urls": {
+    "homepage": "http://log4qt.sourceforge.net/",
+    "vcs": "http://sourceforge.net/p/log4qt/code/HEAD/tree/",
+    "download": "http://sourceforge.net/projects/log4qt/files/Log4Qt/"
+  },
+  "licenses": [
+    "Apache-v2.0"
+  ],
+  "description": "Log4Qt is a C++ port of the Apache Software Foundation Log4j package using the Qt Framework.",
+  "maturity": "beta",
+  "authors": [
+    "Martin Heinrich"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/log4qt/files/Log4Qt/0.3/log4qt-0.3.tar.gz/download"
+  }
+}

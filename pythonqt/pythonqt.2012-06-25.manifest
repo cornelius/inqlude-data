@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "pythonqt",
+  "version": "2.1",
+  "release_date": "2012-06-25",
+  "summary": "Framework for embedding Python in Qt applications",
+  "urls": {
+    "homepage": "http://pythonqt.sourceforge.net/",
+    "vcs": "http://sourceforge.net/p/pythonqt/code/HEAD/tree/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "PythonQt is a dynamic and lightweight script binding of the Qt framework to the Python language. It can be embedded into Qt applications and makes any QObject derived object scriptable via Python without the need of wrapper code generation.",
+  "maturity": "stable",
+  "authors": [
+    "Florian Link"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/pythonqt/files/pythonqt/PythonQt-2.1/PythonQt2.1_Qt4.8.zip/download"
+  }
+}

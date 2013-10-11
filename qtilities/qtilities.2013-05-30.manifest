@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "name": "qtilities",
+  "version": "1.4",
+  "release_date": "2013-05-30",
+  "summary": "Building blocks for Qt applications",
+  "urls": {
+    "homepage": "http://jpnaude.github.io/Qtilities/",
+    "vcs": "https://github.com/JPNaude/Qtilities",
+    "api_docs": "http://jpnaude.github.io/Qtilities/annotated.html"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv2.1",
+    "Commercial"
+  ],
+  "description": "Qtilities is a set of well documented and mature Qt C++ libraries which provides building blocks for Qt applications, allowing rapid application development. The project consists of different modules which provide features which are common to a wide range of Qt applications, with the main goal of making common things easier to do. ",
+  "maturity": "stable",
+  "authors": [
+    "Jaco Naudé"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://github.com/JPNaude/Qtilities/zipball/v1.4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "name": "qtffmpegwrapper",
+  "version": "20130507",
+  "release_date": "2013-05-07",
+  "summary": "Qt FFmpeg Wrapper for video frame encoding and decoding",
+  "urls": {
+    "homepage": "https://code.google.com/p/qtffmpegwrapper/",
+    "vcs": "https://code.google.com/p/qtffmpegwrapper/source/browse/"
+  },
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "description": "QtFFmpegWrapper provides a set of QT classes wrapping FFMPEG and allowing for video encoding and video decoding (no audio). It uses QT QImage to exchange video frames with the encoder/decoder.",
+  "maturity": "stable",
+  "authors": [
+    "Daniel Roggen <droggen@gmail.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "https://qtffmpegwrapper.googlecode.com/files/qtffmpegwrapper_src-20130507.zip"
+  }
+}

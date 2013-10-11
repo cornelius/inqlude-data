@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "name": "quazip",
+  "version": "0.5.1",
+  "release_date": "2013-03-02",
+  "summary": "Qt/C++ wrapper for ZIP/UNZIP package",
+  "urls": {
+    "homepage": "http://quazip.sourceforge.net/",
+    "vcs": "http://sourceforge.net/p/quazip/code/HEAD/tree/",
+    "api_docs": "http://quazip.sourceforge.net/annotated.html"
+  },
+  "licenses": [
+    ""
+  ],
+  "description": "",
+  "authors": [
+    "Sergey A. Tachenov <stachenov@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/quazip/files/quazip/0.5.1/quazip-0.5.1.tar.gz/download"
+  }
+}

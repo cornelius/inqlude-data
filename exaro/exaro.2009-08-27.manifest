@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "name": "exaro",
+  "version": "2.0.0",
+  "release_date": "2009-08-27",
+  "summary": "Report engine",
+  "urls": {
+    "homepage": "http://exaro.sourceforge.net/",
+    "vcs": "http://code.google.com/p/exaro/source/browse",
+    "download": "http://sourceforge.net/projects/exaro/files/exaro/"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv3"
+  ],
+  "description": "eXaro is a report engine similar to Jasper or Crystal Reports, which can be embedded in any Qt application. It has an integrated preview with search and export capabilities and comes with a visual designer.",
+  "maturity": "stable",
+  "authors": [
+    "BogDan Vatra <bogdan@licentia.eu>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/exaro/files/exaro/exaro%202.0.0/exaro_2.0.0.tar.lzma/download"
+  }
+}

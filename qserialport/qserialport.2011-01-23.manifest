@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "name": "qserialport",
+  "version": "0.1.1",
+  "release_date": "2011-01-23",
+  "summary": "Cross-platform serial port driver",
+  "urls": {
+    "homepage": "http://sourceforge.net/projects/qserialport/",
+    "vcs": "http://sourceforge.net/p/qserialport/code/HEAD/tree/"
+  },
+  "licenses": [
+    "GPLv2"
+  ],
+  "description": "An attempt to create a cross platform QT compatible serial port driver. This code attempts to supports signal event driven design.",
+  "maturity": "prealpha",
+  "authors": [
+    "Peter Fetterer <Biovore@gmail.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/qserialport/files/qserialport-0.1.1.zip/download"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "name": "libqxt",
+  "version": "0.6.2",
+  "release_date": "2011-11-24",
+  "summary": "Utility classes for Qt",
+  "urls": {
+    "homepage": "http://dev.libqxt.org/libqxt/wiki/Home",
+    "vcs": "http://dev.libqxt.org/libqxt/src"
+  },
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "description": "",
+  "maturity": "stable",
+  "authors": [
+    "Arvid Picciani <aep@libqxt.org>",
+    "Adam Higerd <ahigerd@libqxt.org>",
+    "J-P Nurmi <jpnurmi@libqxt.org>",
+    "Benjamin Zeller <zbenjamin@libqxt.org>"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://dev.libqxt.org/libqxt/get/v0.6.2.tar.gz"
+  }
+}

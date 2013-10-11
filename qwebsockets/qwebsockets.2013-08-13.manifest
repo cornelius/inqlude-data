@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "name": "qwebsockets",
+  "release_date": "2013-08-13",
+  "version": "v0.9.0",
+  "display_name": "QWebSockets",
+  "summary": "QWebSockets is a pure Qt implementation of WebSockets - both client and server.",
+  "urls": {
+    "homepage": "http://kurtpattyn.github.io/QWebSockets/",
+    "vcs": "https://github.com/KurtPattyn/QWebSockets"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "QWebSockets is a pure Qt implementation of WebSockets - both client and server. It is implemented as a Qt source code module (.pri file), that can easily be embedded into existing Qt projects. It has no other dependencies that Qt.",
+  "authors": [
+    "Kurt Pattyn <pattyn.kurt@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://github.com/KurtPattyn/QWebSockets/archive/v0.9.0.tar.gz"
+  }
+}

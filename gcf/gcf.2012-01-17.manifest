@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "name": "gcf",
+  "version": "2.6.0",
+  "release_date": "2012-01-17",
+  "summary": "Generic component framework",
+  "urls": {
+    "homepage": "http://www.vcreatelogic.com/products/gcf",
+    "vcs": "http://code.vcreatelogic.com:8045/GCF2/trunk/GCF",
+    "download": "http://www.vcreatelogic.com/products/gcf/gcfdownloads"
+  },
+  "licenses": [
+    "GPLv2",
+    "GPLv3",
+    "Commercial"
+  ],
+  "description": "Component framework for building large applications",
+  "maturity": "stable",
+  "authors": [
+    "VCreate Logic <info@vcreatelogic.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "http://www.vcreatelogic.com/downloads/files/GCF-2.6.0-GPL-Source.7z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "libqinfinity",
+  "version": "0.5.1",
+  "release_date": "2013-09-22",
+  "summary": "Qt wrapper around libinfinity, a library for collaborative editing",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/playground/libs/libqinfinity",
+    "vcs": "https://projects.kde.org/projects/playground/libs/libqinfinity/repository"
+  },
+  "licenses": [
+    "GPLv2+"
+  ],
+  "description": "Qt wrapper around libinfinity, a library for collaborative editing. libinfinity implements the [Infinote protocol](http://gobby.0x539.de/trac/wiki/Infinote/Protocol) to synchronize changes, such as keystrokes, between multiple participants of a session.",
+  "authors": [
+    "Sven Brauch <svenbrauch@googlemail.com>"
+  ],
+  "maturity": "alpha",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/libqinfinity/0.5.1/src/libqinfinity-v0.5.1.tar.xz"
+  }
+}
