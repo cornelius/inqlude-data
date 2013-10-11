@@ -14,6 +14,7 @@
   ],
   "description": "PackageKit is a system designed to make installing and updating\nsoftware on your computer easier. The primary design goal is to unify\nall the software graphical tools used in different distributions, and provide a common backend. This library provides Qt bindings for PackageKit.\n",
   "authors": [
+    "Daniel Nicoletti <dantti12@gmail.com>",
     "Adrien Bustany <madcat@mymadcat.com>"
   ],
   "maturity": "stable",
