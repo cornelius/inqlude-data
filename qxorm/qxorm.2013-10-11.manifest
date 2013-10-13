@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "name": "qxorm",
+  "version": "1.2.5",
+  "release_date": "2013-10-11",
+  "summary": "Qt-based Object Relational Mapping (ORM)",
+  "urls": {
+    "homepage": "http://www.qxorm.com/qxorm_en/home.html"
+  },
+  "licenses": [
+    "GPLv3"
+  ],
+  "description": "db persistence, xml serialization, reflection/introspection",
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OSX",
+  ],
+  "packages": {
+    "source": "http://www.qxorm.com/version/QxOrm_1.2.5.zip"
+  },
+  "authors": [
+    "Lionel Marty <lio_marty@yahoo.fr>"
+  ]
+}
