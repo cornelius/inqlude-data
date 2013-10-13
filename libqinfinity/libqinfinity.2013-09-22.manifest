@@ -13,7 +13,8 @@
   ],
   "description": "Qt wrapper around libinfinity, a library for collaborative editing. libinfinity implements the [Infinote protocol](http://gobby.0x539.de/trac/wiki/Infinote/Protocol) to synchronize changes, such as keystrokes, between multiple participants of a session.",
   "authors": [
-    "Sven Brauch <svenbrauch@googlemail.com>"
+    "Sven Brauch <svenbrauch@googlemail.com>",
+    "Gregory Haynes <greg@greghaynes.net>"
   ],
   "maturity": "alpha",
   "platforms": [
