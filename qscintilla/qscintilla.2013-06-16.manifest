@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qscintilla",
   "version": "2.7.2",
   "release_date": "2013-06-16",

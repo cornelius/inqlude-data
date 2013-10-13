@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qwtplot3d",
   "release_date": "2007-06-25",
   "version": "0.2.7",

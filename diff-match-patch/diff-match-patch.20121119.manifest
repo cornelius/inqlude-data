@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "diff-match-patch",
   "version": "20121119",
   "release_date": "20121119",

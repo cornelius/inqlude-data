@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "enginio-qt",
   "release_date": "2013-07-02",
   "version": "0.5.0",

@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kidletime",
   "version": "edge",
   "release_date": "2013-09-22",

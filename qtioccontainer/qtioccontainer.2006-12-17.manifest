@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtioccontainer",
   "version": "3.5",
   "release_date": "2006-12-17",

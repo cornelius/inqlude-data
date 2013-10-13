@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "liblastfm",
   "release_date": "2013-09-03",
   "version": "1.0.8",

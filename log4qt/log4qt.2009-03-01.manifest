@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "log4qt",
   "version": "0.3",
   "release_date": "2009-03-01",

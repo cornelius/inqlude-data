@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtffmpegwrapper",
   "version": "20130507",
   "release_date": "2013-05-07",

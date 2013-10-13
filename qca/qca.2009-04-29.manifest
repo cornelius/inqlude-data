@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qca",
   "release_date": "2009-04-29",
   "version": "2.0.2",

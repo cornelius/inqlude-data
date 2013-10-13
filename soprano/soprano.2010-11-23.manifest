@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "soprano",
   "release_date": "2010-11-23",
   "version": "2.5.63",

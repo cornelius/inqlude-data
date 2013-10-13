@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "tufao",
   "release_date": "2012-10-14",
   "version": "0.4.1",
