@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qxorm",
   "version": "1.2.5",
   "release_date": "2013-10-11",
@@ -15,7 +15,7 @@
   "platforms": [
     "Linux",
     "Windows",
-    "OSX",
+    "OSX"
   ],
   "packages": {
     "source": "http://www.qxorm.com/version/QxOrm_1.2.5.zip"
