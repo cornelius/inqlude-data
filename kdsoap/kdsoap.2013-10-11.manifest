@@ -3,7 +3,7 @@
   "name": "kdsoap",
   "version": "1.3.0",
   "release_date": "2013-10-11",
-  "summary": "Qt-based client-side and server-side SOAP component",
+  "summary": "Client-side and server-side SOAP component.",
   "urls": {
     "vcs": "https://github.com/KDAB/KDSoap",
     "homepage": "http://www.kdab.com/kdab-products/kd-soap"
@@ -11,12 +11,12 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "It can be used to create client applications for web services and also provides the means to create web services without the need for any further component such as a dedicated web server.",
+  "description": "Creates client applications for web services and also provides the means to create web services without the need for any further component such as a dedicated web server.",
   "maturity": "stable",
   "platforms": [
     "Linux",
     "Windows",
-    "OSX",
+    "OS X",
   ],
   "packages": {
     "source": "https://github.com/KDAB/KDSoap/archive/master.zip"
