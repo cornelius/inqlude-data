@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "libengsas",
+  "release_date": "2013-03-29",
+  "version": "0.5.2",
+  "summary": "Widgets for technical applications",
+  "urls": {
+    "homepage": "http://www.engsas.de/libengsas",
+    "vcs": "https://svn.engsas.de/libengsas",
+    "download": "http://sourceforge.net/projects/libengsas",
+    "api_docs": "https://trac.engsas.de/libengsas/doxygen/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "LibEngsas is a C++ library, which uses the Qt framework and provides some enhancements. Therefore the hidden usage of KDE is one of the most important topics in LibEngsas. The goal is to give the programmer a common API, regardless KDE if is internally used or not. As an example, EFileDialog is a replacement for QFileDialog, which automatically uses KFileDialog internally, if LibEngsas is built against KDE and QFileDialog if not.",
+  "authors": [
+    "Joachim Langenbach <joachim.langenbach@engsas.de>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "Mac OS X"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/libengsas/files/libengsas0_0.5.2.orig.tar.bz2/download"
+  }
+}

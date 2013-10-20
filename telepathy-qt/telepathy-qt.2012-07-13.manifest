@@ -1,0 +1,26 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "telepathy-qt",
+  "version": "0.9.3",
+  "release_date": "2012-07-13",
+  "summary": "Qt bindings for the Telepathy communications framework",
+  "urls": {
+    "homepage": "http://telepathy.freedesktop.org/wiki/",
+    "vcs": "http://cgit.freedesktop.org/telepathy/telepathy-qt/",
+    "download": "http://telepathy.freedesktop.org/releases/telepathy-qt/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Telepathy-Qt is a Qt high-level binding for Telepathy, a D-Bus framework for unifying real time communication, including instant messaging, voice calls and video calls. It abstracts differences between protocols to provide a unified interface for applications.",
+  "maturity": "stable",
+  "authors": [
+    "Collabora"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://telepathy.freedesktop.org/releases/telepathy-qt/telepathy-qt-0.9.3.tar.gz"
+  }
+}
