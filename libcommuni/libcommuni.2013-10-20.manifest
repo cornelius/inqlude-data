@@ -1,0 +1,27 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "libcommuni",
+  "release_date": "2013-10-20",
+  "version": "3.0.0",
+  "summary": "IRC framework",
+  "urls": {
+    "homepage": "http://communi.github.io",
+    "api_docs": "http://communi.github.io/doc/",
+    "vcs": "https://github.com/communi/libcommuni",
+    "download": "https://github.com/communi/libcommuni/releases"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Communi is a cross-platform IRC framework written with Qt and C++.",
+  "authors": [
+    "J-P Nurmi <jpnurmi@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ],
+  "packages": {
+    "source": "https://github.com/communi/libcommuni/archive/v3.0.0.tar.gz"
+  }
+}
