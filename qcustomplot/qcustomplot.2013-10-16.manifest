@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "qcustomplot",
+  "release_date": "2013-09-05",
+  "version": "1.0.1",
+  "summary": "Widget for 2d plots, graphs and charts.",
+  "urls": {
+    "homepage": "http://www.qcustomplot.com/",
+    "download": "http://www.qcustomplot.com/index.php/download"
+  },
+  "licenses": [
+    "GPLv3"
+  ],
+  "description": "Plotting library focusses on making good looking, publication quality 2D plots, graphs and charts, as well as offering high performance for realtime visualization applications.",
+  "authors": [
+    "Emanuel Eichhammer <support@qcustomplot.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ],
+  "packages": {
+    "source": "http://www.qcustomplot.com/release/1.0.1/QCustomPlot-source.tar.gz"
+  }
+}
