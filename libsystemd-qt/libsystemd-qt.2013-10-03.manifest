@@ -5,8 +5,8 @@
   "version": "208",
   "summary": "Qt-only wrapper for the Systemd API",
   "urls": {
-    "homepage": "https://github.com/scarpin0/libsystemd-qt",
-    "vcs": "https://github.com/scarpin0/libsystemd-qt"
+    "homepage": "https://github.com/andreascarpino/libsystemd-qt",
+    "vcs": "https://github.com/andreascarpino/libsystemd-qt"
   },
   "licenses": [
     "LGPLv3"
@@ -15,11 +15,11 @@
   "authors": [
     "Andrea Scarpino <me@andreascarpino.it>"
   ],
-  "maturity": "stable",
+  "maturity": "alpha",
   "platforms": [
     "Linux"
   ],
   "packages": {
-    "source": "https://github.com/scarpin0/libsystemd-qt/archive/208.tar.gz"
+    "source": "https://github.com/andreascarpino/libsystemd-qt/archive/208.tar.gz"
   }
 }
