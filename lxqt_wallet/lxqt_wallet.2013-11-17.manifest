@@ -1,8 +1,8 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "lxqt_wallet",
-  "release_date": "2013-09-29",
-  "version": "1.1.0",
+  "release_date": "2013-11-17",
+  "version": "2.0.0",
   "summary": "Secure storage of data in an internal storage system or in KDE KWallet or GNOME libsecret",
   "urls": {
     "homepage": "https://github.com/mhogomchungu/lxqt_wallet",
@@ -21,6 +21,6 @@
     "Linux"
   ],
   "packages": {
-    "source": "https://github.com/mhogomchungu/lxqt_wallet/releases/tag/1.1.0"
+    "source": "https://github.com/mhogomchungu/lxqt_wallet/releases/tag/2.0.0"
   }
 }
