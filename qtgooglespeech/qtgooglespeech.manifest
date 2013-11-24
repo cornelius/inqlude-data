@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtgooglespeech",
+  "summary": "Library to use Google Speech service",
+  "urls": {
+    "homepage": "https://github.com/niqt/QtGoogleSpeech",
+    "vcs": "https://github.com/niqt/QtGoogleSpeech"
+  },
+  "licenses": [
+    "LGPL"
+  ],
+  "description": "Library to use Google Speech service",
+  "authors": [
+    "Nicola De Filippo <nicola@nicoladefilippo.it>"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtuio",
+  "summary": "Interface to TUIO, the protocol for tangible multi-touch surfaces",
+  "urls": {
+    "homepage": "http://qtuio.sirbabyface.net/",
+    "vcs": "https://github.com/x29a/qTUIO"
+  },
+  "licenses": [
+    "GPLv3+"
+  ],
+  "description": "qTUIO is a project to develop a Qt interface for the TUIO protocol. It should integrate with the current support for gesture and multi-touch event from Qt starting in version 4.6.0.",
+  "authors": [
+    "Martin Blankenburg <martin.blankenburg@imis.uni-luebeck.de>",
+    "x29a <0.x29a.0@gmail.com>",
+    "Wathek Belleh <wathek@gmail.com>"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qjsonrpc",
+  "summary": "Implementation of the JSON-RPC protocol",
+  "urls": {
+    "homepage": "https://bitbucket.org/devonit/qjsonrpc",
+    "vcs": "https://bitbucket.org/devonit/qjsonrpc/src"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "QJsonRpc is a Qt implementation of the JSON-RPC protocol. It integrates nicely with Qt, leveraging Qt's meta object system in order to provide services over the JSON-RPC protocol.",
+  "authors": [
+    "Matt Broadstone <mbroadstone@devonit.com>"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}

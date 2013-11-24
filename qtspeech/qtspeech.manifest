@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtspeech",
+  "summary": "Cross-platform API to access and use system text-to-spech engines",
+  "urls": {
+    "homepage": "http://lynxline.com/projects/qtspeech/",
+    "vcs": "https://gitorious.org/qt-speech/qt-speech"
+  },
+  "licenses": [
+    "LGPLv3+"
+  ],
+  "description": "QtSpeech is cross-platform library based on Qt to provide common cross-platform API to access and use system TTS (Text-to-Speech) engines on platforms as Windows (using SAPI), Mac (SpeechSynthesis) and Linux (using Festival).",
+  "authors": [
+    "Oleksandr Iakovliev <yshurik@gmail.com>"
+  ],
+  "platforms": [
+    "Windows","Linux","OSX"
+  ]
+}

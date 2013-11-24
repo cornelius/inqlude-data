@@ -1,0 +1,20 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "ctk",
+  "summary": "Toolkit for biomedical image computing",
+  "urls": {
+    "homepage": "http://www.commontk.org/index.php/Main_Page",
+    "vcs": "http://github.com/commontk/CTK",
+    "api_docs": "http://www.commontk.org/docs/html/classes.html"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "description": "The goal of CTK is to support biomedical image computing. CTK works on topics that are not covered by existing toolkits that support the mutual interest and needs of the CTK community. The main scope of current CTK efforts includes the topics DICOM, DICOM Application Hosting, Widgets, and Plugin Framework.",
+  "authors": [
+    "Julien Finet <julien.finet@kitware.com>"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}
