@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "qtinstallerframework",
+  "release_date": "2013-10-14",
+  "version": "1.4.0",
+  "summary": "Provides a set of tools and utilities to create installers for the supported desktop Qt platforms.",
+  "urls": {
+    "homepage": "http://qt-project.org/doc/qtinstallerframework-1.4/index.html"
+  },
+  "licenses": ["LGPLv2.1+"],
+  "description": "The Qt Installer Framework provides a set of tools and utilities to create installers once, and deploy them across all the supported desktop Qt platforms without rewriting the source code. The installers will have the native look and feel on the platform where they are run: Linux, Microsoft Windows, and Mac OS X.",
+  "authors": ["The Qt Project"],
+  "maturity": "stable",
+  "platforms": [ "Linux", "Windows", "OS X" ],
+  "packages": {
+    "source": "http://download.qt-project.org/official_releases/qt-installer-framework/1.4.0/qt-installer-framework-opensource-1.4.0-src.zip",
+  }
+}
