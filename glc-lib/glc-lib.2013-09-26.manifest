@@ -1,0 +1,27 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "glc-lib",
+  "version": "2.5.2",
+  "release_date": "2013-09-26",
+  "summary": "Library for high performance 3D applications based on OpenGL",
+  "urls": {
+    "homepage": "http://www.glc-lib.net/",
+    "vcs": "https://github.com/laumaya/GLC_lib",
+    "download": "https://github.com/laumaya/GLC_lib/releases",
+    "api_docs": "http://www.doc.glc-lib.net/"
+  },
+  "licenses": [
+    "LGPLv3+"
+  ],
+  "description": "GLC lib is a C++ library for high performance 3D application based on OpenGL and Qt4 or Qt5. GLC Lib is designed to render very complex 3D scenes ( 100.000 parts, 40.000.000 triangles).",
+  "maturity": "stable",
+  "authors": [
+    "Laurent Ribon <laumaya@users.sourceforge.net>"
+  ],
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ],
+  "packages": {
+    "source": "https://github.com/laumaya/GLC_lib/archive/Version_2_5_2.tar.gz"
+  }
+}

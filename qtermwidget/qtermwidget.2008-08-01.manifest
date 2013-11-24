@@ -1,0 +1,26 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qtermwidget",
+  "version": "0.1",
+  "release_date": "2008-08-01",
+  "summary": "Embeddable console widget",
+  "urls": {
+    "homepage": "http://qtermwidget.sourceforge.net/",
+    "vcs": "http://qtermwidget.cvs.sourceforge.net/viewvc/qtermwidget/qtermwidget/",
+    "download": "http://sourceforge.net/projects/qtermwidget/files/sources/"
+  },
+  "licenses": [
+    "LGPLv2+"
+  ],
+  "description": "QTermWidget is based on the KDE4 Konsole application. The main goal of this project is to provide aunicode-enabled, embeddable QT4 widget for using as a built-in console (or terminal emulation widget).",
+  "maturity": "alpha",
+  "authors": [
+    "e_k <e_k@users.sourceforge.net>"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/project/platformdownload.php?group_id=227230"
+  }
+}

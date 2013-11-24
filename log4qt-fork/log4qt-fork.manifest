@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "log4qt-fork",
+  "summary": "Logging framework for Qt",
+  "urls": {
+    "homepage": "https://gitorious.org/log4qt/",
+    "vcs": "https://gitorious.org/log4qt/log4qt"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "description": "Fork of log4qt project with some additional features.",
+  "authors": [
+    "Michael Filonenko <filonenko.mikhail@gmail.com>"
+  ],
+  "platforms": [
+    "Linux", "Windows"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qfb",
+  "summary": "Client library for accessing Facebook graph API",
+  "urls": {
+    "homepage": "https://github.com/SfietKonstantin/qfb",
+    "vcs": "https://github.com/SfietKonstantin/qfb"
+  },
+  "licenses": [
+    "GPLv3+"
+  ],
+  "description": "QFB is a Qt library that is used to access to Facebook graph API. It is designed to be able to interface with QML, as well as exposing as less as possible the internals of graph API (that are get, post and JSON formatted responses).",
+  "authors": [
+    "Lucien XU <sfietkonstantin@free.fr>"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}

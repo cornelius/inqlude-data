@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtgamepad",
+  "summary": "Reading input from gamepad devices",
+  "urls": {
+    "homepage": "https://github.com/nezticle/qtgamepad",
+    "vcs": "https://github.com/nezticle/qtgamepad"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "Qt5 module that adds support for reading from Gamepad devices on Linux. Designed to be used when writing games with Qt5.",
+  "authors": [
+    "Andy Nichols <nezticle@gmail.com>"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}

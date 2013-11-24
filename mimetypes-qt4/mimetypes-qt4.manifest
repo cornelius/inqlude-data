@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "mimetypes-qt4",
+  "summary": "Backport of the Qt 5 mimetypes api to Qt 4",
+  "urls": {
+    "homepage": "https://github.com/pasnox/mimetypes-qt4",
+    "vcs": "https://github.com/pasnox/mimetypes-qt4"
+  },
+  "licenses": [
+    "LGPLv2.1", "GPLv3"
+  ],
+  "description": "This library is a backport of the Qt 5 mimetypes api to Qt 4.",
+  "authors": [
+    "Filipe Azevedo <pasnox@gmail.com>"
+  ],
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ]
+}

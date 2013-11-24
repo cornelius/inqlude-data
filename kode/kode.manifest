@@ -1,0 +1,21 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kode",
+  "summary": "Code generation library",
+  "urls": {
+    "homepage": "http://www.lst.de/~cs/kode/",
+    "vcs": "https://github.com/cornelius/kode/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Kode is a collection of code generation and XML helper tools. It contains libkode, a helper library for programmatic generation of C++ code, the program kode for generation of C++ template files and kxml_compiler for generation of C++ classes representing XML data described by RelaxNG , W3C Schema, or example XML schemas.",
+  "authors": [
+    "Cornelius Schumacher <schumacher@kde.org>",
+    "Tobias König <tokoe@kde.org>",
+    "David Faure <dfaure@kdab.com>"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}

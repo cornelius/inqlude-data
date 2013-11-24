@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qdbf",
+  "summary": "Library for handling dbf files",
+  "urls": {
+    "homepage": "https://code.google.com/p/qdbf/",
+    "vcs": "https://code.google.com/p/qdbf/source/browse/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Library for reading and writing dbf files, as used by dBase and other data bases.",
+  "authors": [
+    "arial79@gmail.com"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}

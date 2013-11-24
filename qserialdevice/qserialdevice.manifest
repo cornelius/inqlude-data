@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qserialdevice",
+  "summary": "Cross-platform library for accessing serial devices",
+  "urls": {
+    "homepage": "https://gitorious.org/qserialdevice",
+    "vcs": "https://gitorious.org/qserialdevice/qserialdevice"
+  },
+  "licenses": [
+    "GPLv2+"
+  ],
+  "description": "Cross-platform library for accessing serial devices (ports) based on Qt4.",
+  "authors": [
+    "Denis Shienkov <scapig2@yandex.ru>"
+  ],
+  "platforms": [
+    "Linux", "Windows"
+  ]
+}
