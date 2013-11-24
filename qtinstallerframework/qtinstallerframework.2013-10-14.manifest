@@ -1,9 +1,9 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtinstallerframework",
   "release_date": "2013-10-14",
   "version": "1.4.0",
-  "summary": "Provides a set of tools and utilities to create installers for the supported desktop Qt platforms.",
+  "summary": "Tools and utilities to create installers for the supported desktop Qt platforms.",
   "urls": {
     "homepage": "http://qt-project.org/doc/qtinstallerframework-1.4/index.html"
   },
@@ -13,6 +13,6 @@
   "maturity": "stable",
   "platforms": [ "Linux", "Windows", "OS X" ],
   "packages": {
-    "source": "http://download.qt-project.org/official_releases/qt-installer-framework/1.4.0/qt-installer-framework-opensource-1.4.0-src.zip",
+    "source": "http://download.qt-project.org/official_releases/qt-installer-framework/1.4.0/qt-installer-framework-opensource-1.4.0-src.zip"
   }
 }
