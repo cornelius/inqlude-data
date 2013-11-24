@@ -9,7 +9,9 @@
     "vcs": "https://gitorious.org/qcustomplot/",
     "api_docs": "http://www.qcustomplot.com/documentation/index.html",
     "tutorial": "http://www.qcustomplot.com/index.php/tutorials/basicplotting",
-    "contact": "http://www.qcustomplot.com/index.php/contact"
+    "custom": {
+      "Contact": "http://www.qcustomplot.com/index.php/contact"
+    }
   },
   "licenses": [
     "GPLv3+"
