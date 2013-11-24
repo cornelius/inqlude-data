@@ -1,0 +1,26 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "novile",
+  "version": "0.5",
+  "release_date": "2013-04-01",
+  "summary": "Source code editor component for Qt",
+  "urls": {
+    "homepage": "https://github.com/tucnak/novile",
+    "vcs": "https://github.com/tucnak/novile",
+    "download": "https://github.com/tucnak/novile/releases"
+  },
+  "licenses": [
+    "GPL"
+  ],
+  "description": "Novile is an editor for Qt 5, based on Ace editor from ajax.org. It allows to extend your application with a source code editor.",
+  "maturity": "alpha",
+  "authors": [
+    "Illya Kovalevskyy <illya.kovalevskyy@gmail.com>"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://github.com/tucnak/novile/archive/v0.5.tar.gz"
+  }
+}

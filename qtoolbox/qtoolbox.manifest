@@ -1,0 +1,20 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtoolbox",
+  "summary": "Set of tools for Qt development",
+  "urls": {
+    "homepage": "https://github.com/detro/qtoolbox",
+    "vcs": "https://github.com/detro/qtoolbox"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "description": "qtoolbox is a set of tools for everyday Qt development. It includes a Sqlite data base helper and logging macros.",
+  "authors": [
+    "Ivan De Marino <ivan.de.marino@gmail.com>",
+    "Luca Colantonio <luca.colantonio@gmail.com>"
+  ],
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ]
+}
