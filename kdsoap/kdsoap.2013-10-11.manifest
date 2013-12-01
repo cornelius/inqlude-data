@@ -9,7 +9,7 @@
     "homepage": "http://www.kdab.com/kdab-products/kd-soap"
   },
   "licenses": [
-    "LGPLv2.1+"
+    "LGPLv2.1+","Commercial"
   ],
   "description": "Creates client applications for web services and also provides the means to create web services without the need for any further component such as a dedicated web server.",
   "maturity": "stable",

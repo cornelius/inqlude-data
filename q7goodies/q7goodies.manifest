@@ -1,0 +1,18 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "q7goodies",
+  "summary": "Windows 7 taskbar extensions",
+  "urls": {
+    "homepage": "http://www.strixcode.com/q7goodies/"
+  },
+  "licenses": [
+    "Commercial"
+  ],
+  "description": "Q7Goodies is a Qt library that provides Windows 7 features, such as jump lists, overlay icons, taskbar progress bars, thumbnail toolbars, and tabbed thumbnails.",
+  "authors": [
+    "Strix Code"
+  ],
+  "platforms": [
+    "Windows"
+  ]
+}

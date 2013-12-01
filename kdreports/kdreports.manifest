@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kdreports",
+  "summary": "Report generator",
+  "urls": {
+    "homepage": "http://www.kdab.com/kdab-products/kd-reports/",
+    "api_docs": "http://docs.kdab.com/kdreports/1.4.0/"
+  },
+  "licenses": [
+    "Commercial"
+  ],
+  "description": "KD Reports generates printable and exportable reports from code and from XML descriptions.  Reports may contain text paragraphs, tables, headlines, charts, headers and footers, and more.",
+  "authors": [
+    "KDAB"
+  ],
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ]
+}

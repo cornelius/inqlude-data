@@ -1,0 +1,18 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "ncreport",
+  "summary": "Report generator",
+  "urls": {
+    "homepage": "http://www.nocisoft.com/ncreport.html"
+  },
+  "licenses": [
+    "Commercial"
+  ],
+  "description": "NCReport consists of two parts, a report rendering library, and a report designer. The report engine can be used or implemented separately. Report definition applies XML format, stored as file or in sql database. The system able to generate several types of outputs such as Printer, Preview window, Postscript, PDF, SVG. With the report designer you can create report XML definitions.",
+  "authors": [
+    "nocisoft"
+  ],
+  "platforms": [
+    "Linux","Windows","OS X"
+  ]
+}

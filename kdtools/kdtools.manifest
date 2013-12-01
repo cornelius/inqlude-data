@@ -1,0 +1,18 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kdtools",
+  "summary": "Productivity tools",
+  "urls": {
+    "homepage": "http://www.kdab.com/kdab-products/kd-tools/"
+  },
+  "licenses": [
+    "Commercial"
+  ],
+  "description": "Set of widgets and non-ui classes to ease daily work of Qt programmers.",
+  "authors": [
+    "KDAB"
+  ],
+  "platforms": [
+    "Linux","Windows","OS X"
+  ]
+}

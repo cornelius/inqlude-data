@@ -8,7 +8,7 @@
     "homepage": "http://www.qxorm.com/qxorm_en/home.html"
   },
   "licenses": [
-    "GPLv3"
+    "GPLv3","Commercial"
   ],
   "description": "db persistence, xml serialization, reflection/introspection",
   "maturity": "stable",

@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kdchart",
+  "summary": "Creation of business charts",
+  "urls": {
+    "homepage": "http://www.kdab.com/kdab-products/kd-chart/",
+    "api_docs": "http://docs.kdab.com/kdchart/latest/"
+  },
+  "licenses": [
+    "Commercial"
+  ],
+  "description": "KD Chart is a tool for creating business charts. Besides having all the standard features, it enables the developer to design and manage a large number of axes and provides sophisticated customization.",
+  "authors": [
+    "KDAB"
+  ],
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ]
+}
