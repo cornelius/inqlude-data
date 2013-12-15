@@ -6,7 +6,7 @@
   "summary": "XMPP client library",
   "urls": {
     "homepage": "http://qutim.org/jreen",
-    "vcs": "https://github.com/euroelessar/jreen",
+    "vcs": "https://github.com/euroelessar/jreen"
   },
   "licenses": [
     "GPLv2+"
