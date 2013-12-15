@@ -1,0 +1,25 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "jreen",
+  "release_date": "2013-01-07",
+  "version": "1.1.1",
+  "summary": "XMPP client library",
+  "urls": {
+    "homepage": "http://qutim.org/jreen",
+    "vcs": "https://github.com/euroelessar/jreen",
+  },
+  "licenses": [
+    "GPLv2+"
+  ],
+  "description": "Jreen is extensible Qt-based asynchronous Jabber client library, developed as backend of the qutIM Jabber client.",
+  "authors": [
+    "Ruslan Nigmatullin <euroelessar@yandex.ru>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "packages": {
+    "source": "http://qutim.org/dwnl/44/libjreen-1.1.1.tar.bz2"
+  }
+}
