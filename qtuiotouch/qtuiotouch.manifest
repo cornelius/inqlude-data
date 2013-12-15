@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtuiotouch",
+  "summary": "Qt plugin for TUIO input devices",
+  "urls": {
+    "homepage": "https://github.com/dancasimiro/qtuiotouch",
+    "vcs": "https://github.com/dancasimiro/qtuiotouch"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "Qt plugin for the TUIO framework for tangible multitouch surfaces.",
+  "authors": [
+    "Daniel Casimiro <dancasimiro@gmail.com>"
+  ],
+  "platforms": [
+    "Linux"
+  ]
+}
