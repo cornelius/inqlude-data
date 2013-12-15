@@ -1,13 +1,11 @@
 {
-  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
-  "name": "qwebsockets",
-  "release_date": "2013-08-13",
-  "version": "v0.9.0",
-  "display_name": "QWebSockets",
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtwebsockets",
+  "display_name": "QtWebSockets",
   "summary": "Qt implementation of WebSockets client and server.",
   "urls": {
-    "homepage": "http://kurtpattyn.github.io/QWebSockets/",
-    "vcs": "https://github.com/KurtPattyn/QWebSockets"
+    "homepage": "https://qt.gitorious.org/qtplayground/websockets",
+    "vcs": "https://qt.gitorious.org/qtplayground/websockets"
   },
   "licenses": [
     "LGPLv2.1+"
@@ -16,11 +14,7 @@
   "authors": [
     "Kurt Pattyn <pattyn.kurt@gmail.com>"
   ],
-  "maturity": "stable",
   "platforms": [
     "Linux"
-  ],
-  "packages": {
-    "source": "https://github.com/KurtPattyn/QWebSockets/archive/v0.9.0.tar.gz"
-  }
+  ]
 }
