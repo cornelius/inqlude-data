@@ -1,0 +1,27 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qdecimal",
+  "display_name": "QDecimail",
+  "version": "1.01",
+  "release_date": "20120903",
+  "summary": "Decimal arithmetic library for Qt framework",
+  "urls": {
+    "homepage": "https://code.google.com/p/qdecimal/",
+    "vcs": "https://code.google.com/p/qdecimal/source/browse/"
+  },
+  "licenses": [
+    "LGPL v2.1"
+  ],
+  "description": "The QDecimal is a thin layer around IBM's decNumber library which implements the General Decimal Arithmetic Specification in ANSI C.",
+  "authors": [
+    "Semih Cemiloglu",
+    "IBM Corporation"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://code.google.com/p/qdecimal/downloads/detail?name=qdecimal-1.0.1.tgz&can=2&q="
+  }
+}
