@@ -1,0 +1,21 @@
+{
+  "$schema": "http://inqlude.org/schema/proprietary-release-manifest-v1#",
+  "name": "qtitanribbon",
+  "version": "3.1",
+  "release_date": "2013-08-26",
+  "summary": "Components for ribbon-style user interfaces",
+  "urls": {
+    "homepage": "http://www.devmachines.com/qtitanribbon-overview.html"
+  },
+  "licenses": [
+    "Commercial"
+  ],
+  "description": "QtitanRibbon provides components for implementing Ribbon-style user interfaces similar to Microsoft Office.",
+  "maturity": "stable",
+  "authors": [
+    "Developer Machines"
+  ],
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ]
+}

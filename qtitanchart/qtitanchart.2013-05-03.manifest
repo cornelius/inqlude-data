@@ -1,0 +1,23 @@
+{
+  "$schema": "http://inqlude.org/schema/proprietary-release-manifest-v1#",
+  "name": "qtitanchart",
+  "version": "2.1",
+  "release_date": "2013-05-03",
+  "summary": "Generation of interactive diagrams",
+  "urls": {
+    "homepage": "http://www.devmachines.com/qtitanchart-overview.html"
+  },
+  "licenses": [
+    "Commercial"
+  ],
+  "description": "QtitanChart provides customizable controls for applications to show interactive diagrams. It supports point, line, step line, clustered column, stacked column, pie, doughnut, area, and stacked area diagrams.",
+  "maturity": "stable",
+  "authors": [
+    "Developer Machines"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ]
+}
