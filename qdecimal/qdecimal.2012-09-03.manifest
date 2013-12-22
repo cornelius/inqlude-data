@@ -3,7 +3,7 @@
   "name": "qdecimal",
   "display_name": "QDecimail",
   "version": "1.01",
-  "release_date": "20120903",
+  "release_date": "2012-09-03",
   "summary": "Decimal arithmetic library for Qt framework",
   "urls": {
     "homepage": "https://code.google.com/p/qdecimal/",
