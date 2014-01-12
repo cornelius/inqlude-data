@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "knewstuff",
+  "display_name": "KNewStuff",
+  "summary": "Framework for downloading and sharing additional application data",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/knewstuff",
+    "vcs": "https://projects.kde.org/projects/frameworks/knewstuff/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "The KNewStuff library implements collaborative data sharing for\napplications. It uses libattica to support the Open Collaboration Services\nspecification.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

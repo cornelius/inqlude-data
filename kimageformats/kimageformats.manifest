@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kimageformats",
+  "display_name": "KImageFormats",
+  "summary": "Image format plugins for Qt",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kimageformats",
+    "vcs": "https://projects.kde.org/projects/frameworks/kimageformats/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This framework provides additional image format plugins for QtGui.  As\nsuch it is not required for the compilation of any other software, but\nmay be a runtime requirement for Qt-based software to support certain\nimage formats.\n\nIt supports the following image format:\n\n* DDS\n* EPS\n* EXR\n* Gimp\n* HDR\n* JP2\n* PCX\n* PIC\n* PNM\n* PSD\n* RAS\n* RGB\n* TGA\n* XCF\n* xv",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

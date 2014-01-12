@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kauth",
+  "display_name": "KAuth",
+  "summary": "Execute actions as privileged user",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kauth",
+    "vcs": "https://projects.kde.org/projects/frameworks/kauth/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKAuth is a framework to let applications perform actions as a privileged user.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

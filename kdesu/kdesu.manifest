@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kdesu",
+  "display_name": "libkdesu",
+  "summary": "User interface for running shell commands with root privileges",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kdesu",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdesu/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nlibkdesu provides functionality for building GUI front ends for\n(password asking) console mode programs. For example, kdesu and\nkdessh use it to interface with su and ssh respectively.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

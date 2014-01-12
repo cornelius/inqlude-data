@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kcmutils",
+  "display_name": "KCMUtils",
+  "summary": "Utilities for KDE System Settings modules",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kcmutils",
+    "vcs": "https://projects.kde.org/projects/frameworks/kcmutils/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKCMUtils provides various classes to work with KCModules. KCModules can be\ncreated with the KConfigWidgets framework.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

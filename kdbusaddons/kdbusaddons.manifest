@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kdbusaddons",
+  "display_name": "KDBusAddons",
+  "summary": "Convenience classes for DBus",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kdbusaddons",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdbusaddons/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKDBusAddons provides convenience classes on top of QtDBus, as well as an API to\ncreate KDED modules.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

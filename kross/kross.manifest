@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kross",
+  "display_name": "Kross",
+  "summary": "Embedding of scripting into applications",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kross",
+    "vcs": "https://projects.kde.org/projects/frameworks/kross/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKross is a scripting bridge to embed scripting functionality\ninto an application. It supports QtScript as a scripting interpreter backend.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

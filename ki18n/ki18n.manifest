@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "ki18n",
+  "display_name": "ki18n",
+  "summary": "KDE internationalisation",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/ki18n",
+    "vcs": "https://projects.kde.org/projects/frameworks/ki18n/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nki18n provides support for translating applications to native languages of\nusers.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

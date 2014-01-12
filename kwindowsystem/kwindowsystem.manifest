@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kwindowsystem",
+  "display_name": "KWindowSystem",
+  "summary": "Access to window manager",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kwindowsystem",
+    "vcs": "https://projects.kde.org/projects/frameworks/kwindowsystem/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nConvenience access to certain properties and features of the window manager.\n\nKWindowSystem provides information about the state of the window manager and\nallows asking the window manager to change the using a more high-level\ninterface than the NETWinInfo/NETRootInfo lowlevel classes.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

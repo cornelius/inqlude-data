@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "knotifyconfig",
+  "display_name": "KNotifyConfig",
+  "summary": "Configuration dialog for desktop notifications",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/knotifyconfig",
+    "vcs": "https://projects.kde.org/projects/frameworks/knotifyconfig/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKNotifyConfig provides a configuration dialog for desktop notifications which\ncan be embedded in your application.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}
