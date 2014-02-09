@@ -4,17 +4,21 @@
   "display_name": "QtWebSockets",
   "summary": "Qt implementation of WebSockets client and server.",
   "urls": {
-    "homepage": "https://qt.gitorious.org/qtplayground/websockets",
-    "vcs": "https://qt.gitorious.org/qtplayground/websockets"
+    "homepage": "http://qt-project.org/wiki/QtWebSockets",
+    "vcs": "https://qt.gitorious.org/qt/qtwebsockets"
   },
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "QWebSockets is a pure Qt implementation of WebSockets - both client and server. It is implemented as a Qt source code module (.pri file), that can easily be embedded into existing Qt projects. It has no other dependencies that Qt.",
+  "description": "QWebSockets is a pure Qt implementation of WebSockets - both client and server. It is implemented as a Qt add-on module. It has no other dependencies that Qt.",
   "authors": [
     "Kurt Pattyn <pattyn.kurt@gmail.com>"
   ],
   "platforms": [
-    "Linux"
+    "Linux",
+    "OS X",
+    "Windows",
+    "Android",
+    "iOS"
   ]
 }
