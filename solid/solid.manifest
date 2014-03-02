@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nSolid provides the following features for application developers:\n\n- Hardware Discovery\n- Power Management\n- Network Management\n\n",
+  "description": "%Solid is a device integration framework.  It provides a way of querying and\ninteracting with hardware independently of the underlying operating system.\n\nIt provides the following features for application developers:\n\n- Hardware Discovery\n- Power Management\n- Network Management",
   "authors": [
     "The KDE Community"
   ],

@@ -1,6 +1,6 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
-  "name": "kwallet-framework",
+  "name": "kwallet",
   "display_name": "KWallet Framework",
   "summary": "Safe desktop-wide storage for passwords",
   "urls": {
@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nInterface to KWallet, the safe desktop-wide storage for passwords on KDE work\nspaces.\n\n",
+  "description": "\nThis framework contains two main components:\n* Interface to KWallet, the safe desktop-wide storage for passwords on KDE work \nspaces.\n* The kwalletd used to safely store the passwords on KDE work spaces.\n\nThe library can be built alone, without kwalletd, by setting the\n`BUILD_KWALLETD` option to `OFF`.\n\n\n",
   "authors": [
     "The KDE Community"
   ],

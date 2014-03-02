@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKDNSSD is a library for handling the DNS-based Service Discovery Protocol\n(DNS-SD), the layer of [Zeroconf](http://www.zeroconf.org) that allows network\nservices, such as printers, to be discovered without any user intervention or\ncentralized infrastructure.\n\n",
+  "description": "KDNSSD is a library for handling the DNS-based Service Discovery Protocol\n(DNS-SD), the layer of [Zeroconf](http://www.zeroconf.org) that allows network\nservices, such as printers, to be discovered without any user intervention or\ncentralized infrastructure.",
   "authors": [
     "The KDE Community"
   ],

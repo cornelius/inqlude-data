@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKBookmarks lets you access and manipulate bookmarks stored using the\n[XBEL format][1].\n\n[1]: http://pyxml.sourceforge.net/topics/xbel/\n\n",
+  "description": "\nKBookmarks lets you access and manipulate bookmarks stored using the\n[XBEL format][1].\n\n[1]: http://pyxml.sourceforge.net/topics/xbel/\n\n\n",
   "authors": [
     "The KDE Community"
   ],

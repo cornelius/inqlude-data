@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nFramework Integration is a set of plugins responsible for better integration of\nQt applications when running on a KDE Plasma workspace.\n\nApplications do not need to link to this directly.\n\n",
+  "description": "Framework Integration is a set of plugins responsible for better integration of\nQt applications when running on a KDE Plasma workspace.\n\nApplications do not need to link to this directly.",
   "authors": [
     "The KDE Community"
   ],

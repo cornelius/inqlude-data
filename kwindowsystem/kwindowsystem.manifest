@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nConvenience access to certain properties and features of the window manager.\n\nKWindowSystem provides information about the state of the window manager and\nallows asking the window manager to change the using a more high-level\ninterface than the NETWinInfo/NETRootInfo lowlevel classes.\n\n",
+  "description": "\nConvenience access to certain properties and features of the window manager.\n\nKWindowSystem provides information about the state of the window manager and\nallows asking the window manager to change the using a more high-level\ninterface than the NETWinInfo/NETRootInfo low-level classes.\n\n",
   "authors": [
     "The KDE Community"
   ],

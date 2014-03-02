@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThis repository installs CMake files that simplify the CMake code that\napplications need to write in order to find KDE Frameworks.\n\nIt is not used by the frameworks themselves, it exists only for the convenience\nof workspace and applications.\n\nWithout KF5Umbrella, one has to write\n\n    find_package(KF5TextWidgets \"5.0.0\" REQUIRED)\n    find_package(KF5XmlGui \"5.0.0\" REQUIRED)\n    find_package(KF5KIO \"5.0.0\" REQUIRED)\n    ...\n\nwhile with KF5Umbrella you can write\n\n    find_package(KF5 \"5.0.0\" CONFIG REQUIRED TextWidgets XmlGui KIO ...)\n\n",
+  "description": "\nThis repository installs CMake files that simplify the CMake code that\napplications need to write in order to find KDE Frameworks.\n\nIt is not used by the frameworks themselves, it exists only for the convenience\nof workspace and applications.\n\nWithout KF5Umbrella, one has to write:\n\n    find_package(KF5TextWidgets \"5.0.0\" REQUIRED)\n    find_package(KF5XmlGui \"5.0.0\" REQUIRED)\n    find_package(KF5KIO \"5.0.0\" REQUIRED)\n    ...\n\nWhile with KF5Umbrella you can write:\n\n    find_package(KF5 \"5.0.0\" CONFIG REQUIRED TextWidgets XmlGui KIO ...)\n\n",
   "authors": [
     "The KDE Community"
   ],

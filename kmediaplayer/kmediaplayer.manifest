@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kmediaplayer",
   "display_name": "KMediaPlayer",
-  "summary": "Media player components",
+  "summary": "Interface for media player KParts",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kmediaplayer",
     "vcs": "https://projects.kde.org/projects/frameworks/kmediaplayer/repository",
@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKMediaPlayer provides an API for re-usable media player components.\n\n",
+  "description": "KMediaPlayer builds on the KParts framework to provide a common interface for\nKParts that can play media files.",
   "authors": [
     "The KDE Community"
   ],

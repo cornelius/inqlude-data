@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kinit",
   "display_name": "KInit",
-  "summary": "Helper library to speed up start of applications on KDE work spaces",
+  "summary": "Helper library to speed up start of applications on KDE workspaces",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kinit",
     "vcs": "https://projects.kde.org/projects/frameworks/kinit/repository",
@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "kdeinit is a process launcher somewhat similar to the \nfamous init used for booting UNIX.\n\nIt launches processes by forking and then loading a\ndynamic library which should contain a 'kdemain(...)'\nfunction.\n\nUsing kdeinit to launch KDE applications makes starting\na typical KDE applications 2.5 times faster (100ms \ninstead of 250ms on a P-III 500) It reduces memory \nconsumption by approx. 350Kb per application.",
+  "description": "kdeinit is a process launcher somewhat similar to the famous init used for\nbooting UNIX.\n\nIt launches processes by forking and then loading a dynamic library which\nshould contain a 'kdemain(...)' function.\n\nUsing kdeinit to launch KDE applications makes starting a typical KDE\napplications 2.5 times faster (100ms instead of 250ms on a P-III 500) It\nreduces memory consumption by approx. 350Kb per application.",
   "authors": [
     "The KDE Community"
   ],

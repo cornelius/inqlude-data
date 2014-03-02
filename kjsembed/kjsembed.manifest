@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKSJEmbed Provides a method of binding JavaScript objects to QObjects,\nso you can script your applications.\n\n",
+  "description": "KSJEmbed provides a method of binding JavaScript objects to QObjects,\nso you can script your applications.",
   "authors": [
     "The KDE Community"
   ],

@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kiconthemes",
   "display_name": "KIconThemes",
-  "summary": "Icon GUI utitities",
+  "summary": "Icon GUI utilities",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kiconthemes",
     "vcs": "https://projects.kde.org/projects/frameworks/kiconthemes/repository",

@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThis library implements the framework for KDE parts, which are\nelaborate widgets with a user-interface defined in terms of actions\n(menu items, toolbar icons).\n\n",
+  "description": "This library implements the framework for KDE parts, which are\nelaborate widgets with a user-interface defined in terms of actions\n(menu items, toolbar icons).",
   "authors": [
     "The KDE Community"
   ],
