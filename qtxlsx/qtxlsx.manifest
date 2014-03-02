@@ -1,0 +1,27 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtxlsx",
+  "display_name": "Qt Xlsx",
+  "version": "0.2.2",
+  "release_date": "2014-01-20",
+  "summary": ".xlsx file reader and writer for Qt5",
+  "urls": {
+    "homepage": "https://github.com/dbzhang800/QtXlsxWriter",
+    "api_docs": "http://qtxlsx.debao.me/"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "QtXlsx is a library that can read and write Excel files. It doesn't require Microsoft Excel and can be used in any platform that Qt5 supported.",
+  "authors": [
+    "Debao Zhang"
+  ],
+  "maturity": "edge",
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ],
+  "packages": {
+    "source": "https://github.com/dbzhang800/QtXlsxWriter/archive/v0.2.2.tar.gz"
+  }
+}
+
