@@ -5,19 +5,19 @@
   "summary": "High performance Qt table widget",
   "urls": {
     "homepage": "https://gitorious.org/qicstable/",
-    "download": "https://gitorious.org/qicstable/qicstable/",
+    "download": "https://gitorious.org/qicstable/qicstable/"
   },
   "licenses": [
     "GPLV3+",
     "LGPLv2.1+",
     "Commercial",
-    "Evaluation",
+    "Evaluation"
   ],
   "description": "QicsTable is a full-featured, high-performance table widget suited for use in industrial-strength applications. It incorporates a model-view-controller architecture, so that multiple table widgets can display the same data. The QicsTable widget has extensive printing capabilities, including the ability to print the table with different visual characteristics than the on-screen table display.",
   "authors": [
-    "Integrated Computer Solutions, Inc. <info@ics.com>",
+    "Integrated Computer Solutions, Inc. <info@ics.com>"
   ],
   "platforms": [
-    "Linux", "Windows", "OS X",
+    "Linux", "Windows", "OS X"
   ]
 }
