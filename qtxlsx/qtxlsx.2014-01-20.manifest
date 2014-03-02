@@ -1,5 +1,5 @@
 {
-  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtxlsx",
   "display_name": "Qt Xlsx",
   "version": "0.2.2",
@@ -24,4 +24,3 @@
     "source": "https://github.com/dbzhang800/QtXlsxWriter/archive/v0.2.2.tar.gz"
   }
 }
-
