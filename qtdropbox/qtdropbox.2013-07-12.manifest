@@ -2,16 +2,16 @@
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtdropbox",
   "release_date": "2014-03-23",
-  "version": "5.0",
+  "version": "4.8",
   "summary": "Qt Dropbox",
   "urls": {
     "homepage": "http://lycis.github.io/QtDropbox/",
-    "vcs": "https://github.com/lycis/QtDropbox/",
+    "vcs": "https://github.com/lycis/QtDropbox/tree/qt4.8",
   },
   "licenses": [
     "LGPLv3+"
   ],
-  "description": "QtDropbox 5.0 provides an easy to use posibillity to access the REST API of Dropbox for Qt5. All HTTP calls are hidden behind the curtains of neat C++/Qt classes with nice method names and specific uses.",
+  "description": "QtDropbox 4.8 provides an easy to use posibillity to access the REST API of Dropbox for Qt4. All HTTP calls are hidden behind the curtains of neat C++/Qt classes with nice method names and specific uses.",
   "authors": [
     "Daniel Eder <daniel@deder.at>"
   ],
@@ -21,6 +21,6 @@
 	"Windows"
   ],
   "packages": {
-    "source": "https://github.com/lycis/QtDropbox/archive/master.zip"
+    "source": "https://github.com/lycis/QtDropbox/archive/qt4.8.zip"
   }
 }
