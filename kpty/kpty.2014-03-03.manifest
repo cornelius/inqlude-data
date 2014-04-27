@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kpty",
+  "display_name": "KPty",
+  "summary": "Interfacing with pseudo terminal devices",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kpty",
+    "vcs": "https://projects.kde.org/projects/frameworks/kpty/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
+    "download": "http://download.kde.org/unstable/frameworks/4.97.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThis library provides primitives to interface with pseudo terminal devices\nas well as a KProcess derived class for running child processes and\ncommunicating with them using a pty.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "alpha",
+  "release_date": "2014-03-03",
+  "version": "4.97.0",
+  "packages": {
+    "source": "http://download.kde.org/unstable/frameworks/4.97.0/kpty-4.97.0.tar.xz"
+  }
+}
