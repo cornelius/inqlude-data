@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKService provides a plugin framework for handling desktop services. Services can\nbe applications or libraries. They can be bound to MIME types or handled by\napplication specific code.\n\n",
+  "description": "KService provides a plugin framework for handling desktop services. Services can\nbe applications or libraries. They can be bound to MIME types or handled by\napplication specific code.",
   "authors": [
     "The KDE Community"
   ],

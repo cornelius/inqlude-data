@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kcrash",
   "display_name": "KCrash",
-  "summary": "Gracefull handling of application crashes",
+  "summary": "Graceful handling of application crashes",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kcrash",
     "vcs": "https://projects.kde.org/projects/frameworks/kcrash/repository",

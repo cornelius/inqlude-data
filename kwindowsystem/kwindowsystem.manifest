@@ -2,16 +2,16 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kwindowsystem",
   "display_name": "KWindowSystem",
-  "summary": "Access to window manager",
+  "summary": "Access to the windowing system",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kwindowsystem",
     "vcs": "https://projects.kde.org/projects/frameworks/kwindowsystem/repository",
-    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel> and <https://mail.kde.org/mailman/listinfo/kwin"
   },
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nConvenience access to certain properties and features of the window manager.\n\nKWindowSystem provides information about the state of the window manager and\nallows asking the window manager to change the using a more high-level\ninterface than the NETWinInfo/NETRootInfo low-level classes.\n\n",
+  "description": "\nConvenience access to certain properties and features of the windowing system.\n\nKWindowSystem provides information about the windowing system and allows interaction with\nthe windowing system. It provides an high level API which is windowing system independent and\nhas platform specific implementations. This API is inspired by X11 and thus not all functionality\nis available on all windowing systems.\n\nIn addition to the high level API, this framework also provides several more low level classes\nfor interaction with the X Windowing System.\n\n",
   "authors": [
     "The KDE Community"
   ],

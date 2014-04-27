@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "kactivities",
+  "display_name": "KActivities",
+  "summary": "Core components for the KDE's Activities Activity Manager",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kactivities",
+    "vcs": "https://projects.kde.org/projects/kde/kdelibs/kactivities/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/plasma-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "System service to manage user's activities, track the usage patterns etc.\nKActivities library\nAPI for using and interacting with the Activity Manager as a consumer,\napplication adding information to them or as an activity manager.\nWorkspace\nPlugins for KDE workspace to easier integrate activities (KIO, etc.)\n\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

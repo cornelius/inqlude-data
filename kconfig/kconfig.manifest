@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKConfig provides an advanced configuration system. It is made of two parts:\nKConfigCore and KConfigGui.\n\nKConfigCore provides access to the configuration files themselves. It features:\n\n- centralized definition: define your configuration in an XML file and use\n`kconfig_compiler` to generate classes to read and write configuration entries.\n\n- lock-down (kiosk) support.\n\nKConfigGui provides a way to hook widgets to the configuration so that they are\nautomatically initialized from the configuration and automatically propagate\ntheir changes to their respective configuration files.\n\n",
+  "description": "\nKConfig provides an advanced configuration system. It is made of two parts:\nKConfigCore and KConfigGui.\n\nKConfigCore provides access to the configuration files themselves. It features:\n\n- Code generation: describe your configuration in an XML file, and use\n  `kconfig_compiler to generate classes that read and write configuration\n  entries.\n- Cascading configuration files (global settings overridden by local settings).\n- Optional shell expansion support (see [docs/options.md](@ref options)).\n- The ability to lock down configuration options (see\n  [docs/options.md](@ref options)).\n\nKConfigGui provides a way to hook widgets to the configuration so that they are\nautomatically initialized from the configuration and automatically propagate\ntheir changes to their respective configuration files.\n\n",
   "authors": [
     "The KDE Community"
   ],

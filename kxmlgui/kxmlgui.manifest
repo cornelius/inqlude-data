@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kxmlgui",
-  "display_name": "libkxmlgui",
+  "display_name": "KXMLGUI",
   "summary": "Framework for managing menu and toolbar actions",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kxmlgui",
@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nlibkxmlgui provides a framework for managing menu and toolbar actions in an\nabstract way. The actions are configured through a XML description and hooks\nin the application code. The framework supports merging of multiple\ndescription for example for integrating actions from plugins.\n\n",
+  "description": "KXMLGUI provides a framework for managing menu and toolbar actions in an\nabstract way. The actions are configured through a XML description and hooks\nin the application code. The framework supports merging of multiple\ndescription for example for integrating actions from plugins.",
   "authors": [
     "The KDE Community"
   ],
