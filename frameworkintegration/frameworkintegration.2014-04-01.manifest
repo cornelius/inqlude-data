@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "frameworkintegration",
+  "display_name": "Framework Integration",
+  "summary": "Integration of Qt application with KDE work spaces",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/frameworkintegration",
+    "vcs": "https://projects.kde.org/projects/frameworks/frameworkintegration/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
+    "download": "http://download.kde.org/unstable/frameworks/4.98.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Framework Integration is a set of plugins responsible for better integration of\nQt applications when running on a KDE Plasma workspace.\n\nApplications do not need to link to this directly.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "beta",
+  "release_date": "2014-04-01",
+  "version": "4.98.0",
+  "packages": {
+    "source": "http://download.kde.org/unstable/frameworks/4.98.0/frameworkintegration-4.98.0.tar.xz"
+  }
+}

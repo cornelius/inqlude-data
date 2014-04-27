@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kross",
+  "display_name": "Kross",
+  "summary": "Embedding of scripting into applications",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kross",
+    "vcs": "https://projects.kde.org/projects/frameworks/kross/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
+    "download": "http://download.kde.org/unstable/frameworks/4.98.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Kross is a scripting bridge to embed scripting functionality\ninto an application. It supports QtScript as a scripting interpreter backend.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "beta",
+  "release_date": "2014-04-01",
+  "version": "4.98.0",
+  "packages": {
+    "source": "http://download.kde.org/unstable/frameworks/4.98.0/kross-4.98.0.tar.xz"
+  }
+}
