@@ -1,12 +1,12 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtdropbox",
-  "release_date": "2014-03-23",
+  "release_date": "2013-07-12",
   "version": "4.8",
   "summary": "Qt Dropbox",
   "urls": {
     "homepage": "http://lycis.github.io/QtDropbox/",
-    "vcs": "https://github.com/lycis/QtDropbox/tree/qt4.8",
+    "vcs": "https://github.com/lycis/QtDropbox/tree/qt4.8"
   },
   "licenses": [
     "LGPLv3+"
@@ -18,7 +18,7 @@
   "maturity": "stable",
   "platforms": [
     "Linux",
-	"Windows"
+    "Windows"
   ],
   "packages": {
     "source": "https://github.com/lycis/QtDropbox/archive/qt4.8.zip"
