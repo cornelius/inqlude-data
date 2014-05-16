@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "name": "sqlate",
+  "release_date": "2014-05-17",
+  "summary": "type-safe template-based SQL support using Qt",
+  "urls": {
+    "homepage": "http://www.kdab.com/sqlate/",
+    "vcs": "https://github.com/KDAB/sqlate/"
+  },
+  "licenses": [
+    "LGPL"
+  ],
+  "description": "Allows you to get rid of string-based SQL queries in your Qt application",
+  "authors": ["The KDAB Team <info@kdab.com>"],
+  "maturity": "stable",
+  "platforms": [ "Linux", "Windows", "MacOS" ],
+  "packages": {
+    "source": "https://github.com/KDAB/sqlate/archive/master.zip"
+  }
+}
