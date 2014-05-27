@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "sqlate",
   "release_date": "2014-05-17",
   "summary": "type-safe template-based SQL support using Qt",
