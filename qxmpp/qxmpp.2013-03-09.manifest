@@ -1,14 +1,14 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qxmpp",
-  "release_date": "2013-03-09",
-  "version": "0.7.6",
+  "release_date": "2014-03-26",
+  "version": "0.8.0",
   "summary": "XMPP client and server library",
   "urls": {
-    "homepage": "https://code.google.com/p/qxmpp/",
-    "vcs": "https://code.google.com/p/qxmpp/source/checkout",
-    "download": "https://code.google.com/p/qxmpp/downloads/list",
-    "api_docs": "http://doc.qxmpp.org/qxmpp-0.7.6/"
+    "homepage": "https://github.com/qxmpp-project/qxmpp",
+    "vcs": "https://github.com/qxmpp-project/qxmpp",
+    "download": "https://github.com/qxmpp-project/qxmpp/releases",
+    "api_docs": "http://doc.qxmpp.org/qxmpp-0.8.0/"
   },
   "licenses": [
     "LGPL 2.1 or later"
@@ -25,6 +25,6 @@
     "Cross-platform"
   ],
   "packages": {
-    "source": "https://code.google.com/p/qxmpp/downloads/detail?name=qxmpp-0.7.6.tar.gz&can=2&q="
+    "source": "https://github.com/qxmpp-project/qxmpp/archive/v0.8.0.tar.gz"
   }
 }
