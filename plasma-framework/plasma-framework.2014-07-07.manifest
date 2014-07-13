@@ -7,7 +7,7 @@
     "homepage": "https://projects.kde.org/projects/frameworks/plasma-framework",
     "vcs": "https://projects.kde.org/projects/playground/libs/plasma-framework/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/plasma-devel",
-    "download": "http://download.kde.org/unstable/frameworks/5.0.0/"
+    "download": "http://download.kde.org/stable/frameworks/5.0.0/"
   },
   "licenses": [
     "LGPLv2.1+"
@@ -24,6 +24,6 @@
   "release_date": "2014-07-07",
   "version": "5.0.0",
   "packages": {
-    "source": "http://download.kde.org/unstable/frameworks/5.0.0/plasma-framework-5.0.0.tar.xz"
+    "source": "http://download.kde.org/stable/frameworks/5.0.0/plasma-framework-5.0.0.tar.xz"
   }
 }

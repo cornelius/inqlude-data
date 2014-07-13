@@ -7,7 +7,7 @@
     "homepage": "https://projects.kde.org/projects/frameworks/kiconthemes",
     "vcs": "https://projects.kde.org/projects/frameworks/kiconthemes/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
-    "download": "http://download.kde.org/unstable/frameworks/5.0.0/"
+    "download": "http://download.kde.org/stable/frameworks/5.0.0/"
   },
   "licenses": [
     "LGPLv2.1+"
@@ -24,6 +24,6 @@
   "release_date": "2014-07-07",
   "version": "5.0.0",
   "packages": {
-    "source": "http://download.kde.org/unstable/frameworks/5.0.0/kiconthemes-5.0.0.tar.xz"
+    "source": "http://download.kde.org/stable/frameworks/5.0.0/kiconthemes-5.0.0.tar.xz"
   }
 }
