@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kdnssd",
+  "display_name": "KDE DNS-SD",
+  "summary": "Network service discovery using Zeroconf",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kdnssd-frameworks",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdnssd-framework/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
+    "download": "http://download.kde.org/unstable/frameworks/5.0.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KDNSSD is a library for handling the DNS-based Service Discovery Protocol\n(DNS-SD), the layer of [Zeroconf](http://www.zeroconf.org) that allows network\nservices, such as printers, to be discovered without any user intervention or\ncentralized infrastructure.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "stable",
+  "release_date": "2014-07-07",
+  "version": "5.0.0",
+  "packages": {
+    "source": "http://download.kde.org/unstable/frameworks/5.0.0/kdnssd-5.0.0.tar.xz"
+  }
+}
