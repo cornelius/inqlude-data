@@ -3,15 +3,15 @@
   "name": "mimetypes-qt4",
   "summary": "Backport of the Qt 5 mimetypes api to Qt 4",
   "urls": {
-    "homepage": "https://github.com/pasnox/mimetypes-qt4",
-    "vcs": "https://github.com/pasnox/mimetypes-qt4"
+    "vcs": "git://gitorious.org/qtplayground/mimetypes"
   },
   "licenses": [
     "LGPLv2.1", "GPLv3"
   ],
   "description": "This library is a backport of the Qt 5 mimetypes api to Qt 4.",
   "authors": [
-    "Filipe Azevedo <pasnox@gmail.com>"
+    "Luís Pereira <luis.artur.pereira@gmail.com>",
+    "David Faure <david.faure@kdab.com>"
   ],
   "platforms": [
     "Linux", "Windows", "OS X"
