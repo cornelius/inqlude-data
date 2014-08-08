@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kmediaplayer",
+  "display_name": "KMediaPlayer",
+  "summary": "Interface for media player KParts",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kmediaplayer",
+    "vcs": "https://projects.kde.org/projects/frameworks/kmediaplayer/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
+    "download": "http://download.kde.org/stable/frameworks/5.1.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KMediaPlayer builds on the KParts framework to provide a common interface for\nKParts that can play media files.\n\nThis framework is a porting aid. It is not recommended for new projects, and\nexisting projects that use it are advised to port away from it, and use plain\nKParts instead.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "stable",
+  "release_date": "2014-08-07",
+  "version": "5.1.0",
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.1.0/kmediaplayer-5.1.0.tar.xz"
+  }
+}

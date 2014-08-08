@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "khtml",
+  "display_name": "KHTML",
+  "summary": "HTML rendering engine",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/khtml",
+    "vcs": "https://projects.kde.org/projects/frameworks/khtml/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
+    "download": "http://download.kde.org/stable/frameworks/5.1.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KHTML is a web rendering engine, based on the KParts technology and using KJS for JavaScript support.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "stable",
+  "release_date": "2014-08-07",
+  "version": "5.1.0",
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.1.0/khtml-5.1.0.tar.xz"
+  }
+}

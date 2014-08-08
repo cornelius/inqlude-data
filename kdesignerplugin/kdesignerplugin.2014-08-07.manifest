@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kdesignerplugin",
+  "display_name": "KDesignerPlugin",
+  "summary": "Integrating KDE frameworks widgets with Qt Designer",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kdesignerplugin",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdesignerplugin/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
+    "download": "http://download.kde.org/stable/frameworks/5.1.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This framework provides plugins for Qt Designer that allow it to display\nthe widgets provided by various KDE frameworks, as well as a utility\n(kgendesignerplugin) that can be used to generate other such plugins\nfrom ini-style description files.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "stable",
+  "release_date": "2014-08-07",
+  "version": "5.1.0",
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.1.0/kdesignerplugin-5.1.0.tar.xz"
+  }
+}

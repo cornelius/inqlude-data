@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kplotting",
+  "display_name": "KPlotting",
+  "summary": "Data plotting",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kplotting",
+    "vcs": "https://projects.kde.org/projects/frameworks/kplotting/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel",
+    "download": "http://download.kde.org/stable/frameworks/5.1.0/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKPlotWidget is a QWidget-derived class that provides a virtual base class\nfor easy data-plotting. The idea behind KPlotWidget is that you only have\nto specify information in \"data units\"; i.e., the natural units of the\ndata being plotted.  KPlotWidget automatically converts everything\nto screen pixel units.\n\nKPlotWidget draws X and Y axes with tick marks and tick labels.  It\nautomatically determines how many tick marks to use and where they should\nbe, based on the data limits specified for the plot.  You change the limits\nby calling `setLimits(double x1, double x2, double y1, double y2)`.\n\nData to be plotted are stored using the KPlotObject class.  KPlotObject\nconsists of a QList of QPointF's, each specifying the X,Y coordinates\nof a data point.  KPlotObject also specifies the \"type\" of data to be\nplotted (POINTS or CURVE or POLYGON or LABEL).\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "stable",
+  "release_date": "2014-08-07",
+  "version": "5.1.0",
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.1.0/kplotting-5.1.0.tar.xz"
+  }
+}
