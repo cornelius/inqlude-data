@@ -12,6 +12,7 @@
   "authors": [
     "Strix Code"
   ],
+  "maturity": "stable",
   "platforms": [
     "Windows"
   ]

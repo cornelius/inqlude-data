@@ -12,6 +12,7 @@
   "authors": [
     "nocisoft"
   ],
+  "maturity": "stable",
   "platforms": [
     "Linux","Windows","OS X"
   ]

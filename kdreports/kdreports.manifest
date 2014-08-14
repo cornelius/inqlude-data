@@ -13,6 +13,7 @@
   "authors": [
     "KDAB"
   ],
+  "maturity": "stable",
   "platforms": [
     "Linux", "Windows", "OS X"
   ]
