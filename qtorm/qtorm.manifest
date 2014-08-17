@@ -1,0 +1,19 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtorm",
+  "summary": "Object relational model inspired from Django",
+  "urls": {
+    "homepage": "https://github.com/steckdenis/qtorm",
+    "vcs": "https://github.com/steckdenis/qtorm.git"
+  },
+  "licenses": [
+    "LGPLv2.1"
+  ],
+  "description": "ORM based on QtSql (and supporting all the database engines that QtSql supports), inspired from Django and using the same terminology. Complex update and select queries can be performed without having to write SQL, and column names and foreign keys are checked at compile time. This library uses C++ operator overloads and templates in order to be easy to use and safe.",
+  "authors": [
+    "Denis Steckelmacher <steckdenis@yahoo.fr>"
+  ],
+  "platforms": [
+    "Linux","Windows","OSX"
+  ]
+}
