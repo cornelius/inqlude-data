@@ -1,8 +1,8 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "snorenotify",
-  "release_date": "2014-09-11",
-  "version": "0.5.0",
+  "release_date": "2014-09-22",
+  "version": "0.5.1",
   "summary": "Snorenotify notification framework",
   "urls": {
     "homepage": "https://github.com/Snorenotify/Snorenotify",
@@ -24,6 +24,6 @@
     "MacOS"
   ],
   "packages": {
-    "source": "https://github.com/Snorenotify/Snorenotify/archive/v0.5.0.tar.gz"
+    "source": "https://github.com/Snorenotify/Snorenotify/archive/v0.5.1.tar.gz"
   }
 }
