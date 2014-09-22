@@ -1,8 +1,8 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "snorenotify",
-  "release_date": "2014-08-11",
-  "version": "0.5.0beta",
+  "release_date": "2014-09-22",
+  "version": "0.5.1",
   "summary": "Snorenotify notification framework",
   "urls": {
     "homepage": "https://github.com/Snorenotify/Snorenotify",
@@ -17,13 +17,13 @@
   "authors": [
     "Patrick von Reth <vonreth@kde.org>"
   ],
-  "maturity": "beta",
+  "maturity": "stable",
   "platforms": [
     "Linux",
     "Windows",
     "MacOS"
   ],
   "packages": {
-    "source": "https://github.com/Snorenotify/Snorenotify/archive/v0.5.0rc1.tar.gz"
+    "source": "https://github.com/Snorenotify/Snorenotify/archive/v0.5.1.tar.gz"
   }
 }
