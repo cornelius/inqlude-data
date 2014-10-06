@@ -1,10 +1,12 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kdreports",
+  "version": "1.5.0",
   "summary": "Report generator",
   "urls": {
     "homepage": "http://www.kdab.com/kdab-products/kd-reports/",
-    "api_docs": "http://docs.kdab.com/kdreports/1.4.0/"
+    "api_docs": "http://docs.kdab.com/kdreports/1.5.0/",
+    "vcs": "https://github.com/KDAB/KDReports"
   },
   "licenses": [
     "Commercial"
