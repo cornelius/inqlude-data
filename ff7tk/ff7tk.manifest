@@ -1,19 +1,23 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "ff7tk",
-  "summary": "Toolkit to work with data of Final Fantasy 7",
+  "summary": "Toolkit for working with data from Final Fantasy 7",
   "urls": {
     "homepage": "http://forums.qhimm.com/index.php?topic=12938.msg184462",
-    "vcs": "http://sourceforge.net/p/blackchocobo/code/HEAD/tree/FF7tk/"
+    "vcs": "http://https://github.com/sithlord48/ff7tk/",
+    "api_docs": "http://www.blackchocobo.com/ff7tk/index.html",
   },
   "licenses": [
     "GPLv3+"
   ],
-  "description": "FF7tk will eventually cover everything needed to work with files of Final Fantasy 7, from save data to model info.",
+  "description": "Set of Gui and Data Object to make programing tools for Final Fantasy 7 easier.",
   "authors": [
-    "Chris Rizzitello <sithlord48@gmail.com>"
+    "Chris Rizzitello <sithlord48@gmail.com>",
+    "Arzel Jérôme <myst6re@gmail.com>",
+    "Vegeta_Ss4 <vegeta.ss4.dev@gmail.com	>",
+    "And others"
   ],
   "platforms": [
-    "Linux", "Windows"
+    "Linux", "Windows", "MacOs", "Android"
   ]
 }
