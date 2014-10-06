@@ -1,0 +1,20 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qdatacube",
+  "summary": "Datacube for Qt",
+  "urls": {
+    "homepage": "http://gitorious.org/ange/qdatacube",
+    "vcs": "http://gitorious.org/ange/qdatacube"
+  },
+  "licenses": [
+    "LGPL"
+  ],
+  "description": "Slice and dice the rows in your Qt model. Find the elements that matches <parameter1> and <parameter2> and let the user select them. Selection is synchronized with the selections in the various views.  QDatacube is a library just using QtCore for the basics and QtWidgets for the widget.",
+  "authors": [
+    "Ange Optimization ApS <contact@ange.dk>", "Sune Vuorela <sune@kde.org>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux", "Windows"
+  ]
+}
