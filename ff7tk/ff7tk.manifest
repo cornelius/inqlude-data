@@ -4,8 +4,8 @@
   "summary": "Toolkit for working with data from Final Fantasy 7",
   "urls": {
     "homepage": "http://forums.qhimm.com/index.php?topic=12938.msg184462",
-    "vcs": "http://https://github.com/sithlord48/ff7tk/",
-    "api_docs": "http://www.blackchocobo.com/ff7tk/index.html",
+    "vcs": "https://github.com/sithlord48/ff7tk/",
+    "api_docs": "http://www.blackchocobo.com/ff7tk/index.html"
   },
   "licenses": [
     "GPLv3+"
@@ -14,7 +14,7 @@
   "authors": [
     "Chris Rizzitello <sithlord48@gmail.com>",
     "Arzel Jérôme <myst6re@gmail.com>",
-    "Vegeta_Ss4 <vegeta.ss4.dev@gmail.com	>",
+    "Vegeta_Ss4 <vegeta.ss4.dev@gmail.com>",
     "And others"
   ],
   "platforms": [
