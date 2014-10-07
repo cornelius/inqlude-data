@@ -20,5 +20,8 @@
   ],
   "authors": [
     "KDAB - Klaralvdalens Datakonsult AB"
-  ]
+  ],
+  "packages": {
+    "source": "https://github.com/KDAB/KDSoap/archive/kdsoap-1.3.0.tar.gz"
+  }
 }
