@@ -1,0 +1,26 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "tasks",
+  "release_date": "2014-10-06",
+  "version": "1.2.0",
+  "summary": "a simple single header library that allows async programming in Qt/C++ using tasks,continuations and resumable functions",
+  "urls": {
+	  "homepage": "https://github.com/mhogomchungu/tasks",
+	  "vcs": "https://github.com/mhogomchungu/tasks.git",
+	  "download": "https://github.com/mhogomchungu/tasks/releases"
+  },
+  "licenses": [
+    "BSD"
+  ],
+  "description": "\"tasks\" is a Qt/C++ based single header library that provides facilities to do task based programming using resumable functions and continuations\n",
+  "authors": [
+    "Francis Banyikwa <mhogomchungu@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+	  "source": "https://github.com/mhogomchungu/tasks/releases/download/1.2.0/tasks-1.2.0.tar.bz2"
+  }
+}
