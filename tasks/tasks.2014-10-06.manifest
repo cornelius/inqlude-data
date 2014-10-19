@@ -18,7 +18,9 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Linux"
+    "Linux",
+    "Windows",
+    "Mac OS"
   ],
   "packages": {
 	  "source": "https://github.com/mhogomchungu/tasks/releases/download/1.2.0/tasks-1.2.0.tar.bz2"
