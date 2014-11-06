@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kactivities",
+  "display_name": "KActivities",
+  "release_date": "2014-11-06",
+  "version": "5.4.0",
+  "summary": "Core components for the KDE's Activities Activity Manager",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kactivities",
+    "download": "http://download.kde.org/stable/frameworks/5.4/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kactivities/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/plasma-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "System service to manage user's activities, track the usage patterns etc.\nKActivities library\nAPI for using and interacting with the Activity Manager as a consumer,\napplication adding information to them or as an activity manager.\nWorkspace\nPlugins for KDE workspace to easier integrate activities (KIO, etc.)\n\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.4/kactivities-5.4.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
