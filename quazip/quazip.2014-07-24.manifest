@@ -1,0 +1,26 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "quazip",
+  "version": "0.7",
+  "release_date": "2014-07-24",
+  "summary": "Qt/C++ wrapper for ZIP/UNZIP package",
+  "urls": {
+    "homepage": "http://quazip.sourceforge.net/",
+    "vcs": "http://sourceforge.net/p/quazip/code/HEAD/tree/",
+    "api_docs": "http://quazip.sourceforge.net/annotated.html"
+  },
+  "licenses": [
+    "LGPLv3+"
+  ],
+  "description": "",
+  "authors": [
+    "Sergey A. Tachenov <stachenov@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/quazip/files/quazip/0.7/quazip-0.7.tar.gz/download"
+  }
+}
