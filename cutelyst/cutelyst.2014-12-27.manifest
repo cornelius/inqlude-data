@@ -1,0 +1,28 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "cutelyst",
+  "version": "0.5.0",
+  "release_date": "2014-11-24",
+  "summary": "A Web Framework, using the simple approach of Catalyst (Perl) framework.",
+  "urls": {
+    "homepage": "http://cutelyst.org/",
+    "vcs": "https://gitorious.org/cutelyst/cutelyst.git",
+    "api_docs": "http://api.cutelyst.org/"
+  },
+  "licenses": [
+    "LGPLv2"
+  ],
+  "description": "Develop web-server applications for Linux, Windows and Mac OS in C++ with Cutelyst. The API is modeled after the popular Catalyst framework for Perl.",
+  "maturity": "edge",
+  "authors": [
+    "Daniel Nicoletti <dantti12@gmail.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "packages": {
+    "source": "https://gitorious.org/cutelyst/cutelyst/archive/c77510285823c87b20726e40cda1ec7247d91966.tar.gz"
+  }
+}
