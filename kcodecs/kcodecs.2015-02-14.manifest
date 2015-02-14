@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kcodecs",
+  "display_name": "KCodecs",
+  "release_date": "2015-02-14",
+  "version": "5.7.0",
+  "summary": "String encoding",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kcodecs",
+    "download": "http://download.kde.org/stable/frameworks/5.7/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kcodecs/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKCodecs provide a collection of methods to manipulate strings using various\nencodings. It supports:\n\n* base64\n* uu\n* quoted-printable\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.7/kcodecs-5.7.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

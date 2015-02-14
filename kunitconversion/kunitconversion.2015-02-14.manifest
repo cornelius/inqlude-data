@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kunitconversion",
+  "display_name": "KUnitConversion",
+  "release_date": "2015-02-14",
+  "version": "5.7.0",
+  "summary": "Converting physical units",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kunitconversion",
+    "download": "http://download.kde.org/stable/frameworks/5.7/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kunitconversion/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKUnitConversion provides functions to convert values in different physical\nunits. It supports converting different prefixes (e.g. kilo, mega, giga) as\nwell as converting between different unit systems (e.g. liters, gallons). The\nfollowing areas are supported:\n\n* Acceleration\n* Angle\n* Area\n* Currency\n* Density\n* Energy\n* Force\n* Frequency\n* Fuel efficiency\n* Length\n* Mass\n* Power\n* Pressure\n* Temperature\n* Time\n* Velocity\n* Volume\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.7/kunitconversion-5.7.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
