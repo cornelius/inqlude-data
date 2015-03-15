@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qlogsystem",
+  "release_date": "2015-01-13",
+  "version": "1.0.7",
+  "summary": "qlogsystem is a very efficient and easy to use logger library",
+  "urls": {
+    "homepage": "https://github.com/balabit/qlogsystem",
+    "vcs": "https://github.com/balabit/qlogsystem",
+    "download": "https://github.com/balabit/qlogsystem/releases/"
+  },
+  "licenses": [
+    "LGPLv2.1"
+  ],
+  "description": "qlogsystem brings Java style logger hierarchy to C++ with a very simple API. qlogsystem is very fast. The log messages and their parameters are evaluated only if the log level is big enough, so debug messages will not affect the performance much.",
+  "authors": [
+    "Balazs Kocsi <ansar.hun@gmail.com>",
+    "Tamas Domok <domoktamas@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "https://github.com/balabit/qlogsystem/archive/v1.0.7.tar.gz"
+  }
+}
+
