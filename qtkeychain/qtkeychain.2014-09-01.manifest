@@ -1,0 +1,27 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qtkeychain",
+  "release_date": "2014-09-1",
+  "version": "0.4.0",
+  "summary": "Platform-independent Qt API for storing passwords securely",
+  "urls": {
+    "homepage": "https://github.com/frankosterfeld/qtkeychain",
+    "vcs": "https://github.com/frankosterfeld/qtkeychain"
+  },
+  "licenses": [
+    "BSD-2"
+  ],
+  "description": "QtKeychain is a Qt API to store passwords and other secret data securely. How the data is stored depends on the platform. On Mac OS X passwords are stored in the OS X Keychain. On Linux/Unix if running, GNOME Keyring is used, otherwise QtKeychain tries to use KWallet (via D-Bus), if available. Since Windows does not provide a service for secure storage QtKeychain uses the Windows API function CryptProtectData to encrypt the password with the user's logon credentials. The encrypted data is then persisted via QSettings. In unsupported environments QtKeychain will report an error. It will not store any data unencrypted unless explicitly requested (setInsecureFallback( true )).",
+  "authors": [
+    "Frank Osterfeld <frank.osterfeld@kdab.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "packages": {
+    "source": "https://github.com/frankosterfeld/qtkeychain/archive/v0.4.0.tar.gz"
+  }
+}
