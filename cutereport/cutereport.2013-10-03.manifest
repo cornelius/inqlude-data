@@ -1,8 +1,8 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "cutereport",
-  "version": "1.0rc1",
-  "release_date": "2014-5-25",
+  "version": "0.8",
+  "release_date": "2013-10-03",
   "summary": "Report solution",
   "urls": {
     "homepage": "http://cute-report.com/",
@@ -13,16 +13,14 @@
     "GPLv3+"
   ],
   "description": "CuteReport is a report solution. It is based on Qt4 framework and can be integrated into any Qt application. It has a template designer with form designer, page editor, dataset editor, and other modules. The functionality of CuteReport designer and the CuteReport library can be extended by writing custom plugins.",
-  "maturity": "rc",
+  "maturity": "beta",
   "authors": [
     "Alexander Mikhalov <alexander.mikhalov@gmail.com>"
   ],
   "platforms": [
-    "Linux", "Windows"
+    "Linux"
   ],
   "packages": {
-    "source": "http://sourceforge.net/projects/qreport/files/cutereport-1.0rc1.tar.gz/download",
-    "windows": "http://sourceforge.net/projects/qreport/files/CuteReport_1.0rc1.exe/download",
-    "ubuntu": "http://sourceforge.net/projects/qreport/files/cutereport_1.0rc1_amd64.deb/download"
+     "source": "http://cute-report.com/component/jdownloads/finish/6/13?Itemid=0"
   }
 }
