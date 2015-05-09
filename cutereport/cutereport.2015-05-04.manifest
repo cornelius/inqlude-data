@@ -21,6 +21,8 @@
     "Linux", "Windows"
   ],
   "packages": {
-    "source": "http://cute-report.com/en/download/68"
+    "source": "http://cute-report.com/en/download/68",
+    "windows": "http://cute-report.com/en/download/69",
+    "ubuntu": "http://cute-report.com/en/download/66"
   }
 }
