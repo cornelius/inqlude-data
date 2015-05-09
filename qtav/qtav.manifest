@@ -1,0 +1,20 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtav",
+  "summary": "A cross-platform media playback framework based on Qt and FFmpeg.",
+  "urls": {
+    "homepage": "http://www.qtav.org",
+    "vcs": "https://github.com/wang-bin/QtAV"
+  },
+  "licenses": [
+    "LGPLv2.1"
+  ],
+  "description": "QtAV is a multimedia playback library based on Qt and FFmpeg. It can help you to write a player with less effort than ever before.",
+  "authors": [
+    "Bin Wang <wbsecg1@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Windows","Linux","OSX"
+  ]
+}
