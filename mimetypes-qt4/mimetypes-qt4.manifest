@@ -3,8 +3,8 @@
   "name": "mimetypes-qt4",
   "summary": "Backport of the Qt 5 mimetypes api to Qt 4",
   "urls": {
-    "homepage": "http://qt.gitorious.org/qtplayground/mimetypes",
-    "vcs": "git://gitorious.org/qtplayground/mimetypes"
+    "homepage": "http://code.qt.io/cgit/playground/mimetypes.git/",
+    "vcs": "http://code.qt.io/cgit/playground/mimetypes.git/"
   },
   "licenses": [
     "LGPLv2.1", "GPLv3"

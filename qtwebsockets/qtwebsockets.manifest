@@ -4,8 +4,8 @@
   "display_name": "QtWebSockets",
   "summary": "Qt implementation of WebSockets client and server.",
   "urls": {
-    "homepage": "http://qt-project.org/wiki/QtWebSockets",
-    "vcs": "https://qt.gitorious.org/qt/qtwebsockets"
+    "homepage": "http://wiki.qt.io/QtWebSockets",
+    "vcs": "http://code.qt.io/cgit/qt/qtwebsockets.git/"
   },
   "licenses": [
     "LGPLv2.1+"

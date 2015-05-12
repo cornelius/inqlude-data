@@ -3,8 +3,8 @@
   "name": "qtftp",
   "summary": "FTP implementation",
   "urls": {
-    "homepage": "https://qt.gitorious.org/qt/qtftp",
-    "vcs": "https://qt.gitorious.org/qt/qtftp"
+    "homepage": "http://code.qt.io/cgit/qt/qtftp.git/",
+    "vcs": "http://code.qt.io/cgit/qt/qtftp.git/"
   },
   "licenses": [
     "LGPLv2.1", "GPLv3", "Commercial"
