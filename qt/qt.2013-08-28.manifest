@@ -1,14 +1,14 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qt",
-  "release_date": "2013-08-28",
-  "version": "5.1.1",
+  "release_date": "2015-02-24",
+  "version": "5.4.1",
   "summary": "Cross-platform application and UI framework",
   "urls": {
-    "homepage": "http://qt-project.org",
-    "download": "http://qt-project.org/downloads",
-    "api_docs": "http://qt-project.org/doc/qt-5.1/qtdoc/index.html",
-    "tutorial": "http://qt-project.org/doc/qt-5.1/qtdoc/qtexamplesandtutorials.html",
+    "homepage": "http://qt.io/",
+    "download": "http://qt.io/download/",
+    "api_docs": "http://doc.qt.io/qt-5/reference-overview.html",
+    "tutorial": "http://doc.qt.io/qt-5/qtexamplesandtutorials.html",
     "vcs": "http://qt.gitorious.org/qt"
   },
   "licenses": [
@@ -27,6 +27,6 @@
     "MacOS"
   ],
   "packages": {
-    "source": "http://download.qt-project.org/official_releases/qt/5.1/5.1.1/single/qt-everywhere-opensource-src-5.1.1.tar.gz"
+    "source": "http://download.qt.io/official_releases/qt/5.4/5.4.1/single/qt-everywhere-opensource-src-5.4.1.tar.gz"
   }
 }
