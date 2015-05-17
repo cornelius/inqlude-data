@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKDeclarative provides integration of QML and KDE work spaces.\n\n",
+  "description": "KDeclarative provides integration of QML and KDE work spaces.\nIt's comprises two parts: a library used by the C++ part of your application\nto intergrate QML with KDE Frameworks specific features, and a series of\nQML imports that offer bindings to some of the Frameworks.",
   "authors": [
     "The KDE Community"
   ],

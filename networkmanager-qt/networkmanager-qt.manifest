@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "networkmanager-qt",
+  "display_name": "NetworkManagerQt",
+  "summary": "Qt wrapper for NetworkManager DBus API.",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/networkmanager-qt",
+    "vcs": "https://projects.kde.org/projects/frameworks/networkmanager-qt/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nNetworkManagerQt provides access to all NetworkManager features\nexposed on DBus. It allows you to manage your connections and control\nyour network devices and also provides a library for parsing connection\nsettings which are used in DBus communication.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

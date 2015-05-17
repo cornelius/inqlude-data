@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kimageformats",
   "display_name": "KImageFormats",
-  "summary": "Image format plugins for Qt",
+  "summary": "Plugins to allow QImage to support extra file formats.",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kimageformats",
     "vcs": "https://projects.kde.org/projects/frameworks/kimageformats/repository",
