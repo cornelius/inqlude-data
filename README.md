@@ -11,5 +11,8 @@ by sending a patch for the inqlude-data repository. See the
 [specification of the manifest format](https://github.com/cornelius/inqlude/blob/master/manifest-format.md)
 for more details.
 
+If you would like to access the data from a clinet see the description of
+[how to access Inqlude data](https://github.com/cornelius/inqlude/blob/master/accessing-inqlude-data.md).
+
 If you have questions or comments, please feel free to contact Cornelius
 Schumacher <schumacher@kde.org>.
