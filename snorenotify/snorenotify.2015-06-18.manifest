@@ -6,7 +6,7 @@
   "summary": "Snorenotify notification framework",
   "urls": {
     "homepage": "https://github.com/Snorenotify/Snorenotify",
-    "api_docs": "http://winkde.org/~pvonreth/other/snore/doc/html/index.html",
+    "api_docs": "http://patrick.von-reth.de/other/snore/0.5.3/doc/html/index.html",
     "vcs": "https://github.com/Snorenotify/Snorenotify.git",
     "download": "https://github.com/Snorenotify/Snorenotify/releases"
   },
