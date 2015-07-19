@@ -1,0 +1,20 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtrpt",
+  "display_name": "QtRPT",
+  "summary": "Report engine",
+  "urls": {
+    "homepage": "http://www.qtrpt.tk"
+  },
+  "licenses": [
+    "Apache 2.0"
+  ],
+  "description": "QtRPT is the easy-to-use print report engine written in C++ QtToolkit. It allows combining several reports in one XML file. For separately taken field, you can specify some condition depending on which this field will display in different font and background color, etc. The project consists of two parts: report library QtRPT and report designer application QtRptDesigner. Report file is a file in XML format. The report designer makes easy to create report XML file. Thanks to Qt library, our project can be used in programs for work in the operating systems Windows, Linux, MacOS",
+  "authors": [
+    "Aleksey Osipov"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux","Windows","OS X"
+  ]
+}
