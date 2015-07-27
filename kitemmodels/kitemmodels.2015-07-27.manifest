@@ -1,10 +1,13 @@
 {
-  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kitemmodels",
   "display_name": "KItemModels",
+  "release_date": "2015-07-27",
+  "version": "5.13.0",
   "summary": "Set of item models extending the Qt model-view framework",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kitemmodels",
+    "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kitemmodels/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
@@ -15,8 +18,12 @@
   "authors": [
     "The KDE Community"
   ],
+  "maturity": "stable",
   "platforms": [
     "Linux"
   ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.13/kitemmodels-5.13.0.tar.xz"
+  },
   "group": "kde-frameworks"
 }
