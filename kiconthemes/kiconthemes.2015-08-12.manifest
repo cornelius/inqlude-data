@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kiconthemes",
+  "display_name": "KIconThemes",
+  "release_date": "2015-08-12",
+  "version": "5.13.0",
+  "summary": "Icon GUI utilities",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kiconthemes",
+    "download": "http://download.kde.org/stable/frameworks/5.13/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kiconthemes/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThis library contains classes to improve the handling of icons\nin applications using the KDE Frameworks. Provided are:\n\n- KIconDialog: Dialog class to let the user select an icon\n    from the list of installed icons.\n- KIconButton: Custom button class that displays an icon.\n    When clicking it, the user can change it using the icon dialog.\n- KIconEffect: Applies various colorization effects to icons,\n    which can be used to create selected/disabled icon images.\n\nOther classes in this repository are used internally by the icon\ntheme configuration dialogs, and should not be used by applications.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.13/kiconthemes-5.13.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
