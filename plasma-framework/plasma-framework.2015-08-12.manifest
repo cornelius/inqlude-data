@@ -4,9 +4,9 @@
   "display_name": "Plasma Framework",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Foundational libraries, components, and tools of the Plasma workspaces",
+  "summary": "Plugin based UI runtime used to write primary user interfaces",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/plasma-framework",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/plasma-framework/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/plasma-framework/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

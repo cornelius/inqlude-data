@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "sonnet",
   "display_name": "Sonnet",
-  "summary": "Multi-language spell checker",
+  "summary": "Support for spellchecking",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/sonnet",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/sonnet/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/sonnet/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

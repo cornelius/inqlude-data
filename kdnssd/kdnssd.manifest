@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kdnssd",
   "display_name": "KDE DNS-SD",
-  "summary": "Network service discovery using Zeroconf",
+  "summary": "Abstraction to system DNSSD features",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kdnssd",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdnssd/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kdnssd/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

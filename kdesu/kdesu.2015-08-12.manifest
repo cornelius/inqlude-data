@@ -4,9 +4,9 @@
   "display_name": "KDESU",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "User interface for running shell commands with root privileges",
+  "summary": "Integration with su for elevated privileges",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kdesu",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdesu/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kdesu/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

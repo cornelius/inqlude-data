@@ -4,9 +4,9 @@
   "display_name": "KDocTools",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Create documentation from DocBook",
+  "summary": "Documentation generation from docbook",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kdoctools",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdoctools/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kdoctools/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

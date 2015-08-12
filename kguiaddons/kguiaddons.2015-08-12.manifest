@@ -4,9 +4,9 @@
   "display_name": "KDE GUI Addons",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Utilities for graphical user interfaces",
+  "summary": "Addons to QtGui",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kguiaddons",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kguiaddons/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kguiaddons/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

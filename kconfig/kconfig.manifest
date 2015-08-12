@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kconfig",
   "display_name": "KConfig",
-  "summary": "Persistent platform-independent application settings.",
+  "summary": "Configuration system",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kconfig",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kconfig/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kconfig/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

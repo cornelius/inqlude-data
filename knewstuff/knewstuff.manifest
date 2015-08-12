@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "knewstuff",
   "display_name": "KNewStuff",
-  "summary": "Framework for downloading and sharing additional application data",
+  "summary": "Support for downloading application assets from the network",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/knewstuff",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/knewstuff/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/knewstuff/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

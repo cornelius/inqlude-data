@@ -4,9 +4,9 @@
   "display_name": "KUnitConversion",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Converting physical units",
+  "summary": "Support for unit conversion",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kunitconversion",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kunitconversion/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kunitconversion/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

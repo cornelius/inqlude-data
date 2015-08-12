@@ -4,9 +4,9 @@
   "display_name": "KIdleTime",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Reporting of idle time of user and system",
+  "summary": "Monitoring user activity",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kidletime",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kidletime/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kidletime/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

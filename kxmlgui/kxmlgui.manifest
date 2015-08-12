@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kxmlgui",
   "display_name": "KXMLGUI",
-  "summary": "Framework for managing menu and toolbar actions",
+  "summary": "User configurable main windows",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kxmlgui",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kxmlgui/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kxmlgui/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

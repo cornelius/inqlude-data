@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "attica",
   "display_name": "Attica",
-  "summary": "Open Collaboration Service client library",
+  "summary": "Open Collaboration Services API",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/attica",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/attica/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/attica/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

@@ -4,9 +4,9 @@
   "display_name": "KDED",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Central daemon of KDE work spaces",
+  "summary": "Extensible deamon for providing system level services",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kded",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kded/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kded/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

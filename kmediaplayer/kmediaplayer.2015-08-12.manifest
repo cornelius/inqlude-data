@@ -4,9 +4,9 @@
   "display_name": "KMediaPlayer",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Interface for media player KParts",
+  "summary": "Plugin interface for media player features",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kmediaplayer",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kmediaplayer/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kmediaplayer/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

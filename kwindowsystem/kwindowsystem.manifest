@@ -4,7 +4,7 @@
   "display_name": "KWindowSystem",
   "summary": "Access to the windowing system",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kwindowsystem",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kwindowsystem/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kwindowsystem/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

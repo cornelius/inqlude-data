@@ -4,9 +4,9 @@
   "display_name": "KDELibs 4 Support",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Legacy support for kdelibs 4 compatibility",
+  "summary": "Porting aid from KDELibs4",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kdelibs4support",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdelibs4support/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kdelibs4support/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

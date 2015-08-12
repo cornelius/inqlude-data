@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kpackage",
   "display_name": "Package Framework",
-  "summary": "Installation and loading of additional content (ex: scripts, images...) as packages",
+  "summary": "Library to load and install packages of non binary files as they were a plugin",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kpackage",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kpackage/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kpackage/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

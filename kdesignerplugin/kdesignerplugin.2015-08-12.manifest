@@ -4,9 +4,9 @@
   "display_name": "KDesignerPlugin",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Integrating KDE frameworks widgets with Qt Designer",
+  "summary": "Integration of Frameworks widgets in Qt Designer/Creator",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kdesignerplugin",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdesignerplugin/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kdesignerplugin/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kactivities",
   "display_name": "KActivities",
-  "summary": "Core components for the KDE Activity concept",
+  "summary": "Runtime and library to organize the user work in separate activities",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kactivities",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kactivities/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kactivities/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

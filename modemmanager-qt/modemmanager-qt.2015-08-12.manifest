@@ -4,7 +4,7 @@
   "display_name": "ModemManagerQt",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Qt wrapper for ModemManager DBus API.",
+  "summary": "Qt wrapper for ModemManager API",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/modemmanager-qt",
     "download": "http://download.kde.org/stable/frameworks/5.13/",

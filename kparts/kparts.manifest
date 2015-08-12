@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kparts",
   "display_name": "KParts",
-  "summary": "Plugin framework for user interface components",
+  "summary": "Document centric plugin system",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kparts",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kparts/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kparts/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

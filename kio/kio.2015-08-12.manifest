@@ -4,9 +4,9 @@
   "display_name": "KIO",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Network transparent access to files and data",
+  "summary": "Resource and network access abstraction",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kio",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kio/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kio/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

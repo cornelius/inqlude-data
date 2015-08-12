@@ -4,9 +4,9 @@
   "display_name": "KNotification",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Desktop notifications",
+  "summary": "Abstraction for system notifications",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/knotifications",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/knotifications/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/knotifications/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

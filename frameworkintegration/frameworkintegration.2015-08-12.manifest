@@ -4,7 +4,7 @@
   "display_name": "Framework Integration",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Integration of Qt application with KDE workspaces",
+  "summary": "Workspace and cross-framework integration plugins",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/frameworkintegration",
     "download": "http://download.kde.org/stable/frameworks/5.13/",

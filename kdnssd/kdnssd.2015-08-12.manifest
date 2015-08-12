@@ -4,9 +4,9 @@
   "display_name": "KDE DNS-SD",
   "release_date": "2015-08-12",
   "version": "5.13.0",
-  "summary": "Network service discovery using Zeroconf",
+  "summary": "Abstraction to system DNSSD features",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kdnssd",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdnssd/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.13/",
     "vcs": "https://projects.kde.org/projects/frameworks/kdnssd/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"

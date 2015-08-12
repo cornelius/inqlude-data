@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kdelibs4support",
   "display_name": "KDELibs 4 Support",
-  "summary": "Legacy support for kdelibs 4 compatibility",
+  "summary": "Porting aid from KDELibs4",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kdelibs4support",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdelibs4support/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kdelibs4support/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

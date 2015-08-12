@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kplotting",
   "display_name": "KPlotting",
-  "summary": "Data plotting",
+  "summary": "Lightweight plotting framework",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kplotting",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kplotting/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kplotting/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
