@@ -3,8 +3,8 @@
   "name": "qtmodeling",
   "summary": "Framework for supporting model-driven engineering",
   "urls": {
-    "homepage": "http://qt-project.org/wiki/QtModeling",
-    "vcs": "https://qt.gitorious.org/qt/qtmodeling"
+    "homepage": "http://wiki.qt.io/QtModeling",
+    "vcs": "http://code.qt.io/cgit/qt/qtmodeling.git/"
   },
   "licenses": [
     "LGPLv2.1","GPLv3"

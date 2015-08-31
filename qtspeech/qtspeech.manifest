@@ -4,7 +4,7 @@
   "summary": "Cross-platform API to access and use system text-to-spech engines",
   "urls": {
     "homepage": "http://lynxline.com/projects/qtspeech/",
-    "vcs": "https://gitorious.org/qt-speech/qt-speech"
+    "vcs": "http://code.qt.io/cgit/qt/qtspeech.git/"
   },
   "licenses": [
     "LGPLv3+"

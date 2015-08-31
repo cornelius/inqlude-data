@@ -3,8 +3,8 @@
   "name": "qdatacube",
   "summary": "Datacube for Qt",
   "urls": {
-    "homepage": "http://gitorious.org/ange/qdatacube",
-    "vcs": "http://gitorious.org/ange/qdatacube"
+    "homepage": "https://gitlab.com/AngeOptimization/qdatacube",
+    "vcs": "https://gitlab.com/AngeOptimization/qdatacube"
   },
   "licenses": [
     "LGPL"

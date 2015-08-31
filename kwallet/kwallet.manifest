@@ -4,8 +4,8 @@
   "display_name": "KWallet Framework",
   "summary": "Safe desktop-wide storage for passwords",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kwallet-framework",
-    "vcs": "https://projects.kde.org/projects/frameworks/kwallet-framework/repository",
+    "homepage": "https://projects.kde.org/projects/frameworks/kwallet",
+    "vcs": "https://projects.kde.org/projects/frameworks/kwallet/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
   "licenses": [

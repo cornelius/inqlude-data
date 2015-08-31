@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qt",
+  "release_date": "2015-02-23",
+  "version": "5.4.1",
+  "summary": "Cross-platform application and UI framework",
+  "urls": {
+    "homepage": "http://qt.io",
+    "download": "http://qt.io/download",
+    "api_docs": "http://doc.qt.io/qt-5/index.html",
+    "tutorial": "http://doc.qt.io/qt-5/qtexamplesandtutorials.html",
+    "vcs": "http://code.qt.io/cgit/"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv2.1+",
+    "Commercial"
+  ],
+  "description": "Qt is a cross-platform application and UI framework. It provides a rich set of C++ libraries with building blocks for application and UI programming, including UI widget components and declarative UI support, handling of network access, XML support, and more.",
+  "authors": [
+    "The Qt Project"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "packages": {
+    "source": "http://download.qt.io/archive/qt/5.4/5.4.1/single/qt-everywhere-opensource-src-5.4.1.tar.gz"
+  }
+}

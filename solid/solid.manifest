@@ -4,7 +4,7 @@
   "display_name": "Solid",
   "summary": "Desktop hardware abstraction",
   "urls": {
-    "homepage": "http://solid.kde.org",
+    "homepage": "https://projects.kde.org/projects/frameworks/solid",
     "vcs": "https://projects.kde.org/projects/frameworks/solid/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

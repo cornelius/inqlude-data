@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kdbusaddons",
+  "display_name": "KDBusAddons",
+  "release_date": "2015-05-08",
+  "version": "5.10.0",
+  "summary": "Convenience classes for DBus",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kdbusaddons",
+    "download": "http://download.kde.org/stable/frameworks/5.10/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdbusaddons/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKDBusAddons provides convenience classes on top of QtDBus, as well as an API to\ncreate KDED modules.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.10/kdbusaddons-5.10.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

@@ -3,8 +3,8 @@
   "name": "qthttp",
   "summary": "HTTP implementation",
   "urls": {
-    "homepage": "https://qt.gitorious.org/qt/qthttp",
-    "vcs": "https://qt.gitorious.org/qt/qthttp"
+    "homepage": "http://code.qt.io/cgit/qt/qthttp.git/",
+    "vcs": "http://code.qt.io/cgit/qt/qthttp.git/"
   },
   "licenses": [
     "LGPLv2.1", "GPLv3", "Commercial"

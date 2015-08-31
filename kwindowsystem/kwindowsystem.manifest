@@ -6,7 +6,7 @@
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kwindowsystem",
     "vcs": "https://projects.kde.org/projects/frameworks/kwindowsystem/repository",
-    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel> and <https://mail.kde.org/mailman/listinfo/kwin"
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
   "licenses": [
     "LGPLv2.1+"

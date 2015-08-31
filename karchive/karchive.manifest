@@ -4,14 +4,14 @@
   "display_name": "KArchive",
   "summary": "Reading, creating, and manipulating file archives",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/karchive",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/karchive/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/karchive/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "KArchive provides classes for easy reading, creation and manipulation of\n\"archive\" formats like ZIP and TAR.\n\nIf also provides transparent compression and decompression of data, like the\nGZip format, via a subclass of QIODevice.",
+  "description": "KArchive provides classes for easy reading, creation and manipulation of\n\"archive\" formats like ZIP and TAR.\n\nIt also provides transparent compression and decompression of data, like the\nGZip format, via a subclass of QIODevice.",
   "authors": [
     "The KDE Community"
   ],
