@@ -23,7 +23,7 @@
   ],
   "packages": {
     "source": "http://cute-report.com/en/download/73",
-    "windows gpl": "http://cute-report.com/en/download/79",
-    "ubuntu gpl": "http://cute-report.com/en/download/74"
+    "windows": "http://cute-report.com/en/download/79",
+    "ubuntu": "http://cute-report.com/en/download/74"
   }
 }
