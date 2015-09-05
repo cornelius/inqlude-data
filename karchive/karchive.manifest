@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "karchive",
   "display_name": "KArchive",
-  "summary": "Reading, creating, and manipulating file archives",
+  "summary": "File compression",
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/karchive/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/karchive/repository",

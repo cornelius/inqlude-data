@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "solid",
   "display_name": "Solid",
-  "summary": "Desktop hardware abstraction",
+  "summary": "Hardware integration and detection",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/solid",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/solid/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/solid/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

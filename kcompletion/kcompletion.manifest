@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kcompletion",
   "display_name": "KCompletion",
-  "summary": "String completion framework",
+  "summary": "Text completion helpers and widgets",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kcompletion",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kcompletion/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kcompletion/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

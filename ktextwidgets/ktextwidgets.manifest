@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "ktextwidgets",
   "display_name": "KTextWidgets",
-  "summary": "Text editing widgets",
+  "summary": "Advanced text editing widgets",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/ktextwidgets",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/ktextwidgets/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/ktextwidgets/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

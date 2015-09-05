@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kinit",
   "display_name": "KInit",
-  "summary": "Helper library to speed up start of applications on KDE workspaces",
+  "summary": "Process launcher to speed up launching KDE applications",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kinit",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kinit/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kinit/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

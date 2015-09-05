@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "ktexteditor",
+  "display_name": "KTextEditor",
+  "release_date": "2015-08-12",
+  "version": "5.13.0",
+  "summary": "Advanced embeddable text editor",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/ktexteditor/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.13/",
+    "vcs": "https://projects.kde.org/projects/frameworks/ktexteditor/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KTextEditor provides a powerful text editor component that you can embed in your\napplication, either as a KPart or using the KF5::TextEditor library (if you need\nmore control).\n\nThe text editor component contains many useful features, from syntax\nhighlighting and automatic indentation to advanced scripting support, making it\nsuitable for everything from a simple embedded text-file editor to an advanced\nIDE.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.13/ktexteditor-5.13.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

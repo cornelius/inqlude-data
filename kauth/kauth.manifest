@@ -2,9 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kauth",
   "display_name": "KAuth",
-  "summary": "Execute actions as privileged user",
+  "summary": "Abstraction to system policy and authentication features",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kauth",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kauth/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kauth/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

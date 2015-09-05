@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "modemmanager-qt",
   "display_name": "ModemManagerQt",
-  "summary": "Qt wrapper for ModemManager DBus API.",
+  "summary": "Qt wrapper for ModemManager API",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/modemmanager-qt",
     "vcs": "https://projects.kde.org/projects/frameworks/modemmanager-qt/repository",

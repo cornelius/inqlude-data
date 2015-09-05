@@ -4,7 +4,7 @@
   "display_name": "KConfigWidgets",
   "summary": "Widgets for configuration dialogs",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/frameworks/kconfigwidgets",
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kconfigwidgets/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kconfigwidgets/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },

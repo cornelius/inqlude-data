@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "frameworkintegration",
   "display_name": "Framework Integration",
-  "summary": "Integration of Qt application with KDE work spaces",
+  "summary": "Workspace and cross-framework integration plugins",
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/frameworkintegration",
     "vcs": "https://projects.kde.org/projects/frameworks/frameworkintegration/repository",
