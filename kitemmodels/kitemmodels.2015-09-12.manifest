@@ -1,10 +1,13 @@
 {
-  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kitemmodels",
   "display_name": "KItemModels",
+  "release_date": "2015-09-12",
+  "version": "5.14.0",
   "summary": "Models for Qt Model/View system",
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kitemmodels/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.14/",
     "vcs": "https://projects.kde.org/projects/frameworks/kitemmodels/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
@@ -15,8 +18,12 @@
   "authors": [
     "The KDE Community"
   ],
+  "maturity": "stable",
   "platforms": [
     "Linux"
   ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.14/kitemmodels-5.14.0.tar.xz"
+  },
   "group": "kde-frameworks"
 }
