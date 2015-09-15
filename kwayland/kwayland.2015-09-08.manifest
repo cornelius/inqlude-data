@@ -1,0 +1,30 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kwayland",
+  "display_name": "KWayland",
+  "release_date": "2015-09-08",
+  "version": "5.4.1",
+  "summary": "KWayland is a Qt-style API to interact with the wayland-client and wayland-server API.",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/kde/workspace/kwayland",
+    "api_docs": "http://kde.martin-graesslin.com/kwayland/",
+    "vcs": "https://projects.kde.org/projects/kde/workspace/kwayland/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kwin",
+    "download": "http://download.kde.org/stable/plasma/5.4.1/",
+    "announcement": "https://www.kde.org/announcements/plasma-5.4.1.php"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKWayland provides two libraries:\n\n- KWayland::Client\n- KWayland::Server\n\nAs the names suggest they implement a Client respectively a Server API for the Wayland protocol. The API is Qt-styled removing the needs to interact with a for a Qt developer uncomfortable low-level C-API. For example the callback mechanism from the Wayland API is replaced by signals; data types are adjusted to be what a Qt developer expects, e.g. two arguments of int are represented by a QPoint or a QSize.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/plasma/5.4.1/kwayland-5.4.1.tar.xz"
+  }
+}
