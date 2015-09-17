@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kwayland",
   "display_name": "KWayland",
-  "summary": "KWayland is a Qt-style API to interact with the wayland-client and wayland-server API.",
+  "summary": "Qt-style API to interact with the wayland-client and wayland-server API",
   "urls": {
     "homepage": "https://projects.kde.org/projects/kde/workspace/kwayland",
     "api_docs": "http://kde.martin-graesslin.com/kwayland/",

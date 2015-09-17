@@ -4,7 +4,7 @@
   "display_name": "KWayland",
   "release_date": "2015-08-25",
   "version": "5.4.0",
-  "summary": "KWayland is a Qt-style API to interact with the wayland-client and wayland-server API.",
+  "summary": "Qt-style API to interact with the wayland-client and wayland-server API",
   "urls": {
     "homepage": "https://projects.kde.org/projects/kde/workspace/kwayland",
     "api_docs": "http://kde.martin-graesslin.com/kwayland/",
