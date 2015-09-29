@@ -1,0 +1,26 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "quickqanava",
+  "release_date": "2015-09-29",
+  "version": "0.0.4",
+  "summary": "QuickQanava",
+  "urls": {
+    "homepage": "http://www.qanava.org",
+    "api_docs": "http://www.qanava.org/doc/index.html",
+    "tutorial": "http://www.qanava.org/doc/index.html",
+    "vcs": "https://github.com/cneben/quickqanava",
+  },
+  "licenses": [
+    "GPLv3+"
+  ],
+  "description": "QuickQanava is a C++/QML graph drawing library for Qt5",
+  "authors": [
+    "cneben <benoit@qanava.org>"
+  ],
+  "maturity": "alpha",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "Android"
+  ],
+}
