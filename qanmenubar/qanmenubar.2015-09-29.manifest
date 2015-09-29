@@ -3,17 +3,18 @@
   "name": "qanmenubar",
   "release_date": "2015-09-29",
   "version": "0.0.4",
-  "summary": "QanMenuBar",
+  "display_name": "QanMenuBar",
+  "summary": "QanMenuBar is lightweight dynamic QML menu component similar to PieMenu",
   "urls": {
     "homepage": "http://www.qanava.org/qanava-menu/",
     "api_docs": "http://www.qanava.org/doc/qanmenu.html",
     "tutorial": "http://www.qanava.org/doc/qanmenu.html",
-    "vcs": "https://github.com/cneben/QuickQanava/tree/master/QanMenuBar",
+    "vcs": "https://github.com/cneben/QuickQanava/tree/master/QanMenuBar"
   },
   "licenses": [
     "GPLv3+"
   ],
-  "description": "QanMenuBar is lightweight dynamic QML menu component similar to PieMenu (part of the QuickQanava library, it could be used as a standalone component)",
+  "description": "QanMenuBar is lightweight dynamic QML menu component similar to PieMenu (part of the QuickQanava library, but it could be used as a standalone component)",
   "authors": [
     "cneben <benoit@qanava.org>"
   ],
@@ -23,4 +24,7 @@
     "Windows",
     "Android"
   ],
+  "packages": {
+	"source": "https://github.com/cneben/QuickQanava/archive/0.4.tar.gz"
+  }
 }

@@ -4,16 +4,17 @@
   "release_date": "2015-09-29",
   "version": "0.0.4",
   "summary": "QuickQanava",
+  "display_name": "QuickQanava is a C++/QML graph drawing library for Qt5",
   "urls": {
     "homepage": "http://www.qanava.org",
     "api_docs": "http://www.qanava.org/doc/index.html",
     "tutorial": "http://www.qanava.org/doc/index.html",
-    "vcs": "https://github.com/cneben/quickqanava",
+    "vcs": "https://github.com/cneben/quickqanava"
   },
   "licenses": [
     "GPLv3+"
   ],
-  "description": "QuickQanava is a C++/QML graph drawing library for Qt5",
+  "description": "QuickQanava is a C++/QML graph drawing library for Qt5, it can draw medium size directed graph with advanced layout and node content",
   "authors": [
     "cneben <benoit@qanava.org>"
   ],
@@ -23,4 +24,7 @@
     "Windows",
     "Android"
   ],
+  "packages": {
+	"source": "https://github.com/cneben/QuickQanava/archive/0.4.tar.gz"
+  }  
 }
