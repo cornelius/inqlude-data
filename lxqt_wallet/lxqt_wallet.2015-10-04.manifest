@@ -1,0 +1,27 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "lxqt_wallet",
+  "release_date": "2015-10-04",
+  "version": "2.2.0",
+  "summary": "Secure storage of data in an internal storage system or in KDE KWallet or GNOME libsecret",
+  "urls": {
+    "homepage": "https://github.com/mhogomchungu/lxqt_wallet",
+    "vcs": "https://github.com/mhogomchungu/lxqt_wallet.git",
+    "download": "https://github.com/mhogomchungu/lxqt_wallet/releases"
+  },
+  "licenses": [
+    "BSD"
+  ],
+  "description": "lxqt_wallet is a C++/Qt library that gives a unified API for secure storage of information in an internal storage system or KDE wallet or GNOME libsecret.\n",
+  "authors": [
+    "Francis Banyikwa <mhogomchungu@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://github.com/mhogomchungu/lxqt_wallet/releases/download/2.2.0/lxqt_wallet-2.2.0.tar.xz"
+  }
+}
+
