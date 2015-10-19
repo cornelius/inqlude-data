@@ -1,0 +1,30 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "osgqtquick",
+  "display_name": "osgQtQuick",
+  "summary": "OpenSceneGraph QML Modules",
+  "description": "Intergation OSG to Qt Quick",
+  "version": "2.0.0-alpha-2",
+  "maturity": "alpha",
+  "release_date": "2015-10-19",
+  "urls": {
+    "homepage": "https://github.com/podsvirov/osgqtquick",
+    "api_docs": "http://podsvirov.github.io/osgqtquick",
+    "download": "https://github.com/podsvirov/osgqtquick/releases"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "authors": [
+    "Konstantin Podsvirov <konstantin@podsvirov.pro>",
+    "osgQtQuick Contributors"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "https://github.com/podsvirov/osgqtquick/archive/v2.0.0-alpha-2.zip",
+    "source": "https://github.com/podsvirov/osgqtquick/archive/v2.0.0-alpha-2.tar.gz"
+  }
+}
