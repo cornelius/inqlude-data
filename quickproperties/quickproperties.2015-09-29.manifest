@@ -1,0 +1,30 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "quickproperties",
+  "release_date": "2015-09-29",
+  "version": "0.0.4",
+  "display_name": "QuickProperties",  
+  "summary": "QuickProperties is a C++/QML library for viewving and editing QObject properties in Qt5",
+  "urls": {
+    "homepage": "http://www.qanava.org/quick-properties/",
+    "api_docs": "http://www.qanava.org/doc/quickproperties.html",
+    "tutorial": "http://www.qanava.org/doc/quickproperties.html",
+    "vcs": "https://github.com/cneben/QuickQanava/tree/master/QuickProperties"
+  },
+  "licenses": [
+    "GPLv3+"
+  ],
+  "description": "QuickProperties is a C++/QML properties edition library for Qt5 wuite similar to the old Qt Solutions Property Browser",
+  "authors": [
+    "cneben <benoit@qanava.org>"
+  ],
+  "maturity": "alpha",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "Android"
+  ],
+  "packages": {
+	"source": "https://github.com/cneben/QuickQanava/archive/0.4.tar.gz"
+  }  
+}
