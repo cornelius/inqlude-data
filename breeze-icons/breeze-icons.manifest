@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "breeze-icons",
+  "display_name": "Breeze Icons",
+  "summary": "Breeze icon theme",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/breeze-icons/html/index.html",
+    "vcs": "https://projects.kde.org/projects/frameworks/breeze-icons/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nBreeze-icons is a freedesktop.org compatible icon theme.\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}

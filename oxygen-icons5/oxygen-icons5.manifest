@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "oxygen-icons5",
+  "display_name": "Oxygen Icons",
+  "summary": "Oxygen icon theme",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/oxygen-icons5/html/index.html",
+    "vcs": "https://projects.kde.org/projects/frameworks/oxygen-icons5/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nOxygen-icons is a freedesktop.org compatible icon theme.\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}
