@@ -2,14 +2,15 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qsint",
   "display_name": "QSint",
-  "summary": "Opensource Qt Widgets Collection",
+  "summary": "Open source Qt Widgets Collection",
   "urls": {
-    "homepage": "http://qt-apps.org/content/show.php?content=162296"
+    "homepage": "http://qt-apps.org/content/show.php?content=162296",
+    "vcs": "http://sourceforge.net/p/qsint/code"
   },
   "licenses": [
     "LGPL"
   ],
-  "description": "QSint is an opensource collection of Qt widgets which can be used while developing own Qt-based applications. Recent QSint version includes additional widgets and model-view-based 2d charts",
+  "description": "QSint is an open source collection of Qt widgets which can be used while developing own Qt-based applications. Recent QSint version includes additional widgets and model-view-based 2d charts",
   "authors": [
     "Sintegrial Technologies"
   ],
