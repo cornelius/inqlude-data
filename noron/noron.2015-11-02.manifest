@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
-  "name": "Noron",
+  "name": "noron",
+  "display_name": "Noron",
   "version": "0.1",
   "release_date": "2015-11-02",
   "summary": "Remote object sharing",
@@ -12,7 +13,7 @@
     "GPLv3",
     "LGPLv3"
   ],
-  "description": "This tool is a remote object sharing (Object Oriented RPC) in Qt. In technical view it can compaire with java rmi or similar technologies, but it is easier. Noron has an advanced signaling mechanism. A property change on a peer (server or client) will immediately take change on other peer. It can transfer every QVariant type (event QPixmap and complex types). For more details see RpcChat sample. More information will be writen in wiki.",
+  "description": "This tool implements remote object sharing (Object Oriented RPC) in Qt. From a technical point of view it can compare with Java RMI or similar technologies. Noron has an advanced signaling mechanism. A property change on a peer (server or client) will immediately signal a change on other peers. It can transfer every QVariant type (even QPixmap and complex types). For more details see RpcChat sample. More information can be found in the Wiki.",
   "maturity": "alpha",
   "authors": [
     "Hamed Masafi <hamed.masafi@gmail.com>"
