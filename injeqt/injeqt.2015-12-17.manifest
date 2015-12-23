@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "injeqt",
+  "display_name": "injeqt",
+  "release_date": "2015-03-07",
+  "version": "1.0.1",
+  "summary": "Dependency injection",
+  "urls": {
+    "homepage": "https://github.com/vogel/injeqt",
+    "download": "https://github.com/vogel/injeqt/releases",
+    "vcs": "https://github.com/vogel/injeqt"
+  },
+  "licenses": [
+    "LGPLv2.1"
+  ],
+  "description": "Injeqt implements simple dependency injection for Qt.",
+  "authors": [
+    "Rafał Przemysław Malinowski"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "packages": {
+    "source": "https://github.com/vogel/injeqt/archive/1.0.1.tar.gz"
+  },
+}
