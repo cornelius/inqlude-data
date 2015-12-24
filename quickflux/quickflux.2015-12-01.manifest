@@ -1,0 +1,28 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "quickflux",
+  "display_name": "Quick Flux",
+  "summary": "Message Dispatcher / Queue for Qt/QML",
+  "urls": {
+    "homepage": "https://github.com/benlau/quickflux",
+    "vcs": "https://github.com/benlau/quickflux",
+    "download": "https://github.com/benlau/quickflux/releases"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "description": "\nQuickFlux is a Message Dispatcher / Message Queue solution for Qt/QML. It is also an implementation of Flux Application Architecture (from Facebook). By using this library, users may write their QML application in a Flux way. Their code could be more readable and reusable.\n\n",
+  "authors": [
+    "Ben Lau"
+  ],
+  "platforms": [
+    "Any"
+  ],
+  "group": "kde-frameworks",
+  "maturity": "stable ",
+  "release_date": "2015-12-01",
+  "version": "1.0.3",
+  "packages": {
+    "source": "https://github.com/benlau/quickflux/archive/v1.0.3.zip"
+  }
+}
