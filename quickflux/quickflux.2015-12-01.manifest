@@ -18,7 +18,6 @@
   "platforms": [
     "Any"
   ],
-  "group": "kde-frameworks",
   "maturity": "stable ",
   "release_date": "2015-12-01",
   "version": "1.0.3",
