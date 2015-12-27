@@ -1,12 +1,18 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "vlc-qt",
+  "display_name": "VLC-Qt",
   "release_date": "2013-09-26",
   "version": "0.9.0",
   "summary": "VLC-Qt - a simple library to connect Qt application with libVLC",
   "urls": {
-    "homepage": "http://projects.tano.si",
-    "vcs": "https://github.com/ntadej/vlc-qt"
+    "homepage": "https://vlc-qt.tano.si",
+    "download": "https://github.com/vlc-qt/vlc-qt/releases",
+    "vcs": "https://github.com/vlc-qt/vlc-qt",
+    "api_docs": "https://vlc-qt.tano.si/reference/",
+    "custom": {
+      "Examples": "https://github.com/vlc-qt/examples"
+    }
   },
   "licenses": [
     "LGPLv3"
@@ -20,6 +26,6 @@
     "Linux", "OS X", "Windows"
   ],
   "packages": {
-    "source": "https://github.com/ntadej/vlc-qt/archive/0.9.0.tar.gz"
+    "source": "https://github.com/vlc-qt/vlc-qt/archive/0.9.0.tar.gz"
   }
 }
