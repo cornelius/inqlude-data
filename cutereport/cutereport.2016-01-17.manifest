@@ -3,7 +3,7 @@
   "name": "cutereport",
   "display_name": "CuteReport",
   "version": "1.1.1",
-  "release_date": "2015-09-06",
+  "release_date": "2016-01-17",
   "summary": "Report solution",
   "urls": {
     "homepage": "http://cute-report.com/",
@@ -22,9 +22,9 @@
     "Linux", "Windows", "Mac OS X"
   ],
   "packages": {
-    "source": "http://cute-report.com/en/download/84",
-    "windows": "http://cute-report.com/en/download/79",
-    "ubuntu": "http://cute-report.com/en/download/85"
+    "source": "http://cute-report.com/en/download/94",
+    "windows": "http://cute-report.com/en/download/99",
+    "ubuntu": "http://cute-report.com/en/download/102"
     "mac os x": "http://cute-report.com/en/download/88"
   }
 }
