@@ -2,8 +2,8 @@
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "vlc-qt",
   "display_name": "VLC-Qt",
-  "release_date": "2013-04-27",
-  "version": "0.8.1",
+  "release_date": "2015-12-27",
+  "version": "1.0.0",
   "summary": "VLC-Qt - a simple library to connect Qt application with libVLC",
   "urls": {
     "homepage": "https://vlc-qt.tano.si",
@@ -26,6 +26,6 @@
     "Linux", "OS X", "Windows"
   ],
   "packages": {
-    "source": "https://github.com/vlc-qt/vlc-qt/archive/0.8.1.tar.gz"
+    "source": "https://github.com/vlc-qt/vlc-qt/archive/1.0.0.tar.gz"
   }
 }
