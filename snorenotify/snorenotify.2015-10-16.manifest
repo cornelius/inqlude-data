@@ -1,0 +1,31 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "snorenotify",
+  "release_date": "2015-10-16",
+  "version": "0.6.0",
+  "summary": "Snorenotify notification framework",
+  "urls": {
+    "homepage": "https://techbase.kde.org/Projects/Snorenotify",
+    "api_docs": "http://hannah.von-reth.de/snorenotify/doc/0.6.0/index.html",
+    "vcs": "https://projects.kde.org/projects/playground/libs/snorenotify",
+    "download": "http://download.kde.org/stable/snorenotify/"
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/snorenotify"
+  },
+  "licenses": [
+    "LGPLv3"
+  ],
+  "description": "Snorenotify is a multi platform Qt notification framework. Using a plugin system it is possible to create notifications with many different notification systems on Windows, Mac OS and Unix and mobile Devices.",
+  "authors": [
+    "Hannah von Reth <vonreth@kde.org>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/snorenotify/0.6.0/src/snorenotify-0.6.0.tar.xz"
+  }
+}
+
