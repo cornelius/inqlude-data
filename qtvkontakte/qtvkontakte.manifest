@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtvkontakte",
+  "display_name": "QtVkontakte",
+  "summary": "Qt wrapper around Vkontakte Android SDK (https://vk.com, Russian social network)",
+  "urls": {
+    "homepage": "https://github.com/gilmanov-ildar/QtVkontakte",
+    "vcs": "https://github.com/gilmanov-ildar/QtVkontakte.git",
+    "mailing_list": "https://github.com/gilmanov-ildar/QtVkontakte/issues"
+  },
+  "licenses": [
+    "GPL2"
+  ],
+  "description": "Qt wrapper around Vkontakte Android SDK (https://vk.com, Russian social network)",
+  "authors": [
+    "Gilmanov Ildar"
+  ],
+  "platforms": [
+    "Android"
+  ],
+  "group": "mobile"
+}
