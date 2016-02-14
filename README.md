@@ -1,5 +1,7 @@
 # Inqlude data repository
 
+[![Verification Status](https://travis-ci.org/cornelius/inqlude-data.svg?branch=master)](https://travis-ci.org/cornelius/inqlude-data)
+
 This is the repository for library meta data of Qt based libraries for Include,
 the independent Qt library archive.
 
