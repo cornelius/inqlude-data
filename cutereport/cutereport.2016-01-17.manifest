@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "cutereport",
   "display_name": "CuteReport",
-  "version": "1.2,
+  "version": "1.2",
   "release_date": "2016-01-17",
   "summary": "Report solution",
   "urls": {
@@ -19,12 +19,12 @@
     "Alexander Mikhalov <alexander.mikhalov@gmail.com>"
   ],
   "platforms": [
-    "Linux", "Windows", "Mac OS X"
+    "Linux", "Windows", "OS X"
   ],
   "packages": {
     "source": "http://cute-report.com/en/download/94",
     "windows": "http://cute-report.com/en/download/99",
-    "ubuntu": "http://cute-report.com/en/download/102"
-    "mac os x": "http://cute-report.com/en/download/88"
+    "ubuntu": "http://cute-report.com/en/download/102",
+    "osx": "http://cute-report.com/en/download/88"
   }
 }
