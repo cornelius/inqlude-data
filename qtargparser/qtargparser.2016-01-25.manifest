@@ -1,0 +1,26 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qtargparser",
+  "version": "2.0.0",
+  "release_date": "2016-01-25",
+  "summary": "Command line parsing",
+  "urls": {
+    "homepage": "http://igor-mironchik.besaba.com/projects/qtarg.php",
+    "vcs": "https://github.com/igormironchik/qtargparser",
+    "download": "https://github.com/igormironchik/qtargparser/releases"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "QtArg is a small C++ library based on Qt for parsing command line arguments. It's a headers-only library, so you don't need separate compilation.",
+  "maturity": "stable",
+  "authors": [
+    "Igor Mironchik@gmail.com <igor.mironchik@gmail.com>"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://github.com/igormironchik/qtargparser/archive/2.0.0.tar.gz"
+  }
+}
