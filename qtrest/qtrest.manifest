@@ -1,0 +1,23 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtrest",
+  "display_name": "Qt REST Client",
+  "summary": "Qt REST Client Framework for work JSON/XML APIs",
+  "urls": {
+    "homepage": "https://github.com/kafeg/qtrest",
+    "vcs": "https://github.com/kafeg/qtrest.git",
+    "mailing_list": "https://github.com/kafeg/qtrest/issues"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "Qt Micro REST Client Framework - small and simple REST API client for any Qt/QML application. Library support standard JSON and XML REST APIs with sorting, filtering, lazy loading and other features\n\n",
+  "authors": [
+    "Vitaliy Petrov"
+  ],
+  "maturity": "beta",
+  "platforms": [
+    "Android", "iOS", "Windows", "Linux", "OS X"
+  ],
+  "group": "api"
+}
