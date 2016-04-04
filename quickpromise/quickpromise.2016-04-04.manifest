@@ -11,7 +11,7 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "description": "\nThe Promise object is widely used for deferred and asynchronous computation in Javascript Application. "Quick Promise” is a library that provides Promise object in a QML way. It comes with a Promise component with signal and property. It could be resolved via a binary expression, another promise object, then trigger your callback by QueuedConnection. \n\n Moreover, it also provides Promise as a Javascript object that don’t need to declare in QML way. The API is fully compliant with Promises/A+ specification with all the test cases passed and therefore it just works like many other Promise solutions for Javascript application.\n\n",
+  "description": "\nThe Promise object is widely used for deferred and asynchronous computation in Javascript Application. Quick Promise is a library that provides Promise object in a QML way. It comes with a Promise component with signal and property. It could be resolved via a binary expression, another promise object, then trigger your callback by QueuedConnection. \n\n Moreover, it also provides Promise as a Javascript object that don’t need to declare in QML way. The API is fully compliant with Promises/A+ specification with all the test cases passed and therefore it just works like many other Promise solutions for Javascript application.\n\n",
   "authors": [
     "Ben Lau"
   ],
