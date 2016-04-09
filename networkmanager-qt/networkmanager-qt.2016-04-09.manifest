@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "networkmanager-qt",
+  "display_name": "NetworkManagerQt",
+  "release_date": "2016-04-09",
+  "version": "5.21.0",
+  "summary": "Qt wrapper for NetworkManager API",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/networkmanager-qt/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.21/",
+    "vcs": "https://projects.kde.org/projects/frameworks/networkmanager-qt/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nNetworkManagerQt provides access to all NetworkManager features\nexposed on DBus. It allows you to manage your connections and control\nyour network devices and also provides a library for parsing connection\nsettings which are used in DBus communication.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.21/networkmanager-qt-5.21.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
