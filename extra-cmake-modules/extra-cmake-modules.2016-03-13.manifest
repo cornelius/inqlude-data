@@ -1,0 +1,27 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "extra-cmake-modules",
+  "release_date": "2016-03-13",
+  "version": "5.20.0",
+  "summary": "Extensions for software using the CMake build system",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/kdesupport/extra-cmake-modules",
+    "download": "http://download.kde.org/stable/frameworks/5.20/",
+    "vcs": "https://projects.kde.org/projects/kdesupport/extra-cmake-modules/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-buildsystem"
+  },
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "description": "The Extra CMake Modules package, or ECM, adds to the modules provided by CMake, including both ones used by `find_package()` to find common software and ones that can be used directly in `CMakeLists.txt` files to perform common tasks.\n\nIn addition, it provides common build settings used in software produced by the KDE community.\n\nWhile the driving force of this module is to reduce duplication in CMake scripts across KDE software, it is intended to be useful for any software that uses the CMake build system.",
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "OS X",
+    "Windows"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.20/extra-cmake-modules-5.20.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

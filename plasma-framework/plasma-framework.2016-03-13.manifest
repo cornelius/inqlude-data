@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "plasma-framework",
+  "display_name": "Plasma Framework",
+  "release_date": "2016-03-13",
+  "version": "5.20.0",
+  "summary": "Plugin based UI runtime used to write primary user interfaces",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/plasma-framework/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.20/",
+    "vcs": "https://projects.kde.org/projects/frameworks/plasma-framework/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "The plasma framework provides the following:\n- QML components\n- A C++ library: libplasma\n- Script engines",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.20/plasma-framework-5.20.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
