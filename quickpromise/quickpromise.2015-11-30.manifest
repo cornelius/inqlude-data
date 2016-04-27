@@ -1,0 +1,27 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "quickpromise",
+  "display_name": "Quick Promise",
+  "summary": "QML Promise Library",
+  "urls": {
+    "homepage": "https://github.com/benlau/quickpromise",
+    "vcs": "https://github.com/benlau/quickpromise.git",
+    "download": "https://github.com/benlau/quickpromise/releases"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "description": "\nThe Promise object is widely used for deferred and asynchronous computation in Javascript Application. Quick Promise is a library that provides Promise object in a QML way. It comes with a Promise component with signal and property. It could be resolved via a binary expression, another promise object, then trigger your callback by QueuedConnection. \n\n Moreover, it also provides Promise as a Javascript object that don’t need to declare in QML way. The API is fully compliant with Promises/A+ specification with all the test cases passed and therefore it just works like many other Promise solutions for Javascript application.\n\n",
+  "authors": [
+    "Ben Lau"
+  ],
+  "platforms": [
+    "Any"
+  ],
+  "maturity": "stable ",
+  "release_date": "2015-11-30",
+  "version": "1.0.3",
+  "packages": {
+    "source": "https://github.com/benlau/quickpromise/archive/v1.0.3.zip"
+  }
+}
