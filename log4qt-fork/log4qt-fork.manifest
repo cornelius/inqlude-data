@@ -1,19 +1,27 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "log4qt-fork",
-  "summary": "Logging framework for Qt",
+  "display_name": "Log4Qt",
+  "release_date": "2016-05-03",
+  "version": "1.2.0",
+  "summary": "C++ port of the Log4j logging framework",
   "urls": {
-    "homepage": "https://gitorious.org/log4qt/",
-    "vcs": "https://gitorious.org/log4qt/log4qt"
+    "homepage": "https://github.com/MEONMedical/Log4Qt",
+    "vcs": "https://github.com/MEONMedical/Log4Qt"
   },
   "licenses": [
     "Apache-2.0"
   ],
   "description": "Fork of log4qt project with some additional features.",
   "authors": [
-    "Michael Filonenko <filonenko.mikhail@gmail.com>"
+    "Michael Filonenko <filonenko.mikhail@gmail.com>",
+    "Andreas Bacher <andi.bacher@gmx.at>",
+    "Johann Anhofer <johann.anhofer@gmail.com>"
   ],
+  "maturity": "stable",
   "platforms": [
-    "Linux", "Windows"
+    "Linux",
+    "Windos",
+    "OS X"
   ]
 }
