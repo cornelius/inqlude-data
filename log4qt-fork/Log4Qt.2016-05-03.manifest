@@ -1,6 +1,7 @@
 {
 	"$schema": "http://inqlude.org/schema/release-manifest-v1#",
-	"name": "Log4Qt",
+	"name": "log4qt",
+	"display_name": "Log4Qt",  
 	"release_date": "2016-05-03",
 	"version": "1.2.0",
 	"summary": "C++ port of the Log4j logging framework",
