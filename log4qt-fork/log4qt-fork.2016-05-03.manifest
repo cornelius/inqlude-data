@@ -1,6 +1,6 @@
 {
 	"$schema": "http://inqlude.org/schema/release-manifest-v1#",
-	"name": "log4qt",
+	"name": "log4qt-fork",
 	"display_name": "Log4Qt",  
 	"release_date": "2016-05-03",
 	"version": "1.2.0",
