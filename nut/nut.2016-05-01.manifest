@@ -4,16 +4,17 @@
   "display_name": "Nut",
   "version": "0.1",
   "release_date": "2016-05-01",
-  "summary": "Advanced orm for Qt5",
+  "summary": "Object relational mapper for Qt5",
   "urls": {
     "homepage": "https://github.com/HamedMasafi/Nut",
-    "download": "https://github.com/HamedMasafi/Nut"
+    "download": "https://github.com/HamedMasafi/Nut",
+    "api_docs": "https://github.com/HamedMasafi/Nut/blob/master/README.md"
   },
   "licenses": [
     "GPLv3",
     "LGPLv3"
   ],
-  "description": "This tool is advanced and easy to use ORM for Qt5. Nut can automaticaly create and update database to last version of classes. Add, Update, Delete and Editing records is so easy, (See README.md for mor informations)",
+  "description": "Nut is an object relational mapper (ORM) for Qt5. It can automatically create and update a databases to the last versions of classes. It supports Add, Update, Delete and Editing records (See README.md for more information)",
   "maturity": "stable",
   "authors": [
     "Hamed Masafi <hamed.masafi@gmail.com>"
