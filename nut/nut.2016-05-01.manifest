@@ -1,0 +1,31 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "nut",
+  "display_name": "Nut",
+  "version": "0.1",
+  "release_date": "2016-05-01",
+  "summary": "Advanced orm for Qt5",
+  "urls": {
+    "homepage": "https://github.com/HamedMasafi/Nut",
+    "download": "https://github.com/HamedMasafi/Nut"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv3"
+  ],
+  "description": "This tool is advanced and easy to use ORM for Qt5. Nut can automaticaly create and update database to last version of classes. Add, Update, Delete and Editing records is so easy, (See README.md for mor informations)",
+  "maturity": "stable",
+  "authors": [
+    "Hamed Masafi <hamed.masafi@gmail.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "Mac OS X",
+    "Android",
+    "IOS"
+  ],
+  "packages": {
+    "source": "https://github.com/HamedMasafi/Nut/archive/master.zip"
+  }
+}
