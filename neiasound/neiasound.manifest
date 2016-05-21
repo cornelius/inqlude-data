@@ -4,6 +4,7 @@
   "display_name": "neiasound",
   "summary": "OpenAl wrapper for Qt apps and games",
   "urls": {
+    "homepage": "https://github.com/lucaspcamargo/neiasound",
     "vcs": "https://github.com/lucaspcamargo/neiasound"
   },
   "licenses": [
