@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "attica",
+  "release_date": "2016-05-15",
+  "version": "5.22.0",
+  "summary": "Open Collaboration Service client library",
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/kdesupport/attica",
+    "tutorial": "http://techbase.kde.org/Development/Tutorials/Collaboration/Attica/Introduction",
+    "vcs": "https://projects.kde.org/projects/kdesupport/attica/repository",
+    "description_source": "http://en.wikipedia.org/wiki/Open_Collaboration_Services",
+    "download": "http://download.kde.org/stable/frameworks/5.22/"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "The Open Collaboration Services (OCS) is an open and vendor independent modern REST based API for integration of web communities and web based services into desktop and mobile applications. It allows to exchange relevant data from a Social Network between the site and clients such as other websites and applications or widgets running locally on the user's machine or mobile device. The protocol has been designed so that all applications can access multiple services providing OCS APIs.\n\nAttica is a library to access Open Collaboration Service servers.\n\n\n\n",
+  "authors": [
+    "Cornelius Schumacher <schumacher@kde.org>",
+    "Frederik Gladhorn <gladhorn@kde.org>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.22/attica-5.22.0.tar.xz"
+  }
+}
