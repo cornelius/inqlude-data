@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "nut",
+  "display_name": "Nut",
+  "version": "0.1",
+  "release_date": "2016-05-01",
+  "summary": "Object relational mapper for Qt5",
+  "urls": {
+    "homepage": "https://github.com/HamedMasafi/Nut",
+    "download": "https://github.com/HamedMasafi/Nut",
+    "api_docs": "https://github.com/HamedMasafi/Nut/blob/master/README.md"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv3"
+  ],
+  "description": "Nut is an object relational mapper (ORM) for Qt5. It can automatically create and update a databases to the last versions of classes. It supports Add, Update, Delete and Editing records (See README.md for more information)",
+  "maturity": "stable",
+  "authors": [
+    "Hamed Masafi <hamed.masafi@gmail.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "Mac OS X",
+    "Android",
+    "IOS"
+  ],
+  "packages": {
+    "source": "https://github.com/HamedMasafi/Nut/archive/master.zip"
+  }
+}
