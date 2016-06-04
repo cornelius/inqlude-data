@@ -25,5 +25,6 @@
   ],
   "packages": {
     "source": "http://download.kde.org/stable/frameworks/5.22/attica-5.22.0.tar.xz"
-  }
+  },
+  "group": "kde-frameworks"
 }
