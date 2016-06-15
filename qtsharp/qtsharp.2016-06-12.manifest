@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qtsharp",
+  "display_name": "QtSharp",
+  "release_date": "2016-06-12",
+  "version": "0.5.1",
+  "summary": "Mono/.NET bindings for Qt",
+  "urls": {
+    "homepage": "https://github.com/ddobrev/QtSharp",
+    "vcs": "https://github.com/ddobrev/QtSharp",
+    "download": "https://github.com/ddobrev/QtSharp/releases",
+    "announcement": "https://github.com/ddobrev/QtSharp/releases/tag/0.5.1",
+    "api_docs": "https://github.com/ddobrev/QtSharp/tree/master/Docs",
+    "custom": {
+        "Wiki": "https://github.com/ddobrev/QtSharp/wiki"
+    }
+  },
+  "licenses": [
+    "Apache-v2.0"
+  ],
+  "description": "QtSharp is a project which aims to create Mono/.NET libraries that wrap Qt thus enabling its usage through C#. It relies on the excellent CppSharp. It is a generator that expects the include and library directories of a Qt set-up and then generates and compiles the wrappers. There is no Qt included in the repository, users have to download and install Qt themselves. The source code is separated into a library that contains the settings and passes the generator needs, and a command-line client.",
+  "authors": [
+    "Dimitar Dobrev <dpldobrev@protonmail.com>"
+  ],
+  "maturity": "alpha",
+  "platforms": [
+    "Windows"
+  ],
+  "packages": {
+    "source": "https://github.com/ddobrev/QtSharp/releases/download/0.5.1/QtSharp-0.5.1-Qt-5.6.1-MinGW.zip"
+  }
+}
+
