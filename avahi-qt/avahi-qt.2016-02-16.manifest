@@ -1,0 +1,34 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "avahi-qt",
+  "display_name": "Avahi",
+  "release_date": "2016-02-16",
+  "version": "0.6.32",
+  "summary": "Qt4 Bindings for avahi, the D-BUS Service for Zeroconf and Bonjour",
+  "urls": {
+    "homepage": "http://www.avahi.org/",
+    "vcs": "https://github.com/lathiat/avahi",
+    "download": "https://github.com/lathiat/avahi/releases",
+    "custom": {
+        "Wiki": "http://www.avahi.org/wiki"
+    },
+    "mailing_list": "http://lists.freedesktop.org/mailman/listinfo/avahi"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+
+  ],
+  "description": "Qt4 bindings for avahi.\n\nAvahi is an Implementation the DNS Service Discovery and Multicast DNS\nspecifications for Zeroconf Computing. It uses D-BUS for communication\nbetween user applications and a system daemon. The daemon is used to\ncoordinate application efforts in caching replies, necessary to\nminimize the traffic imposed on networks.\n\nThe Avahi mDNS responder is now feature complete implementing all MUSTs\nand the majority of the SHOULDs of the mDNS/DNS-SD RFCs. It passes all\ntests in the Apple Bonjour conformance test suite. In addition it\nsupports some nifty things that have never been seen elsewhere like\ncorrect mDNS reflection accross LAN segments.\n",
+  "authors": [
+    "Lennart Poettering",
+    "Trent Lloyd"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://github.com/lathiat/avahi/releases/download/v0.6.32/avahi-0.6.32.tar.gz"
+  }
+}
+
