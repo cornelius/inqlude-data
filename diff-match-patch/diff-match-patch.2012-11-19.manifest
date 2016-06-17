@@ -1,0 +1,31 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "diff-match-patch",
+  "display_name": "google-diff-match-patch",
+  "version": "20121119",
+  "release_date": "2012-11-19",
+  "summary": "Diff, Match and Patch libraries for Plain Text",
+  "urls": {
+    "homepage": "http://code.google.com/p/google-diff-match-patch/",
+    "vcs": "http://code.google.com/p/google-diff-match-patch/source/browse/",
+    "download": "https://code.google.com/p/google-diff-match-patch/downloads/list",
+    "custom": {
+        "Wiki": "https://code.google.com/p/google-diff-match-patch/w/list"
+    }
+  },
+  "licenses": [
+    "Apache2.0"
+  ],
+  "description": "The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchronizing plain text. \n\nDiff: Compare two blocks of plain text and efficiently return a list of differences. \n\nMatch: Given a search string, find its best fuzzy match in a block of plain text. Weighted for both accuracy and location. \n\nPatch: Apply a list of patches onto plain text. Use best-effort to apply patch even when the underlying text doesn't match.\n\nCurrently available in Java, JavaScript, Dart, C++, C#, Objective C, Lua and Python. Regardless of language, each library features the same API and the same functionality. The C++ library provides a Qt-based interface.",
+  "authors": [
+    "Neil Fraser <fraser@google.com>",
+    "Mike Slemmer <mikeslemmer@gmail.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://google-diff-match-patch.googlecode.com/files/diff_match_patch_20121119.zip"
+  }
+}
