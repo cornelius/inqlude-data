@@ -16,7 +16,7 @@
   "licenses": [
     "GPLv3+", "Commercial"
   ],
-  "description": "CuteReport is an easy, powerful and extendable report solution. It is based on Qt framework and can be integrated into any Qt application. \n\nGenerally CuteReport consists of two parts: core library and template designer. Both are totally modular and theirs functionality can be simply extended by writing additional modules. It's totally abstract of used data and can use as storage: file system, database, version control systems, etc. The project's goal is to provide powerful, but yet simple to use for inexperienced user and report designers, reporting system.",
+  "description": "CuteReport is a report solution. It is based on Qt framework and can be integrated into any Qt application. It has a template designer with form designer, page editor, dataset editor, and other modules. The functionality of CuteReport designer and the CuteReport library can be extended by writing custom plugins.",
   "maturity": "stable",
   "authors": [
     "Alexander Mikhalov <alexander.mikhalov@gmail.com>"
