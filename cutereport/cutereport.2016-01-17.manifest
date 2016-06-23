@@ -8,7 +8,10 @@
   "urls": {
     "homepage": "http://cute-report.com/",
     "vcs": "",
-    "download": "http://cute-report.com/download"
+    "download": "https://cute-report.com/en/download",
+    "announcement": "https://cute-report.com/en/article/32",
+    "api_docs": "https://cute-report.com/en/article/documentation",
+    "mailing_list": "cutereport@gmail.com"
   },
   "licenses": [
     "GPLv3+", "Commercial"
@@ -22,9 +25,9 @@
     "Linux", "Windows", "OS X"
   ],
   "packages": {
-    "source": "http://cute-report.com/en/download/94",
-    "windows": "http://cute-report.com/en/download/99",
-    "ubuntu": "http://cute-report.com/en/download/102",
-    "osx": "http://cute-report.com/en/download/88"
+    "source": "https://cute-report.com/en/download/94",
+    "windows": "https://cute-report.com/en/download/99",
+    "ubuntu": "https://cute-report.com/en/download/102",
+    "osx": "https://cute-report.com/en/download/88"
   }
 }
