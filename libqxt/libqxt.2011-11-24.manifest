@@ -5,7 +5,7 @@
   "release_date": "2011-11-24",
   "summary": "Utility classes for Qt",
   "urls": {
-    "homepage": "http://dev.libqxt.org/libqxt/wiki/Home",
+    "homepage": "https://bitbucket.org/libqxt/libqxt/wiki/Home",
     "vcs": "http://dev.libqxt.org/libqxt/src"
   },
   "licenses": [
