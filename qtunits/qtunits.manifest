@@ -1,0 +1,26 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qtunits",
+  "display_name": "QtUnits",
+  "summary": "Qt runtime unit conversion library built using (and compatible with) Boost::Units.",
+  "urls": {
+    "homepage": "https://github.com/hrobeers/QtUnits",
+    "vcs": "https://github.com/hrobeers/QtUnits",
+    "custom": {
+        "Examples": "https://github.com/hrobeers/QtUnits/tree/master/tests"
+    }
+  },
+  "licenses": [
+    "BSD 2-clause"
+  ],
+  "description": "Qt runtime unit conversion library built using (and compatible with) Boost::Units. This library is originally developed for the finFoil project (https://github.com/hrobeers/finFoil).",
+  "authors": [
+    "Hans Robeers <hansrobeers@gmail.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ]
+}
+
