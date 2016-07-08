@@ -23,5 +23,8 @@
   ],
   "platforms": [
     "Linux", "Windows", "OS X"
-  ]
+  ],
+  "packages": {
+    "source": "https://sourceforge.net/projects/limereport/files/Sources/limereport_1_3_11.7z/download"
+  }
 }
