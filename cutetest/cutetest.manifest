@@ -10,7 +10,7 @@
   "licenses": [
     "LGPLv3+", "BSD-3-clause", "Apache-2.0"
   ],
-  "description": "With CuteTest you can create unit tests and view their results. It’s open-source and based on QTestLib but extends it with the following features: You can have multiple test suites (test classes) in a single project. Test suites are registered automatically. No need to manually build the list of test suites. CuteTest provides a public API to retrieve the results of a test run.",
+  "description": "With CuteTest you can create unit tests and view their results. It is based on QTestLib but extends it with the following features: You can have multiple test suites (test classes) in a single project. Test suites are registered automatically. No need to manually build the list of test suites. CuteTest provides a public API to retrieve the results of a test run.",
   "authors": [
     "Maya Studios"
   ],
