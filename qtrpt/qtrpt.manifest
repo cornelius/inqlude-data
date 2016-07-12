@@ -3,6 +3,9 @@
   "name": "qtrpt",
   "display_name": "QtRPT",
   "summary": "Report engine",
+  "topics": [
+    "Printing"
+  ],
   "urls": {
     "homepage": "http://www.qtrpt.tk"
   },

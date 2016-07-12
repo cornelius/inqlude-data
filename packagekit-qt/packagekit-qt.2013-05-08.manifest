@@ -4,6 +4,9 @@
   "release_date": "2013-05-08",
   "version": "0.8.8",
   "summary": "Qt bindings for PackageKit, the backend for managing software installation",
+  "topics": [
+    "Bindings"
+  ],
   "urls": {
     "homepage": "http://packagekit.org/",
     "vcs": "http://gitorious.org/packagekit/packagekit/trees/master/lib/packagekit-qt",

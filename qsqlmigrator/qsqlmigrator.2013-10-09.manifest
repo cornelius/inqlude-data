@@ -4,6 +4,9 @@
   "release_date": "2013-10-09",
   "version": "1.0",
   "summary": "QSqlMigrator - keep track of your database migrations",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "https://github.com/hicknhack-software/QSqlMigrator",
     "vcs": "https://github.com/hicknhack-software/QSqlMigrator"

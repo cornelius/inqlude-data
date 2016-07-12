@@ -4,6 +4,9 @@
   "version": "3.5",
   "release_date": "2006-12-17",
   "summary": "Application framework inspired by Inversion Of Control concept",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "http://qtioccontainer.sourceforge.net/index.html",
     "vcs": "http://svn.sourceforge.net/qtioccontainer",

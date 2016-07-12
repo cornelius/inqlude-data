@@ -4,6 +4,10 @@
   "release_date": "2013-05-30",
   "version": "6.1.0",
   "summary": "Widgets for Technical Applications",
+  "topics": [
+    "Widgets",
+    "Graphics"
+  ],
   "urls": {
     "homepage": "http://qwt.sourceforge.net/",
     "vcs": "http://qwt.svn.sourceforge.net/viewvc/qwt/",

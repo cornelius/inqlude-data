@@ -4,6 +4,9 @@
   "release_date": "2012-11-27",
   "version": "0.8.1",
   "summary": "JSON parser for Qt",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "http://qjson.sourceforge.net/",
     "api_docs": "http://qjson.sourceforge.net/docs/index.html",

@@ -4,6 +4,9 @@
   "release_date": "2013-10-14",
   "version": "1.4.0",
   "summary": "Tools and utilities to create installers for the supported desktop Qt platforms.",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "http://qt-project.org/doc/qtinstallerframework-1.4/index.html"
   },

@@ -4,6 +4,9 @@
   "version": "0.4.0",
   "release_date": "2013-10-11",
   "summary": "ORM and HTTP request/response framework",
+  "topics": [
+    "Web"
+  ],
   "urls": {
     "homepage": "https://code.google.com/p/qdjango/"
   },

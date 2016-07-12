@@ -5,6 +5,9 @@
   "version": "1.01",
   "release_date": "2012-09-03",
   "summary": "Decimal arithmetic library for Qt framework",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "https://code.google.com/p/qdecimal/",
     "vcs": "https://code.google.com/p/qdecimal/source/browse/"

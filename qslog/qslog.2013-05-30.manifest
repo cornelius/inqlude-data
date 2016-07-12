@@ -4,6 +4,10 @@
   "version": "2.0b1",
   "release_date": "2013-05-30",
   "summary": "Simple Qt logger",
+  "topics": [
+    "Logging",
+    "Development"
+  ],
   "urls": {
     "homepage": "https://bitbucket.org/razvanpetru/qt-components/wiki/QsLog",
     "vcs": "https://bitbucket.org/razvanpetru/qt-components/src"

@@ -5,6 +5,10 @@
   "release_date": "2016-04-03",
   "version": "0.1.1",
   "summary": "Google Play Auth, Achives and Ratings, AdMob, and Analytics for Qt/QML on Android/iOS",
+  "topics": [
+    "Mobile",
+    "QML"
+  ],
   "urls": {
     "homepage": "https://github.com/kafeg/adctl",
     "vcs": "https://github.com/kafeg/adctl.git",

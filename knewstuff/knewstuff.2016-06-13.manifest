@@ -4,6 +4,10 @@
   "display_name": "KNewStuff",
   "release_date": "2016-06-13",
   "version": "5.23.0",
+  "topics": [
+    "Data",
+    "Communication"
+  ],
   "summary": "Support for downloading application assets from the network",
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/knewstuff/html/index.html",

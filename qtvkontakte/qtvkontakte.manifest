@@ -3,6 +3,9 @@
   "name": "qtvkontakte",
   "display_name": "QtVkontakte",
   "summary": "Qt wrapper around Vkontakte Android SDK (https://vk.com, Russian social network)",
+  "topics": [
+    "Mobile"
+  ],
   "urls": {
     "homepage": "https://github.com/gilmanov-ildar/QtVkontakte",
     "vcs": "https://github.com/gilmanov-ildar/QtVkontakte.git",

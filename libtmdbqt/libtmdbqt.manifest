@@ -3,6 +3,10 @@
   "name": "libtmdbqt",
   "display_name": "TmdbQt",
   "summary": "Library for querying The Movie Database API (themoviedb.org)",
+  "topics": [
+    "API",
+    "Data"
+  ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/playground/network/libtmdbqt",
     "vcs": "git clone git://anongit.kde.org/libtmdbqt"

@@ -4,6 +4,9 @@
   "release_date": "2016-05-15",
   "version": "5.22.0",
   "summary": "Open Collaboration Service client library",
+  "topics": [
+    "API"
+  ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/kdesupport/attica",
     "tutorial": "http://techbase.kde.org/Development/Tutorials/Collaboration/Attica/Introduction",

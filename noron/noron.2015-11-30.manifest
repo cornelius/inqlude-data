@@ -5,6 +5,9 @@
   "version": "0.1",
   "release_date": "2015-11-30",
   "summary": "Remote object sharing",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "https://github.com/HamedMasafi/Noron",
     "download": "https://github.com/HamedMasafi/Noron"

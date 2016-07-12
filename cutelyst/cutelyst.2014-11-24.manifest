@@ -4,6 +4,9 @@
   "version": "0.5.0",
   "release_date": "2014-11-24",
   "summary": "A Web Framework, using the simple approach of Catalyst (Perl) framework.",
+  "topics": [
+    "Web"
+  ],
   "urls": {
     "homepage": "http://cutelyst.org/",
     "vcs": "https://gitorious.org/cutelyst/cutelyst.git",

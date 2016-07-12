@@ -3,6 +3,9 @@
   "name": "qsint",
   "display_name": "QSint",
   "summary": "Open source Qt Widgets Collection",
+  "topics": [
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://qt-apps.org/content/show.php?content=162296",
     "vcs": "http://sourceforge.net/p/qsint/code"

@@ -5,6 +5,10 @@
   "release_date": "2016-06-13",
   "version": "5.23.0",
   "summary": "Widgets for configuration dialogs",
+  "topics": [
+    "Development",
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kconfigwidgets/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.23/",

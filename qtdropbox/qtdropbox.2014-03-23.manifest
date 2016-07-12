@@ -4,6 +4,9 @@
   "release_date": "2014-03-23",
   "version": "5.0",
   "summary": "Qt Dropbox",
+  "topics": [
+    "API"
+  ],
   "urls": {
     "homepage": "http://lycis.github.io/QtDropbox/",
     "vcs": "https://github.com/lycis/QtDropbox/"

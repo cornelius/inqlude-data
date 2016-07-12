@@ -4,6 +4,9 @@
   "version": "0.7",
   "release_date": "2014-07-24",
   "summary": "Qt/C++ wrapper for ZIP/UNZIP package",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "http://quazip.sourceforge.net/",
     "vcs": "http://sourceforge.net/p/quazip/code/HEAD/tree/",

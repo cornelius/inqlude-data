@@ -4,6 +4,9 @@
   "version": "20130507",
   "release_date": "2013-05-07",
   "summary": "Qt FFmpeg Wrapper for video frame encoding and decoding",
+  "topics": [
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "https://code.google.com/p/qtffmpegwrapper/",
     "vcs": "https://code.google.com/p/qtffmpegwrapper/source/browse/"

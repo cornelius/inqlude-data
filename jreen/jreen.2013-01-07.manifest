@@ -4,6 +4,9 @@
   "release_date": "2013-01-07",
   "version": "1.1.1",
   "summary": "XMPP client library",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "http://qutim.org/jreen",
     "vcs": "https://github.com/euroelessar/jreen"

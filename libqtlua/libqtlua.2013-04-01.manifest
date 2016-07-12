@@ -4,6 +4,9 @@
   "version": "2.0",
   "release_date": "2013-04-01",
   "summary": "Framework for embedding Lua in Qt applications",
+  "topics": [
+    "Scripting"
+  ],
   "urls": {
     "homepage": "http://www.nongnu.org/libqtlua/",
     "vcs": "http://svn.savannah.nongnu.org/viewvc/?root=libqtlua",

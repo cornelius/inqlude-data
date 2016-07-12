@@ -5,6 +5,10 @@
   "version": "0.98",
   "display_name": "kQOAuth",
   "summary": "OAuth 1.0 authentication",
+  "topics": [
+    "Security",
+    "API"
+  ],
   "urls": {
     "homepage": "http://www.johanpaul.com/blog/kqoauth/",
     "vcs": "https://github.com/kypeli/kQOAuth"

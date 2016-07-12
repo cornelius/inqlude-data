@@ -2,6 +2,11 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "ctk",
   "summary": "Toolkit for biomedical image computing",
+  "topics": [
+    "Graphics",
+    "Widgets",
+    "Data"
+  ],
   "urls": {
     "homepage": "http://www.commontk.org/index.php/Main_Page",
     "vcs": "http://github.com/commontk/CTK",

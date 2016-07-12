@@ -4,6 +4,9 @@
   "version": "2.0.0",
   "release_date": "2016-01-25",
   "summary": "Command line parsing",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "http://igor-mironchik.besaba.com/projects/qtarg.php",
     "vcs": "https://github.com/igormironchik/qtargparser",

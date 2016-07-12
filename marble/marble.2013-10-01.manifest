@@ -4,6 +4,9 @@
   "release_date": "2013-10-01",
   "version": "1.6.1",
   "summary": "Marble Virtual Globe",
+  "topics": [
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://marble.kde.org",
     "api_docs": "http://api.kde.org/4.11-api/kdeedu-apidocs/marble/html/",

@@ -5,6 +5,9 @@
   "version": "0.2.2",
   "release_date": "2014-01-20",
   "summary": ".xlsx file reader and writer for Qt5",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "https://github.com/dbzhang800/QtXlsxWriter",
     "api_docs": "http://qtxlsx.debao.me/"

@@ -3,6 +3,9 @@
   "name": "quickcross",
   "display_name": "Quick Cross",
   "summary": "QML Cross Platform Utility Library",
+  "topics": [
+    "QML"
+  ],
   "urls": {
     "homepage": "https://github.com/benlau/quickcross",
     "vcs": "https://github.com/benlau/quickcross",

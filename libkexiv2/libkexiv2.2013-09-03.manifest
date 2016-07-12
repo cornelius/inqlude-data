@@ -4,6 +4,10 @@
   "release_date": "2013-09-03",
   "version": "4.11.1",
   "summary": "Qt bindings for Exiv2, the library to manipulate picture meta data",
+  "topics": [
+    "Graphics",
+    "Bindings"
+  ],
   "urls": {
     "homepage": "http://www.digikam.org/sharedlibs",
     "api_docs": "http://api.kde.org/4.x-api/kdegraphics-apidocs/libs/libkexiv2/libkexiv2/html/index.html",

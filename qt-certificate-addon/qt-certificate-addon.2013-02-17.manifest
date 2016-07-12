@@ -4,6 +4,9 @@
   "version": "edge",
   "release_date": "2013-02-17",
   "summary": "Qt Certificate Addon",
+  "topics": [
+    "Security"
+  ],
   "urls": {
     "homepage": "http://xmelegance.org/devel/qt-certificate-addon/",
     "vcs": "https://gitorious.org/qt-certificate-addon"

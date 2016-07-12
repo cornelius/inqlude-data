@@ -4,6 +4,10 @@
   "release_date": "2013-09-03",
   "version": "1.0.8",
   "summary": "A Qt C++ library for the Last.fm webservices",
+  "topics": [
+    "API",
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "http://www.last.fm/download",
     "vcs": "https://github.com/lastfm/liblastfm"

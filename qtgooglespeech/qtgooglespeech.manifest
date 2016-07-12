@@ -2,6 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtgooglespeech",
   "summary": "Library to use Google Speech service",
+  "topics": [
+    "API"
+  ],
   "urls": {
     "homepage": "https://github.com/niqt/QtGoogleSpeech",
     "vcs": "https://github.com/niqt/QtGoogleSpeech"

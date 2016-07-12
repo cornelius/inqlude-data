@@ -4,6 +4,10 @@
   "version": "1.4",
   "release_date": "2013-05-30",
   "summary": "Building blocks for Qt applications",
+  "topics": [
+    "Logging",
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://jpnaude.github.io/Qtilities/",
     "vcs": "https://github.com/JPNaude/Qtilities",

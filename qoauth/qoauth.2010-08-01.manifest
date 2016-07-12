@@ -4,6 +4,10 @@
   "release_date": "2010-08-01",
   "version": "1.0.1",
   "summary": "Library for OAuth authorization scheme",
+  "topics": [
+    "Security",
+    "API"
+  ],
   "urls": {
     "homepage": "http://github.com/ayoy/qoauth",
     "api_docs": "http://files.ayoy.net/qoauth/1.0.1/doc/",

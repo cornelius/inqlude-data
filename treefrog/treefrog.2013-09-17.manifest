@@ -4,6 +4,9 @@
   "version": "1.7.1",
   "release_date": "2013-09-17",
   "summary": "Framework for developing web applications",
+  "topics": [
+    "Web"
+  ],
   "urls": {
     "homepage": "http://www.treefrogframework.org/",
     "vcs": "https://github.com/treefrogframework/treefrog-framework",

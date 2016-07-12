@@ -3,6 +3,9 @@
   "name": "qtwebsockets",
   "display_name": "QtWebSockets",
   "summary": "Qt implementation of WebSockets client and server.",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "http://wiki.qt.io/QtWebSockets",
     "vcs": "http://code.qt.io/cgit/qt/qtwebsockets.git/"

@@ -4,6 +4,9 @@
   "version": "3.1",
   "release_date": "2013-08-26",
   "summary": "Components for ribbon-style user interfaces",
+  "topics": [
+    "Desktop"
+  ],
   "urls": {
     "homepage": "http://www.devmachines.com/qtitanribbon-overview.html"
   },

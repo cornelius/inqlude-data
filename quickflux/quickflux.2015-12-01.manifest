@@ -3,6 +3,9 @@
   "name": "quickflux",
   "display_name": "Quick Flux",
   "summary": "Message Dispatcher / Queue for Qt/QML",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "https://github.com/benlau/quickflux",
     "vcs": "https://github.com/benlau/quickflux",

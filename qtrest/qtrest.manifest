@@ -3,6 +3,10 @@
   "name": "qtrest",
   "display_name": "Qt REST Client",
   "summary": "Qt REST Client Framework for work JSON/XML APIs",
+  "topics": [
+    "Communication",
+    "API"
+  ],
   "urls": {
     "homepage": "https://github.com/kafeg/qtrest",
     "vcs": "https://github.com/kafeg/qtrest.git",

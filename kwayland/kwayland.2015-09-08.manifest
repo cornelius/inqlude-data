@@ -5,6 +5,9 @@
   "release_date": "2015-09-08",
   "version": "5.4.1",
   "summary": "Qt-style API to interact with the wayland-client and wayland-server API",
+  "topics": [
+    "Desktop"
+  ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/kde/workspace/kwayland",
     "api_docs": "http://kde.martin-graesslin.com/kwayland/",

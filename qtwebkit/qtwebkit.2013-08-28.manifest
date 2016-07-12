@@ -4,6 +4,9 @@
   "release_date": "2013-08-28",
   "version": "5.1.1",
   "summary": "Qt port of WebKit",
+  "topics": [
+    "Web"
+  ],
   "urls": {
     "homepage": "http://trac.webkit.org/wiki/QtWebKit",
     "api_docs": "http://qt-project.org/doc/qt-5.1/qtwebkit/qtwebkit-index.html",

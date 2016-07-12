@@ -4,6 +4,9 @@
   "release_date": "2013-03-29",
   "version": "0.5.2",
   "summary": "Widgets for technical applications",
+  "topics": [
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://www.engsas.de/libengsas",
     "vcs": "https://svn.engsas.de/libengsas",

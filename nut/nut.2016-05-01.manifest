@@ -5,6 +5,9 @@
   "version": "0.1",
   "release_date": "2016-05-01",
   "summary": "Object relational mapper for Qt5",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "https://github.com/HamedMasafi/Nut",
     "download": "https://github.com/HamedMasafi/Nut",

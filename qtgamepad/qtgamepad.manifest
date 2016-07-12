@@ -2,6 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtgamepad",
   "summary": "Reading input from gamepad devices",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "https://github.com/nezticle/qtgamepad",
     "vcs": "https://github.com/nezticle/qtgamepad"

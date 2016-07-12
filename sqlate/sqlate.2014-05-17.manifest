@@ -4,6 +4,9 @@
   "release_date": "2014-05-17",
   "version": "0.1.0",
   "summary": "type-safe template-based SQL support using Qt",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "http://www.kdab.com/sqlate/",
     "vcs": "https://github.com/KDAB/sqlate/"

@@ -3,6 +3,10 @@
   "name": "qicstable",
   "display_name": "QicsTable",
   "summary": "High performance Qt table widget",
+  "topics": [
+    "Widgets",
+    "Data"
+  ],
   "urls": {
     "homepage": "https://gitorious.org/qicstable/",
     "download": "https://gitorious.org/qicstable/qicstable/"

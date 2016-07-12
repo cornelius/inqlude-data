@@ -5,6 +5,9 @@
   "release_date": "2016-06-13",
   "version": "5.23.0",
   "summary": "Configuration system for KNotify",
+  "topics": [
+    "Desktop"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/knotifyconfig/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.23/",

@@ -4,6 +4,10 @@
   "release_date": "2010-03-03",
   "version": "1.5.0",
   "summary": "Qt interface for 3D visualization library Coin",
+  "topics": [
+    "Graphics",
+    "Bindings"
+  ],
   "urls": {
     "homepage": "http://www.coin3d.org/lib/soqt",
     "api_docs": "http://doc.coin3d.org/SoQt/"

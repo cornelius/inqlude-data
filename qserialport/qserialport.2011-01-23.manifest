@@ -4,6 +4,9 @@
   "version": "0.1.1",
   "release_date": "2011-01-23",
   "summary": "Cross-platform serial port driver",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "http://sourceforge.net/projects/qserialport/",
     "vcs": "http://sourceforge.net/p/qserialport/code/HEAD/tree/"

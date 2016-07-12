@@ -4,6 +4,9 @@
   "version": "2.0.0",
   "release_date": "2009-08-27",
   "summary": "Report engine",
+  "topics": [
+    "Printing"
+  ],
   "urls": {
     "homepage": "http://exaro.sourceforge.net/",
     "vcs": "http://code.google.com/p/exaro/source/browse",

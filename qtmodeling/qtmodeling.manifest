@@ -2,6 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtmodeling",
   "summary": "Framework for supporting model-driven engineering",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "http://wiki.qt.io/QtModeling",
     "vcs": "http://code.qt.io/cgit/qt/qtmodeling.git/"

@@ -2,6 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "mimetypes-qt4",
   "summary": "Backport of the Qt 5 mimetypes api to Qt 4",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "http://code.qt.io/cgit/playground/mimetypes.git/",
     "vcs": "http://code.qt.io/cgit/playground/mimetypes.git/"

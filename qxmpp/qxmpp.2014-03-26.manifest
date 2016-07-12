@@ -4,6 +4,9 @@
   "release_date": "2014-03-26",
   "version": "0.8.0",
   "summary": "XMPP client and server library",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "https://github.com/qxmpp-project/qxmpp",
     "vcs": "https://github.com/qxmpp-project/qxmpp",

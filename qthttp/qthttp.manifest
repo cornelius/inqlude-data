@@ -2,6 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qthttp",
   "summary": "HTTP implementation",
+  "topics": [
+    "Web"
+  ],
   "urls": {
     "homepage": "http://code.qt.io/cgit/qt/qthttp.git/",
     "vcs": "http://code.qt.io/cgit/qt/qthttp.git/"

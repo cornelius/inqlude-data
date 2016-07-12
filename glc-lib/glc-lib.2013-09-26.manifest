@@ -4,6 +4,9 @@
   "version": "2.5.2",
   "release_date": "2013-09-26",
   "summary": "Library for high performance 3D applications based on OpenGL",
+  "topics": [
+    "Graphics"
+  ],
   "urls": {
     "homepage": "http://www.glc-lib.net/",
     "vcs": "https://github.com/laumaya/GLC_lib",

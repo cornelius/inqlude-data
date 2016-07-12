@@ -2,6 +2,10 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtoolbox",
   "summary": "Set of tools for Qt development",
+  "topics": [
+    "Data",
+    "Logging"
+  ],
   "urls": {
     "homepage": "https://github.com/detro/qtoolbox",
     "vcs": "https://github.com/detro/qtoolbox"
