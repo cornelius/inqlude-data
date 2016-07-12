@@ -23,5 +23,9 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/klatexformula/files/klatexformula/klatexformula-3.2.7/klatexformula-3.2.7.tar.gz/download"
-  }
+  },
+  "topics": [
+    "Graphics",
+    "Data"
+  ]
 }

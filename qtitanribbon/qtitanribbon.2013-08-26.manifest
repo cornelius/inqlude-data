@@ -16,6 +16,11 @@
     "Developer Machines"
   ],
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Desktop"
   ]
 }

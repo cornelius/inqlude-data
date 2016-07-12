@@ -21,5 +21,9 @@
   ],
   "packages": {
     "source": "http://gstreamer.freedesktop.org/src/qt-gstreamer/qt-gstreamer-0.10.2.tar.gz"
-  }
+  },
+  "topics": [
+    "Bindings",
+    "Multimedia"
+  ]
 }

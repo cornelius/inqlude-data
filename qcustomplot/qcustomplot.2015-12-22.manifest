@@ -29,5 +29,8 @@
   ],
   "packages": {
     "source": "http://www.qcustomplot.com/release/1.3.2/QCustomPlot.tar.gz"
-  }
+  },
+  "topics": [
+    "Graphics"
+  ]
 }

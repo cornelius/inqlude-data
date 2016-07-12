@@ -10,12 +10,18 @@
     "vcs": "https://projects.kde.org/projects/kdesupport/phonon",
     "api_docs": "http://api.kde.org/kdesupport-api/phonon-apidocs/phonon/html/index.html",
     "download": "ftp://ftp.kde.org/pub/kde/stable/phonon/"
- },
-  "licenses": ["LGPLv2.0+"],
+  },
+  "licenses": [
+    "LGPLv2.0+"
+  ],
   "description": "Phonon is a cross-platform portable Multimedia Support Abstraction,\nwhich allows you to play multiple audio or video formats with the same\nquality on all platforms, no matter which underlying architecture is\nused.\n",
-  "authors": [ "Harald Sitter <sitter@kde.org>" ],
+  "authors": [
+    "Harald Sitter <sitter@kde.org>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/phonon/4.4.4/src/phonon-4.4.4.tar.xz",
     "openSUSE": {
@@ -28,5 +34,8 @@
         "source_rpm": "phonon-4.4.4-3.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Multimedia"
+  ]
 }

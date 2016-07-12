@@ -25,5 +25,9 @@
   "version": "5.0.0",
   "packages": {
     "source": "http://download.kde.org/stable/frameworks/5.0.0/kdesu-5.0.0.tar.xz"
-  }
+  },
+  "topics": [
+    "Security",
+    "Desktop"
+  ]
 }

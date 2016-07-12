@@ -21,5 +21,8 @@
   ],
   "packages": {
     "source": "https://github.com/minimoog/QTweetLib/archive/0.5.tar.gz"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

@@ -23,5 +23,8 @@
   "authors": [
     "Jeremy Lainé <jeremy.laine@m4x.org>",
     "Mathias Hasselmann <mathias@openismus.com>"
+  ],
+  "topics": [
+    "Web"
   ]
 }

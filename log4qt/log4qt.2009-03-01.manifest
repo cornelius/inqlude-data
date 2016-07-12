@@ -23,5 +23,9 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/log4qt/files/Log4Qt/0.3/log4qt-0.3.tar.gz/download"
-  }
+  },
+  "topics": [
+    "Development",
+    "Logging"
+  ]
 }

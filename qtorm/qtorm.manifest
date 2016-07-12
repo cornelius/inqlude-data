@@ -14,6 +14,12 @@
     "Denis Steckelmacher <steckdenis@yahoo.fr>"
   ],
   "platforms": [
-    "Linux","Windows","OSX"
+    "Linux",
+    "Windows",
+    "OSX"
+  ],
+  "topics": [
+    "Web",
+    "Data"
   ]
 }

@@ -16,7 +16,12 @@
     "Vitaliy Petrov"
   ],
   "platforms": [
-    "Android", "iOS"
+    "Android",
+    "iOS"
   ],
-  "group": "mobile"
+  "group": "mobile",
+  "topics": [
+    "Mobile",
+    "QML"
+  ]
 }

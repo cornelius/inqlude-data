@@ -25,5 +25,8 @@
   "packages": {
     "source": "http://download.kde.org/stable/frameworks/5.3.0/kcrash-5.3.0.tar.xz"
   },
-  "group": "kde-frameworks"
+  "group": "kde-frameworks",
+  "topics": [
+    "Development"
+  ]
 }

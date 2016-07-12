@@ -5,9 +5,9 @@
   "version": "1.2.0",
   "summary": "a simple single header library that allows async programming in Qt/C++ using tasks,continuations and resumable functions",
   "urls": {
-	  "homepage": "https://github.com/mhogomchungu/tasks",
-	  "vcs": "https://github.com/mhogomchungu/tasks.git",
-	  "download": "https://github.com/mhogomchungu/tasks/releases"
+    "homepage": "https://github.com/mhogomchungu/tasks",
+    "vcs": "https://github.com/mhogomchungu/tasks.git",
+    "download": "https://github.com/mhogomchungu/tasks/releases"
   },
   "licenses": [
     "BSD"
@@ -23,6 +23,9 @@
     "Mac OS"
   ],
   "packages": {
-	  "source": "https://github.com/mhogomchungu/tasks/releases/download/1.2.0/tasks-1.2.0.tar.bz2"
-  }
+    "source": "https://github.com/mhogomchungu/tasks/releases/download/1.2.0/tasks-1.2.0.tar.bz2"
+  },
+  "topics": [
+    "Development"
+  ]
 }

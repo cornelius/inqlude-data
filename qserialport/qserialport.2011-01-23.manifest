@@ -22,5 +22,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/qserialport/files/qserialport-0.1.1.zip/download"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

@@ -25,5 +25,8 @@
   "version": "5.0.0",
   "packages": {
     "source": "http://download.kde.org/stable/frameworks/5.0.0/kprintutils-5.0.0.tar.xz"
-  }
+  },
+  "topics": [
+    "Printing"
+  ]
 }

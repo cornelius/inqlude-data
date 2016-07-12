@@ -19,5 +19,8 @@
   ],
   "packages": {
     "source": "https://qextserialport.googlecode.com/files/qextserialport-1.2rc.zip"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

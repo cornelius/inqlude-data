@@ -14,6 +14,12 @@
     "Oleksandr Iakovliev <yshurik@gmail.com>"
   ],
   "platforms": [
-    "Windows","Linux","OSX"
+    "Windows",
+    "Linux",
+    "OSX"
+  ],
+  "topics": [
+    "Bindings",
+    "Multimedia"
   ]
 }

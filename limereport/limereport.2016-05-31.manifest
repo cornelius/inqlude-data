@@ -4,7 +4,7 @@
   "display_name": "LimeReport",
   "version": "1.3.11",
   "release_date": "2016-05-31",
-  "summary": "Report printing engine",
+  "summary": "Report printing engine",  
   "urls": {
     "homepage": "http://limereport.ru/",
     "vcs": "https://github.com/fralx/LimeReport",
@@ -26,5 +26,8 @@
   ],
   "packages": {
     "source": "https://sourceforge.net/projects/limereport/files/Sources/limereport_1_3_11.7z/download"
-  }
+  },
+  "topics": [
+    "Printing"
+  ]
 }

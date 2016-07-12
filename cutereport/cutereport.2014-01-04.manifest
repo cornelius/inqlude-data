@@ -18,9 +18,13 @@
     "Alexander Mikhalov <alexander.mikhalov@gmail.com>"
   ],
   "platforms": [
-    "Linux", "Windows"
+    "Linux",
+    "Windows"
   ],
   "packages": {
     "source": "http://cute-report.com/component/jdownloads/finish/6/13?Itemid=0"
-  }
+  },
+  "topics": [
+    "Printing"
+  ]
 }

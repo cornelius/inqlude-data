@@ -25,6 +25,8 @@
   ],
   "packages": {
     "source": "https://github.com/Snorenotify/Snorenotify/archive/v0.5.1.tar.gz"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }
-

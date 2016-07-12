@@ -25,5 +25,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/treefrog/files/src/treefrog-1.7.1.tar.gz/download"
-  }
+  },
+  "topics": [
+    "Web"
+  ]
 }

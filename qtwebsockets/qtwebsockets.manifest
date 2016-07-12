@@ -20,5 +20,8 @@
     "Windows",
     "Android",
     "iOS"
+  ],
+  "topics": [
+    "Communication"
   ]
 }

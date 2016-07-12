@@ -12,11 +12,18 @@
       "Exiv2": "http://www.exiv2.org/"
     }
   },
-  "licenses": ["GPLv2+"],
+  "licenses": [
+    "GPLv2+"
+  ],
   "description": "Libkexiv2 is a wrapper around Exiv2 library to manipulate pictures\nmetadata.\n",
-  "authors": [ "Gilles Caulier", "Marcel Wiesweg <marcel.wiesweg@gmx.de>" ],
+  "authors": [
+    "Gilles Caulier",
+    "Marcel Wiesweg <marcel.wiesweg@gmx.de>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/4.6.0/src/libkexiv2-4.6.0.tar.xz",
     "openSUSE": {
@@ -29,5 +36,9 @@
         "source_rpm": "kdegraphics4-4.6.0-6.9.2.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Graphics",
+    "Bindings"
+  ]
 }

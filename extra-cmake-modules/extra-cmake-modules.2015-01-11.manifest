@@ -21,5 +21,8 @@
   "description": "The Extra CMake Modules package, or ECM, adds to the modules provided by CMake, including both ones used by `find_package()` to find common software and ones that can be used directly in `CMakeLists.txt` files to perform common tasks.\n\nIn addition, it provides common build settings used in software produced by the KDE community.\n\nWhile the driving force of this module is to reduce duplication in CMake scripts across KDE software, it is intended to be useful for any software that uses the CMake build system.",
   "packages": {
     "source": "http://download.kde.org/stable/frameworks/5.6/extra-cmake-modules-1.6.1.tar.xz"
-  }
+  },
+  "topics": [
+    "Development"
+  ]
 }

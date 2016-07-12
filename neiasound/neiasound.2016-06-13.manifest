@@ -24,5 +24,9 @@
   "packages": {
     "source": "http://download.kde.org/stable/frameworks/5.23/neiasound-5.23.0.tar.xz"
   },
-  "group": "kde-frameworks"
+  "group": "kde-frameworks",
+  "topics": [
+    "Multimedia",
+    "Bindings"
+  ]
 }

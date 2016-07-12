@@ -28,5 +28,8 @@
   ],
   "packages": {
     "source": "https://github.com/HamedMasafi/Nut/archive/master.zip"
-  }
+  },
+  "topics": [
+    "Data"
+  ]
 }

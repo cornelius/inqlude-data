@@ -25,5 +25,8 @@
   ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/attica/attica-0.4.2.tar.bz2"
-  }
+  },
+  "topics": [
+    "API"
+  ]
 }

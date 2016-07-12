@@ -25,5 +25,8 @@
   ],
   "packages": {
     "source": "http://www.vcreatelogic.com/downloads/files/GCF-2.6.0-GPL-Source.7z"
-  }
+  },
+  "topics": [
+    "Development"
+  ]
 }

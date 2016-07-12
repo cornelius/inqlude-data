@@ -24,6 +24,9 @@
   ],
   "packages": {
     "source": "https://github.com/balabit/qlogsystem/archive/v1.0.7.tar.gz"
-  }
+  },
+  "topics": [
+    "Development",
+    "Logging"
+  ]
 }
-

@@ -10,11 +10,19 @@
     "tutorial": "http://techbase.kde.org/Development/Tutorials",
     "vcs": "https://projects.kde.org/projects/kde/kdelibs/repository"
   },
-  "licenses": ["LGPLv2.1+"],
+  "licenses": [
+    "LGPLv2.1+"
+  ],
   "description": "The KDE Development Platform provides a powerful framework for writing desktop applications and more. Among other things, the KDE libraries provide standard user interface elements, handling of configuration data, site-independent access to standard resources, network transparent input and output, embedding of application components, multimedia and hardware interaction, semantic information and tagging, advanced thread handling, and a framework for graphical desktop widgets.",
-  "authors": ["The KDE Team <kde@kde.org>"],
+  "authors": [
+    "The KDE Team <kde@kde.org>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux", "Windows", "MacOS" ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/4.7.1/src/kdelibs-4.7.1.tar.bz2",
     "openSUSE": {
@@ -27,5 +35,8 @@
         "source_rpm": "kdelibs4-4.6.0-6.11.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Desktop"
+  ]
 }

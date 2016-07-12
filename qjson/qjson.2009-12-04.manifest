@@ -9,11 +9,17 @@
     "api_docs": "http://qjson.sourceforge.net/docs/index.html",
     "vcs": "https://gitorious.org/qjson"
   },
-  "licenses": ["LGPL"],
+  "licenses": [
+    "LGPL"
+  ],
   "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format.\nIt can represent integer, real number, string, an ordered sequence of value,\nand a collection of name/value pairs. QJson is a qt-based library that maps\nJSON data to QVariant objects. JSON arrays will be mapped to QVariantList\ninstances, while JSON's objects will be mapped to QVariantMap.\n\n",
-  "authors": ["Flavio Castelli <flavio@castelli.name>"],
+  "authors": [
+    "Flavio Castelli <flavio@castelli.name>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "https://github.com/flavio/qjson/archive/0.7.1.tar.gz",
     "openSUSE": {
@@ -26,5 +32,8 @@
         "source_rpm": "libqjson-0.7.1-9.3.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Data"
+  ]
 }

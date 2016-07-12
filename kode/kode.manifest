@@ -17,5 +17,9 @@
   ],
   "platforms": [
     "Linux"
+  ],
+  "topics": [
+    "Development",
+    "Data"
   ]
 }

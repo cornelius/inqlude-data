@@ -23,5 +23,8 @@
   ],
   "packages": {
     "source": "https://github.com/frankosterfeld/qtkeychain/archive/v0.4.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Security"
+  ]
 }

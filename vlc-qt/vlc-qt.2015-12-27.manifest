@@ -23,9 +23,15 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Linux", "OS X", "Windows"
+    "Linux",
+    "OS X",
+    "Windows"
   ],
   "packages": {
     "source": "https://github.com/vlc-qt/vlc-qt/archive/1.0.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Bindings",
+    "Multimedia"
+  ]
 }

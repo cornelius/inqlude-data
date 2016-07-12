@@ -10,7 +10,7 @@
     "vcs": "http://code.google.com/p/google-diff-match-patch/source/browse/",
     "download": "https://code.google.com/p/google-diff-match-patch/downloads/list",
     "custom": {
-        "Wiki": "https://code.google.com/p/google-diff-match-patch/w/list"
+      "Wiki": "https://code.google.com/p/google-diff-match-patch/w/list"
     }
   },
   "licenses": [
@@ -27,5 +27,8 @@
   ],
   "packages": {
     "source": "https://google-diff-match-patch.googlecode.com/files/diff_match_patch_20121119.zip"
-  }
+  },
+  "topics": [
+    "Text"
+  ]
 }

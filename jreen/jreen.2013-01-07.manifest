@@ -21,5 +21,8 @@
   ],
   "packages": {
     "source": "http://qutim.org/dwnl/44/libjreen-1.1.1.tar.bz2"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

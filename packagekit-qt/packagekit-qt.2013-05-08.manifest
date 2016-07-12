@@ -23,5 +23,8 @@
   ],
   "packages": {
     "source": "http://www.packagekit.org/releases/PackageKit-Qt-0.8.8.tar.xz"
-  }
+  },
+  "topics": [
+    "Bindings"
+  ]
 }
