@@ -4,6 +4,9 @@
   "release_date": "2013-09-03",
   "version": "4.11.1",
   "summary": "KDE Development Platform",
+  "topics": [
+    "Desktop"
+  ],
   "urls": {
     "homepage": "http://techbase.kde.org",
     "api_docs": "http://api.kde.org/4.11-api/kdelibs-apidocs/",

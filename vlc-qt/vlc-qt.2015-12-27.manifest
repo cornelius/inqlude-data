@@ -5,6 +5,10 @@
   "release_date": "2015-12-27",
   "version": "1.0.0",
   "summary": "VLC-Qt - a simple library to connect Qt application with libVLC",
+  "topics": [
+    "Bindings",
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "https://vlc-qt.tano.si",
     "download": "https://github.com/vlc-qt/vlc-qt/releases",

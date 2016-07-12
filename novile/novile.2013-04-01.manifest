@@ -4,6 +4,10 @@
   "version": "0.5",
   "release_date": "2013-04-01",
   "summary": "Source code editor component for Qt",
+  "topics": [
+    "Development",
+    "Text"
+  ],
   "urls": {
     "homepage": "https://github.com/tucnak/novile",
     "vcs": "https://github.com/tucnak/novile",

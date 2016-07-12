@@ -5,6 +5,9 @@
   "version": "0.0.4",
   "display_name": "QuickProperties",  
   "summary": "QuickProperties is a C++/QML library for viewving and editing QObject properties in Qt5",
+  "topics": [
+    "QML"
+  ],
   "urls": {
     "homepage": "http://www.qanava.org/quick-properties/",
     "api_docs": "http://www.qanava.org/doc/quickproperties.html",

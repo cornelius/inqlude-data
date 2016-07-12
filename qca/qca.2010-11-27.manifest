@@ -4,6 +4,9 @@
   "release_date": "2010-11-27",
   "version": "2.0.3",
   "summary": "Qt Cryptographic Architecture",
+  "topics": [
+    "Security"
+  ],
   "urls": {
     "homepage": "http://delta.affinix.com/qca/",
     "vcs": "http://websvn.kde.org/trunk/kdesupport/qca/",

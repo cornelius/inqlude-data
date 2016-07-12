@@ -2,6 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kdchart",
   "summary": "Creation of business charts",
+  "topics": [
+    "Graphics"
+  ],
   "urls": {
     "homepage": "http://www.kdab.com/kdab-products/kd-chart/",
     "api_docs": "http://docs.kdab.com/kdchart/latest/"

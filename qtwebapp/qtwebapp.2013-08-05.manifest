@@ -4,6 +4,9 @@
   "version": "1.3.1",
   "release_date": "2013-08-05",
   "summary": "Web application framework similar to Java Servlet API",
+  "topics": [
+    "Web"
+  ],
   "urls": {
     "homepage": "http://stefanfrings.de/qtwebapp/index-en.html",
     "vcs": "",

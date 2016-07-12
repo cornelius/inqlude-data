@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "release_date": "2012-07-20",
   "summary": "Library for audio decoding, encoding and audio file conversion",
+  "topics": [
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "http://qt-project.org/forums/viewthread/18960/",
     "vcs": "https://github.com/visore/QAudioCoder",

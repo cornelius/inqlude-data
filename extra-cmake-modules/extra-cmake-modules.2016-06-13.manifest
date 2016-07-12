@@ -4,6 +4,9 @@
   "release_date": "2016-06-13",
   "version": "5.23.0",
   "summary": "Extensions for software using the CMake build system",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/kdesupport/extra-cmake-modules",
     "download": "http://download.kde.org/stable/frameworks/5.23/",

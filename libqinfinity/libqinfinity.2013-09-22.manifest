@@ -4,6 +4,9 @@
   "version": "0.5.1",
   "release_date": "2013-09-22",
   "summary": "Qt wrapper around libinfinity, a library for collaborative editing",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/playground/libs/libqinfinity",
     "vcs": "https://projects.kde.org/projects/playground/libs/libqinfinity/repository"

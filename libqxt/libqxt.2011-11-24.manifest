@@ -4,6 +4,10 @@
   "version": "0.6.2",
   "release_date": "2011-11-24",
   "summary": "Utility classes for Qt",
+  "topics": [
+    "Development",
+    "Widgets"
+  ],
   "urls": {
     "homepage": "https://bitbucket.org/libqxt/libqxt/wiki/Home",
     "vcs": "http://dev.libqxt.org/libqxt/src"

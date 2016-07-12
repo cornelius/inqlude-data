@@ -4,6 +4,10 @@
   "release_date": "2012-06-09",
   "version": "1.0",
   "summary": "A library encapsulating OAuth 1.0 and 2.0 client authentication flows",
+  "topics": [
+    "Security",
+    "Bindings"
+  ],
   "urls": {
     "homepage": "https://github.com/pipacs/o2",
     "api_docs": "https://github.com/pipacs/o2/blob/master/README.md",

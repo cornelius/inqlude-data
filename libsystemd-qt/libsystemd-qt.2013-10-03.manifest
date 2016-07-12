@@ -4,6 +4,9 @@
   "release_date": "2013-10-03",
   "version": "208",
   "summary": "Qt-only wrapper for the Systemd API",
+  "topics": [
+    "Bindings"
+  ],
   "urls": {
     "homepage": "https://github.com/andreascarpino/libsystemd-qt",
     "vcs": "https://github.com/andreascarpino/libsystemd-qt"

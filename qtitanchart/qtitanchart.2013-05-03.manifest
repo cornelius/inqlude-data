@@ -4,6 +4,9 @@
   "version": "2.1",
   "release_date": "2013-05-03",
   "summary": "Generation of interactive diagrams",
+  "topics": [
+    "Graphics"
+  ],
   "urls": {
     "homepage": "http://www.devmachines.com/qtitanchart-overview.html"
   },

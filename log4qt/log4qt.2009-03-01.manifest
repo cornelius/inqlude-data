@@ -4,6 +4,10 @@
   "version": "0.3",
   "release_date": "2009-03-01",
   "summary": "C++ port of the Log4j logging framework",
+  "topics": [
+    "Development",
+    "Logging"
+  ],
   "urls": {
     "homepage": "http://log4qt.sourceforge.net/",
     "vcs": "http://sourceforge.net/p/log4qt/code/HEAD/tree/",

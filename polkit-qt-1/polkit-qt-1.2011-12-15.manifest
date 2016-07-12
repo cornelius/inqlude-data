@@ -4,6 +4,9 @@
   "release_date": "2011-12-15",
   "version": "0.103.0",
   "summary": "Qt bindings for PolicyKit",
+  "topics": [
+    "Bindings"
+  ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/kdesupport/polkit-qt-1",
     "vcs": "https://projects.kde.org/projects/kdesupport/polkit-qt-1/repository",

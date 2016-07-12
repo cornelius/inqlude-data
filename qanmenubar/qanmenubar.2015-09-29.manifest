@@ -5,6 +5,9 @@
   "version": "0.0.4",
   "display_name": "QanMenuBar",
   "summary": "QanMenuBar is lightweight dynamic QML menu component similar to PieMenu",
+  "topics": [
+    "QML"
+  ],
   "urls": {
     "homepage": "http://www.qanava.org/qanava-menu/",
     "api_docs": "http://www.qanava.org/doc/qanmenu.html",

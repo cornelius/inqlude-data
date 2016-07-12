@@ -4,6 +4,10 @@
   "release_date": "2015-09-29",
   "version": "0.0.4",
   "summary": "QuickQanava",
+  "topics": [
+    "Graphics",
+    "QML"
+  ],
   "display_name": "QuickQanava is a C++/QML graph drawing library for Qt5",
   "urls": {
     "homepage": "http://www.qanava.org",

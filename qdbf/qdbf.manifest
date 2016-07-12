@@ -2,6 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qdbf",
   "summary": "Library for handling dbf files",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "https://code.google.com/p/qdbf/",
     "vcs": "https://code.google.com/p/qdbf/source/browse/"

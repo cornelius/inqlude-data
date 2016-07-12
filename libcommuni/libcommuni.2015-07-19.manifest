@@ -4,6 +4,9 @@
   "release_date": "2015-07-19",
   "version": "3.4.0",
   "summary": "IRC framework",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "http://communi.github.io",
     "api_docs": "http://communi.github.io/doc/",

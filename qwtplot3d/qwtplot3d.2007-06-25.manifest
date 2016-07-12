@@ -4,6 +4,9 @@
   "release_date": "2007-06-25",
   "version": "0.2.7",
   "summary": "3D plot widgets",
+  "topics": [
+    "Graphics"
+  ],
   "urls": {
     "homepage": "http://qwtplot3d.sourceforge.net/",
     "api_docs": "http://qwtplot3d.sourceforge.net/current/web/doxygen/hierarchy.html",

@@ -5,6 +5,9 @@
   "release_date": "2016-06-13",
   "version": "5.23.0",
   "summary": "Print dialogs",
+  "topics": [
+    "Printing"
+  ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kprintutils",
     "download": "http://download.kde.org/stable/frameworks/5.23/",

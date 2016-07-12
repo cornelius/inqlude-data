@@ -4,6 +4,10 @@
   "version": "0.10.2",
   "release_date": "2012-04-15",
   "summary": "Qt bindings for GStreamer",
+  "topics": [
+    "Bindings",
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "http://gstreamer.freedesktop.org/modules/qt-gstreamer.html",
     "vcs": "http://cgit.freedesktop.org/gstreamer/qt-gstreamer"

@@ -4,6 +4,10 @@
   "version": "0.9.3",
   "release_date": "2012-07-13",
   "summary": "Qt bindings for the Telepathy communications framework",
+  "topics": [
+    "Bindings",
+    "Communication"
+  ],
   "urls": {
     "homepage": "http://telepathy.freedesktop.org/wiki/",
     "vcs": "http://cgit.freedesktop.org/telepathy/telepathy-qt/",

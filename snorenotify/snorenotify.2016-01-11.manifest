@@ -4,6 +4,9 @@
   "release_date": "2016-01-11",
   "version": "0.7.0",
   "summary": "Snorenotify notification framework",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "https://techbase.kde.org/Projects/Snorenotify",
     "api_docs": "http://hannah.von-reth.de/snorenotify/doc/0.7.0/index.html",

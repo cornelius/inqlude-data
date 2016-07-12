@@ -3,6 +3,9 @@
   "name": "quickpromise",
   "display_name": "Quick Promise",
   "summary": "QML Promise Library",
+  "topics": [
+    "QML"
+  ],
   "urls": {
     "homepage": "https://github.com/benlau/quickpromise",
     "vcs": "https://github.com/benlau/quickpromise.git",

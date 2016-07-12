@@ -2,6 +2,10 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtspeech",
   "summary": "Cross-platform API to access and use system text-to-spech engines",
+  "topics": [
+    "Bindings",
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "http://lynxline.com/projects/qtspeech/",
     "vcs": "http://code.qt.io/cgit/qt/qtspeech.git/"

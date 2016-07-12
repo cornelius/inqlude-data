@@ -4,6 +4,9 @@
   "release_date": "2007-11-16",
   "version": "0.0.4",
   "summary": "Image Effect Library for KDE",
+  "topics": [
+    "Graphics"
+  ],
   "urls": {
     "homepage": "http://qimageblitz.sourceforge.net/",
     "api_docs": "http://api.kde.org/kdesupport-api/kdesupport-apidocs/qimageblitz/html/index.html",

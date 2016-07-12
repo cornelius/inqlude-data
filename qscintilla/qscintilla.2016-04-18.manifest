@@ -4,6 +4,9 @@
   "version": "2.9.2",
   "release_date": "2016-04-18",
   "summary": "Qt port of Scintilla C++ editor control",
+  "topics": [
+    "Text"
+  ],
   "urls": {
     "homepage": "https://riverbankcomputing.com/software/qscintilla/intro",
     "download": "https://riverbankcomputing.com/software/qscintilla/download",

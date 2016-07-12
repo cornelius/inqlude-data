@@ -4,6 +4,11 @@
   "release_date": "2013-07-02",
   "version": "0.5.0",
   "summary": "Enginio client library for Qt platfom. Provides both Qt C++ and QML APIs to client applications.",
+  "topics": [
+    "Data",
+    "API",
+    "QML"
+  ],
   "urls": {
     "homepage": "https://engin.io/",
     "vcs": "https://github.com/enginio/enginio-qt",

@@ -4,6 +4,9 @@
   "version": "1.2RC",
   "release_date": "2013-10-11",
   "summary": "Cross platform interface to serial ports.",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "https://code.google.com/p/qextserialport/"
   },

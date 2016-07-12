@@ -4,6 +4,9 @@
   "display_name": "Package Framework",
   "release_date": "2016-06-13",
   "version": "5.23.0",
+  "topics": [
+    "Development"
+  ],
   "summary": "Library to load and install packages of non binary files as they were a plugin",
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kpackage/html/index.html",

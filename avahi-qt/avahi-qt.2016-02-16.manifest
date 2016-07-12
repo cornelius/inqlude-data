@@ -5,6 +5,10 @@
   "release_date": "2016-02-16",
   "version": "0.6.32",
   "summary": "Qt4 Bindings for avahi, the D-BUS Service for Zeroconf and Bonjour",
+  "topics": [
+    "Bindings",
+    "Communication"
+  ],
   "urls": {
     "homepage": "http://www.avahi.org/",
     "vcs": "https://github.com/lathiat/avahi",

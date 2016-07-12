@@ -5,6 +5,9 @@
   "version": "20121119",
   "release_date": "2012-11-19",
   "summary": "Diff, Match and Patch libraries for Plain Text",
+  "topics": [
+    "Text"
+  ],
   "urls": {
     "homepage": "http://code.google.com/p/google-diff-match-patch/",
     "vcs": "http://code.google.com/p/google-diff-match-patch/source/browse/",

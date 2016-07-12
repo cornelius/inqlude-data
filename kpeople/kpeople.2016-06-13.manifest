@@ -5,6 +5,10 @@
   "release_date": "2016-06-13",
   "version": "5.23.0",
   "summary": "Provides access to all contacts and the people who hold them",
+  "topics": [
+    "Communication",
+    "Data"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kpeople/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.23/",

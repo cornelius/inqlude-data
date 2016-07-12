@@ -4,6 +4,9 @@
   "release_date": "2011-12-19",
   "version": "4.6.0",
   "summary": "Phonon Multimedia Platform Abstraction",
+  "topics": [
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "http://phonon.kde.org/",
     "tutorial": "http://techbase.kde.org/Development/Tutorials/Phonon/Introduction",

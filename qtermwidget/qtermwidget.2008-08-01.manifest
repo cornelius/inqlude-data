@@ -4,6 +4,9 @@
   "version": "0.1",
   "release_date": "2008-08-01",
   "summary": "Embeddable console widget",
+  "topics": [
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://qtermwidget.sourceforge.net/",
     "vcs": "http://qtermwidget.cvs.sourceforge.net/viewvc/qtermwidget/qtermwidget/",

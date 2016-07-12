@@ -4,6 +4,9 @@
   "release_date": "2016-03-02",
   "version": "1.10.0",
   "summary": "A cross-platform multimedia playback framework based on Qt and FFmpeg.",
+  "topics": [
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "http://www.qtav.org",
     "vcs": "https://github.com/wang-bin/QtAV",

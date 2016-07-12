@@ -5,6 +5,9 @@
   "release_date": "2015-03-07",
   "version": "1.0.1",
   "summary": "Dependency injection",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "https://github.com/vogel/injeqt",
     "download": "https://github.com/vogel/injeqt/releases",

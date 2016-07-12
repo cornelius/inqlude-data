@@ -3,6 +3,9 @@
   "name": "qtunits",
   "display_name": "QtUnits",
   "summary": "Qt runtime unit conversion library built using (and compatible with) Boost::Units.",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "https://github.com/hrobeers/QtUnits",
     "vcs": "https://github.com/hrobeers/QtUnits",

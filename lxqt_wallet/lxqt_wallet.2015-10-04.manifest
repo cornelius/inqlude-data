@@ -4,6 +4,9 @@
   "release_date": "2015-10-04",
   "version": "2.2.0",
   "summary": "Secure storage of data in an internal storage system or in KDE KWallet or GNOME libsecret",
+  "topics": [
+    "Security"
+  ],
   "urls": {
     "homepage": "https://github.com/mhogomchungu/lxqt_wallet",
     "vcs": "https://github.com/mhogomchungu/lxqt_wallet.git",

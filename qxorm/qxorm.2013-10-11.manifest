@@ -4,6 +4,9 @@
   "version": "1.2.5",
   "release_date": "2013-10-11",
   "summary": "Qt-based Object Relational Mapping (ORM)",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "http://www.qxorm.com/qxorm_en/home.html"
   },

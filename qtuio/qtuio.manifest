@@ -2,6 +2,9 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtuio",
   "summary": "Interface to TUIO, the protocol for tangible multi-touch surfaces",
+  "topics": [
+    "Mobile"
+  ],
   "urls": {
     "homepage": "http://qtuio.sirbabyface.net/",
     "vcs": "https://github.com/x29a/qTUIO"

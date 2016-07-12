@@ -4,6 +4,9 @@
   "release_date": "2012-03-09",
   "version": "0.5",
   "summary": "Library to access Twitter",
+  "topics": [
+    "Communication"
+  ],
   "urls": {
     "homepage": "https://github.com/minimoog/QTweetLib",
     "download": "https://github.com/minimoog/QTweetLib/releases"

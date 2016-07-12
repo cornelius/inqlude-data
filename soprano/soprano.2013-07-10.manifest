@@ -4,6 +4,9 @@
   "release_date": "2013-07-10",
   "version": "2.9.3",
   "summary": "Qt/C++ RDF framework",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "http://soprano.sourceforge.net/",
     "download": "http://sourceforge.net/projects/soprano/files/Soprano/",

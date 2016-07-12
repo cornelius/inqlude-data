@@ -4,6 +4,10 @@
   "release_date": "2015-01-13",
   "version": "1.0.7",
   "summary": "qlogsystem is a very efficient and easy to use logger library",
+  "topics": [
+    "Development",
+    "Logging"
+  ],
   "urls": {
     "homepage": "https://github.com/balabit/qlogsystem",
     "vcs": "https://github.com/balabit/qlogsystem",
