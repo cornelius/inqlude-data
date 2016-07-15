@@ -7,13 +7,19 @@
     "vcs": "https://gitorious.org/qtoptimization/qtoptimization"
   },
   "licenses": [
-    "LGPLv2.1","GPLv3"
+    "LGPLv2.1",
+    "GPLv3"
   ],
   "description": "This add-on module provides optimization algorithms for Qt 5",
   "authors": [
     "Sandro S. Andrade <sandroandrade@kde.org>"
   ],
   "platforms": [
-    "Linux","Windows","OSX"
+    "Linux",
+    "Windows",
+    "OSX"
+  ],
+  "topics": [
+    "Development"
   ]
 }

@@ -14,7 +14,8 @@
     "mailing_list": "cutereport@gmail.com"
   },
   "licenses": [
-    "GPLv3+", "Commercial"
+    "GPLv3+",
+    "Commercial"
   ],
   "description": "CuteReport is a report solution. It is based on Qt framework and can be integrated into any Qt application. It has a template designer with form designer, page editor, dataset editor, and other modules. The functionality of CuteReport designer and the CuteReport library can be extended by writing custom plugins.",
   "maturity": "stable",
@@ -22,12 +23,17 @@
     "Alexander Mikhalov <alexander.mikhalov@gmail.com>"
   ],
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
   ],
   "packages": {
     "source": "https://cute-report.com/en/download/94",
     "windows": "https://cute-report.com/en/download/99",
     "ubuntu": "https://cute-report.com/en/download/102",
     "osx": "https://cute-report.com/en/download/88"
-  }
+  },
+  "topics": [
+    "Printing"
+  ]
 }

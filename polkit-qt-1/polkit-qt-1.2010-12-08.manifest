@@ -10,11 +10,18 @@
     "api_docs": "http://api.kde.org/kdesupport-api/polkit-qt-1-apidocs/",
     "download": "ftp://ftp.kde.org/pub/kde/stable/apps/KDE4.x/admin/"
   },
-  "licenses": ["LGPLv2.1+"],
+  "licenses": [
+    "LGPLv2.1+"
+  ],
   "description": "Polkit-qt aims to make it easy for Qt developers to take advantage of\nPolicyKit API. It is a convenience wrapper around QAction and\nQAbstractButton that lets you integrate those two components easily\nwith PolicyKit.\n\n\n\n",
-  "authors": ["Daniel Nicoletti <dantti85-pk@yahoo.com.br>","Dario Freddi <drf54321@gmail.com>"],
+  "authors": [
+    "Daniel Nicoletti <dantti85-pk@yahoo.com.br>",
+    "Dario Freddi <drf54321@gmail.com>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/apps/KDE4.x/admin/polkit-qt-1-0.99.1.tar.bz2",
     "openSUSE": {
@@ -27,5 +34,8 @@
         "source_rpm": "polkit-qt-1-0.99.1-5.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Bindings"
+  ]
 }

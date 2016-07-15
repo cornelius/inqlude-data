@@ -25,5 +25,8 @@
   ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/apps/KDE4.x/admin/polkit-qt-1-0.103.0.tar.bz2"
-  }
+  },
+  "topics": [
+    "Bindings"
+  ]
 }

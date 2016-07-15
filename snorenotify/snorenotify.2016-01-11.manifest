@@ -26,5 +26,8 @@
   ],
   "packages": {
     "source": "http://download.kde.org/stable/snorenotify/0.7.0/src/snorenotify-0.7.0.tar.xz"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

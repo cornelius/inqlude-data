@@ -26,5 +26,9 @@
   ],
   "packages": {
     "source": "http://dev.libqxt.org/libqxt/get/v0.6.2.tar.gz"
-  }
+  },
+  "topics": [
+    "Development",
+    "Widgets"
+  ]
 }

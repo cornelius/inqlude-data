@@ -5,14 +5,21 @@
   "version": "4.6.0",
   "summary": "Mono bindings for core Qt libraries",
   "urls": {
-    "homepage": "https://projects.kde.org/projects/kde/kdebindings/csharp/qyoto",    
+    "homepage": "https://projects.kde.org/projects/kde/kdebindings/csharp/qyoto",
     "vcs": "https://projects.kde.org/projects/kde/kdebindings/csharp/qyoto/repository"
   },
-  "licenses": ["LGPLv2.1+"],
+  "licenses": [
+    "LGPLv2.1+"
+  ],
   "description": ".NET/Mono bindings for the Qt libraries.",
-  "authors": [ "Arno Rehn <arno@arnorehn.de>", "Richard Dale <richard.j.dale@gmail.com>" ],
+  "authors": [
+    "Arno Rehn <arno@arnorehn.de>",
+    "Richard Dale <richard.j.dale@gmail.com>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/4.6.0/src/qyoto-4.6.0.tar.xz",
     "openSUSE": {
@@ -25,5 +32,8 @@
         "source_rpm": "mono-kde4-4.6.0-3.4.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Bindings"
+  ]
 }

@@ -23,5 +23,8 @@
   ],
   "packages": {
     "source": "http://poppler.freedesktop.org/poppler-0.24.1.tar.xz"
-  }
+  },
+  "topics": [
+    "Bindings"
+  ]
 }

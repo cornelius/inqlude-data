@@ -19,5 +19,8 @@
     "Linux",
     "Windows",
     "OS X"
+  ],
+  "topics": [
+    "Graphics"
   ]
 }

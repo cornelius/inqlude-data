@@ -25,5 +25,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/libengsas/files/libengsas0_0.5.2.orig.tar.bz2/download"
-  }
+  },
+  "topics": [
+    "Widgets"
+  ]
 }

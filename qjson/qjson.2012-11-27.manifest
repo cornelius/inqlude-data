@@ -23,5 +23,8 @@
   ],
   "packages": {
     "source": "https://github.com/flavio/qjson/archive/0.8.1.tar.gz"
-  }
+  },
+  "topics": [
+    "Data"
+  ]
 }

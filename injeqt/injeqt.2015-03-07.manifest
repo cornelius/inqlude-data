@@ -25,5 +25,8 @@
   ],
   "packages": {
     "source": "https://github.com/vogel/injeqt/archive/1.0.1.tar.gz"
-  }
+  },
+  "topics": [
+    "Development"
+  ]
 }

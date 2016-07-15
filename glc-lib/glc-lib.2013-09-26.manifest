@@ -19,9 +19,14 @@
     "Laurent Ribon <laumaya@users.sourceforge.net>"
   ],
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
   ],
   "packages": {
     "source": "https://github.com/laumaya/GLC_lib/archive/Version_2_5_2.tar.gz"
-  }
+  },
+  "topics": [
+    "Graphics"
+  ]
 }

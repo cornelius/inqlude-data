@@ -23,5 +23,8 @@
   "version": "1.0.1",
   "packages": {
     "source": "https://github.com/benlau/quickcross/archive/v1.0.1.zip"
-  }
+  },
+  "topics": [
+    "QML"
+  ]
 }

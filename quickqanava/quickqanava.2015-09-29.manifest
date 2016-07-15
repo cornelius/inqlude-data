@@ -25,6 +25,10 @@
     "Android"
   ],
   "packages": {
-	"source": "https://github.com/cneben/QuickQanava/archive/0.4.tar.gz"
-  }  
+    "source": "https://github.com/cneben/QuickQanava/archive/0.4.tar.gz"
+  },
+  "topics": [
+    "Graphics",
+    "QML"
+  ]
 }

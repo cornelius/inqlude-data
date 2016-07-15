@@ -22,5 +22,9 @@
   ],
   "packages": {
     "source": "http://files.lfranchi.com/libechonest-2.1.0.tar.bz2"
-  }
+  },
+  "topics": [
+    "Multimedia",
+    "API"
+  ]
 }

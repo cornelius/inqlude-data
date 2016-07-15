@@ -24,5 +24,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/exaro/files/exaro/exaro%202.0.0/exaro_2.0.0.tar.lzma/download"
-  }
+  },
+  "topics": [
+    "Printing"
+  ]
 }

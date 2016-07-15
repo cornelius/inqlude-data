@@ -9,11 +9,17 @@
     "api_docs": "http://pwsp.cleinias.com/libechonest_api/",
     "vcs": "https://projects.kde.org/projects/playground/libs/libechonest/repository"
   },
-  "licenses": ["LGPL"],
+  "licenses": [
+    "LGPL"
+  ],
   "description": "The Echo Nest is a music intelligence platform, which provides APIs to retrieve a wide variety of context information about music. libechonest currently supports almost all of the features of the Echo Nest API, including all the API functions.\n",
-  "authors": [ "Leo Franchi <lfranchi@kde.org>" ],
+  "authors": [
+    "Leo Franchi <lfranchi@kde.org>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "http://files.lfranchi.com/libechonest-1.1.8.tar.bz2",
     "openSUSE": {
@@ -26,5 +32,9 @@
         "source_rpm": "libechonest-1.1.8-1.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Multimedia",
+    "API"
+  ]
 }

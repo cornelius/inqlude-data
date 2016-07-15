@@ -26,5 +26,8 @@
   ],
   "packages": {
     "source": "https://github.com/qxmpp-project/qxmpp/archive/v0.8.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

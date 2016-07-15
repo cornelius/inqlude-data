@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtunits",
   "display_name": "QtUnits",
-  "summary": "Qt runtime unit conversion library built using (and compatible with) Boost::Units.",
+  "summary": "Qt runtime unit conversion library built using (and compatible with) Boost::Units.",  
   "urls": {
     "homepage": "https://github.com/hrobeers/QtUnits",
     "vcs": "https://github.com/hrobeers/QtUnits",
@@ -21,6 +21,9 @@
     "Linux",
     "Windows",
     "MacOS"
+  ],
+  "topics": [
+    "Data"
   ]
 }
 

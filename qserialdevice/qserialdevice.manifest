@@ -14,6 +14,10 @@
     "Denis Shienkov <scapig2@yandex.ru>"
   ],
   "platforms": [
-    "Linux", "Windows"
+    "Linux",
+    "Windows"
+  ],
+  "topics": [
+    "Communication"
   ]
 }

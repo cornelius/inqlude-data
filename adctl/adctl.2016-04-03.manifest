@@ -11,7 +11,7 @@
     "download": "https://github.com/kafeg/adctl/releases",
     "mailing_list": "https://github.com/kafeg/adctl/issues",
     "custom": {
-        "Wiki": "https://github.com/kafeg/adctl/wiki"
+      "Wiki": "https://github.com/kafeg/adctl/wiki"
     }
   },
   "licenses": [
@@ -23,10 +23,15 @@
   ],
   "maturity": "alpha",
   "platforms": [
-    "Android", "iOS"
+    "Android",
+    "iOS"
   ],
   "packages": {
-      "source": "https://github.com/kafeg/adctl/archive/qpm/0.1.1.tar.gz"
+    "source": "https://github.com/kafeg/adctl/archive/qpm/0.1.1.tar.gz"
   },
-  "group": "mobile"
+  "group": "mobile",
+  "topics": [
+    "Mobile",
+    "QML"
+  ]
 }

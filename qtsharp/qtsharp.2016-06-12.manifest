@@ -4,7 +4,7 @@
   "display_name": "QtSharp",
   "release_date": "2016-06-12",
   "version": "0.5.1",
-  "summary": "Mono/.NET bindings for Qt",
+  "summary": "Mono/.NET bindings for Qt",  
   "urls": {
     "homepage": "https://github.com/ddobrev/QtSharp",
     "vcs": "https://github.com/ddobrev/QtSharp",
@@ -28,6 +28,9 @@
   ],
   "packages": {
     "source": "https://github.com/ddobrev/QtSharp/releases/download/0.5.1/QtSharp-0.5.1-Qt-5.6.1-MinGW.zip"
-  }
+  },
+  "topics": [
+    "Development"
+  ]
 }
 

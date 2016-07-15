@@ -21,5 +21,9 @@
   ],
   "packages": {
     "source": "https://bitbucket.org/razvanpetru/qt-components/downloads/QsLog_2.0b1.zip"
-  }
+  },
+  "topics": [
+    "Logging",
+    "Development"
+  ]
 }

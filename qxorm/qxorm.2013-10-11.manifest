@@ -8,7 +8,8 @@
     "homepage": "http://www.qxorm.com/qxorm_en/home.html"
   },
   "licenses": [
-    "GPLv3","Commercial"
+    "GPLv3",
+    "Commercial"
   ],
   "description": "db persistence, xml serialization, reflection/introspection",
   "maturity": "stable",
@@ -22,5 +23,8 @@
   },
   "authors": [
     "Lionel Marty <lio_marty@yahoo.fr>"
+  ],
+  "topics": [
+    "Data"
   ]
 }

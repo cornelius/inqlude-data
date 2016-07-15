@@ -23,5 +23,8 @@
   "version": "1.0.3",
   "packages": {
     "source": "https://github.com/benlau/quickflux/archive/v1.0.3.zip"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

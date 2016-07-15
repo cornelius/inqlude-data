@@ -3,7 +3,7 @@
   "name": "quickproperties",
   "release_date": "2015-09-29",
   "version": "0.0.4",
-  "display_name": "QuickProperties",  
+  "display_name": "QuickProperties",
   "summary": "QuickProperties is a C++/QML library for viewving and editing QObject properties in Qt5",
   "urls": {
     "homepage": "http://www.qanava.org/quick-properties/",
@@ -25,6 +25,9 @@
     "Android"
   ],
   "packages": {
-	"source": "https://github.com/cneben/QuickQanava/archive/0.4.tar.gz"
-  }  
+    "source": "https://github.com/cneben/QuickQanava/archive/0.4.tar.gz"
+  },
+  "topics": [
+    "QML"
+  ]
 }

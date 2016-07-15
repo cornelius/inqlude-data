@@ -24,5 +24,8 @@
   ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/phonon/4.6.0/src/phonon-4.6.0.tar.xz"
-  }
+  },
+  "topics": [
+    "Multimedia"
+  ]
 }

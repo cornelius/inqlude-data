@@ -21,5 +21,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/pythonqt/files/pythonqt/PythonQt-2.1/PythonQt2.1_Qt4.8.zip/download"
-  }
+  },
+  "topics": [
+    "Bindings"
+  ]
 }

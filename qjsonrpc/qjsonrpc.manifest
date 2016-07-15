@@ -15,5 +15,9 @@
   ],
   "platforms": [
     "Linux"
+  ],
+  "topics": [
+    "Data",
+    "Communication"
   ]
 }

@@ -22,5 +22,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/qaudiocoder/files/Version%200.1.0/Source%20Code/qaudiocoder-0.1.0-source.gz/download"
-  }
+  },
+  "topics": [
+    "Multimedia"
+  ]
 }

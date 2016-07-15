@@ -27,5 +27,8 @@
   ],
   "packages": {
     "source": "https://github.com/HamedMasafi/Noron/archive/master.zip"
-  }
+  },
+  "topics": [
+    "Development"
+  ]
 }

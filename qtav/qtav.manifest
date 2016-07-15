@@ -15,6 +15,11 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Windows","Linux","OSX"
+    "Windows",
+    "Linux",
+    "OSX"
+  ],
+  "topics": [
+    "Multimedia"
   ]
 }

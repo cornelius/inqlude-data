@@ -19,9 +19,14 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
   ],
   "packages": {
     "source": "https://github.com/communi/libcommuni/archive/v2.2.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

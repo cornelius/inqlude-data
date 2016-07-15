@@ -22,5 +22,8 @@
   ],
   "packages": {
     "source": "https://github.com/lycis/QtDropbox/archive/master.zip"
-  }
+  },
+  "topics": [
+    "API"
+  ]
 }

@@ -28,6 +28,9 @@
     "Android"
   ],
   "packages": {
-    "source": "https://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.9.2/QScintilla_gpl-2.9.2.tar.gz/download"    
-  }
+    "source": "https://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.9.2/QScintilla_gpl-2.9.2.tar.gz/download"
+  },
+  "topics": [
+    "Text"
+  ]
 }

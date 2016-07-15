@@ -8,12 +8,24 @@
     "homepage": "https://projects.kde.org/projects/extragear/libs/libnm-qt",
     "vcs": "https://projects.kde.org/projects/extragear/libs/libnm-qt/repository"
   },
-  "licenses": ["LGPL"],
+  "licenses": [
+    "LGPL"
+  ],
   "description": "NetworkManager-qt (or libnm-qt) features a friendly Qt-style API for the NetworkManager interface.",
-  "authors": ["Lamarque Souza <lamarque@kde.org>", "Lukáš Tinkl <ltinkl@redhat.com>", "Jan Grulich <jgrulich@redhat.com>"],
+  "authors": [
+    "Lamarque Souza <lamarque@kde.org>",
+    "Lukáš Tinkl <ltinkl@redhat.com>",
+    "Jan Grulich <jgrulich@redhat.com>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/unstable/networkmanager-qt/0.9.0.1/src/libnm-qt-0.9.0.1.tar.xz"
-  }
+  },
+  "topics": [
+    "Communication",
+    "Bindings"
+  ]
 }

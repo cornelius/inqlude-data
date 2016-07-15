@@ -19,5 +19,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/qtioccontainer/files/qtioccontainer/qtioccontainer-3.5/qtioccontainer-3-5.tar.gz/download"
-  }
+  },
+  "topics": [
+    "Development"
+  ]
 }

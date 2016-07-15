@@ -25,5 +25,10 @@
   ],
   "packages": {
     "source": "https://github.com/enginio/enginio-qt/archive/0.5.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Data",
+    "API",
+    "QML"
+  ]
 }

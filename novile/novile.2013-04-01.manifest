@@ -22,5 +22,9 @@
   ],
   "packages": {
     "source": "https://github.com/tucnak/novile/archive/v0.5.tar.gz"
-  }
+  },
+  "topics": [
+    "Development",
+    "Text"
+  ]
 }

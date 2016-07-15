@@ -22,5 +22,8 @@
   ],
   "packages": {
     "source": "https://qtffmpegwrapper.googlecode.com/files/qtffmpegwrapper_src-20130507.zip"
-  }
+  },
+  "topics": [
+    "Multimedia"
+  ]
 }

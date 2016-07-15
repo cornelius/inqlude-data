@@ -8,11 +8,17 @@
     "homepage": "http://www.coin3d.org/lib/soqt",
     "api_docs": "http://doc.coin3d.org/SoQt/"
   },
-  "licenses": ["GPL"],
+  "licenses": [
+    "GPL"
+  ],
   "description": "By using the combination of Coin, Qt and SoQt for your 3D applications, you\nhave a framework for writing completely portable software across the whole range\nof UNIX, Linux, Microsoft Windows and Mac OS X operating systems. Coin, Qt and\nSoQt makes this possible from a 100% common codebase, which means there is a\nminimum of hassle for developers when working on multiplatform software, with\nthe resulting large gains in productivity.\n",
   "authors": [],
   "maturity": "stable",
-  "platforms": [ "Linux","Windows","MacOS" ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
   "packages": {
     "source": "https://bitbucket.org/Coin3D/coin/downloads/SoQt-1.5.0.tar.gz",
     "openSUSE": {
@@ -25,5 +31,9 @@
         "source_rpm": "SoQt-1.5.0-1.pm.5.4.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Graphics",
+    "Bindings"
+  ]
 }

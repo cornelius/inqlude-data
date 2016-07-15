@@ -24,5 +24,9 @@
   ],
   "packages": {
     "source": "http://github.com/JPNaude/Qtilities/zipball/v1.4"
-  }
+  },
+  "topics": [
+    "Logging",
+    "Widgets"
+  ]
 }

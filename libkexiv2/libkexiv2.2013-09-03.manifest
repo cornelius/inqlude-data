@@ -27,5 +27,9 @@
   ],
   "packages": {
     "source": "ftp://ftp.kde.org/pub/kde/stable/4.11.1/src/libkexiv2-4.11.1.tar.xz"
-  }
+  },
+  "topics": [
+    "Graphics",
+    "Bindings"
+  ]
 }

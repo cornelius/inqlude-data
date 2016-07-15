@@ -18,6 +18,12 @@
     "Integrated Computer Solutions, Inc. <info@ics.com>"
   ],
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Widgets",
+    "Data"
   ]
 }

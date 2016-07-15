@@ -24,5 +24,8 @@
   ],
   "packages": {
     "source": "http://stefanfrings.de/qtwebapp/QtWebApp-src.zip"
-  }
+  },
+  "topics": [
+    "Web"
+  ]
 }

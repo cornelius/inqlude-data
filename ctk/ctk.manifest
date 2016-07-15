@@ -16,5 +16,10 @@
   ],
   "platforms": [
     "Linux"
+  ],
+  "topics": [
+    "Graphics",
+    "Widgets",
+    "Data"
   ]
 }
