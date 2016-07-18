@@ -16,6 +16,6 @@
   "maturity": "stable",
   "platforms": [ "Linux", "Windows", "MacOS" ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/4.7.2/src/kdelibs-4.7.2.tar.bz2"
+    "source": "http://download.kde.org/stable/4.7.2/src/kdelibs-4.7.2.tar.bz2"
   }
 }

@@ -18,7 +18,7 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/4.6.0/src/libkexiv2-4.6.0.tar.xz",
+    "source": "http://download.kde.org/stable/4.6.0/src/libkexiv2-4.6.0.tar.xz",
     "openSUSE": {
       "11.4": {
         "package_name": "libkexiv2-9",

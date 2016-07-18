@@ -8,7 +8,7 @@
     "homepage": "https://projects.kde.org/projects/kdesupport/polkit-qt-1",
     "vcs": "https://projects.kde.org/projects/kdesupport/polkit-qt-1/repository",
     "api_docs": "http://api.kde.org/kdesupport-api/polkit-qt-1-apidocs/",
-    "download": "ftp://ftp.kde.org/pub/kde/stable/apps/KDE4.x/admin/",
+    "download": "http://download.kde.org/stable/apps/KDE4.x/admin/",
     "announcement": "https://projects.kde.org/news/106"
   },
   "licenses": [
@@ -24,6 +24,6 @@
     "Linux"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/apps/KDE4.x/admin/polkit-qt-1-0.103.0.tar.bz2"
+    "source": "http://download.kde.org/stable/apps/KDE4.x/admin/polkit-qt-1-0.103.0.tar.bz2"
   }
 }

@@ -16,7 +16,7 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/attica/attica-0.2.0.tar.bz2",
+    "source": "http://download.kde.org/stable/attica/attica-0.2.0.tar.bz2",
     "openSUSE": {
       "11.4": {
         "package_name": "libattica0",

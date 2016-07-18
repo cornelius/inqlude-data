@@ -14,6 +14,6 @@
   "maturity": "stable",
   "platforms": [ "Linux" ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/unstable/networkmanager-qt/0.9.8.1/src/libnm-qt-0.9.8.1.tar.xz"
+    "source": "http://download.kde.org/unstable/networkmanager-qt/0.9.8.1/src/libnm-qt-0.9.8.1.tar.xz"
   }
 }
