@@ -22,7 +22,7 @@
     "Linux"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/unstable/modemmanager-qt/1.0.1/src/libmm-qt-1.0.1-1.tar.xz"
+    "source": "http://download.kde.org/unstable/modemmanager-qt/1.0.1/src/libmm-qt-1.0.1-1.tar.xz"
   },
   "topics": [
     "Communication",

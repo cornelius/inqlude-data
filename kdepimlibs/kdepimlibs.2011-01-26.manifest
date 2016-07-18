@@ -23,7 +23,7 @@
     "MacOS"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/4.6.0/src/kdepimlibs-4.6.0.tar.xz",
+    "source": "http://download.kde.org/stable/4.6.0/src/kdepimlibs-4.6.0.tar.xz",
     "openSUSE": {
       "11.4": {
         "package_name": "libkdepimlibs4-devel",

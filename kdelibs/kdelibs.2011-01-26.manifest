@@ -24,7 +24,7 @@
     "MacOS"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/4.7.1/src/kdelibs-4.7.1.tar.bz2",
+    "source": "http://download.kde.org/stable/4.7.1/src/kdelibs-4.7.1.tar.bz2",
     "openSUSE": {
       "11.4": {
         "package_name": "libkde4",

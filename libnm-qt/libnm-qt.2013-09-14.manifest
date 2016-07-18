@@ -22,7 +22,7 @@
     "Linux"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/unstable/networkmanager-qt/0.9.0.1/src/libnm-qt-0.9.0.1.tar.xz"
+    "source": "http://download.kde.org/unstable/networkmanager-qt/0.9.0.1/src/libnm-qt-0.9.0.1.tar.xz"
   },
   "topics": [
     "Communication",
