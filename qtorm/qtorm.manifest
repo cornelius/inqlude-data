@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtorm",
+  "display_name": "QtORM",
   "summary": "Object relational model inspired from Django",
   "urls": {
     "homepage": "https://github.com/steckdenis/qtorm",

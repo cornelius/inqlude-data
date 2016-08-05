@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qwtplot3d",
+  "display_name": "QwtPlot3D",
   "release_date": "2007-06-25",
   "version": "0.2.7",
   "summary": "3D plot widgets",

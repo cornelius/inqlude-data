@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtoptimization",
+  "display_name": "qtoptimization",
   "summary": "Module for optimization algorithms",
   "urls": {
     "homepage": "https://gitorious.org/qtoptimization",

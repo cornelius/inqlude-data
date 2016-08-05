@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qdjango",
+  "display_name": "QDjango",
   "version": "0.4.0",
   "release_date": "2013-10-11",
   "summary": "ORM and HTTP request/response framework",

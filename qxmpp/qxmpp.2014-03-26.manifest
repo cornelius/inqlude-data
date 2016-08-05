@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qxmpp",
+  "display_name": "QXmpp",
   "release_date": "2014-03-26",
   "version": "0.8.0",
   "summary": "XMPP client and server library",

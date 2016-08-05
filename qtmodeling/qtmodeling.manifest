@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtmodeling",
+  "display_name": "QtModeling",
   "summary": "Framework for supporting model-driven engineering",
   "urls": {
     "homepage": "http://wiki.qt.io/QtModeling",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kdreports",
+  "display_name": "KD Reports",
   "version": "1.5.0",
   "summary": "Report generator",
   "urls": {
