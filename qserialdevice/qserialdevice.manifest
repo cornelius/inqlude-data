@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qserialdevice",
+  "display_name": "QSerialDevice",
   "summary": "Cross-platform library for accessing serial devices",
   "urls": {
     "homepage": "https://gitorious.org/qserialdevice",

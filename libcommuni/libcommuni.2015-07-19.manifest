@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libcommuni",
+  "display_name": "Communi",
   "release_date": "2015-07-19",
   "version": "3.4.0",
   "summary": "IRC framework",

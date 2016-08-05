@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kdepimlibs",
+  "display_name": "KDE PIM Libraries",
   "release_date": "2013-09-03",
   "version": "4.11.1",
   "summary": "KDE PIM Libraries",

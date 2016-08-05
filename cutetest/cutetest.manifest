@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "cutetest",
+  "display_name": "CuteTest",
   "summary": "Unit testing for Qt",
   "urls": {
     "homepage": "http://qt-project.org/forums/viewthread/14660/",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtuio",
+  "display_name": "qTUIO",
   "summary": "Interface to TUIO, the protocol for tangible multi-touch surfaces",
   "urls": {
     "homepage": "http://qtuio.sirbabyface.net/",

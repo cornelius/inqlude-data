@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtwebkit",
+  "display_name": "QtWebKit",
   "release_date": "2013-08-28",
   "version": "5.1.1",
   "summary": "Qt port of WebKit",

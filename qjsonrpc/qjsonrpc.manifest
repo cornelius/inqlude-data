@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qjsonrpc",
+  "display_name": "QJsonRpc",
   "summary": "Implementation of the JSON-RPC protocol",
   "urls": {
     "homepage": "https://bitbucket.org/devonit/qjsonrpc",

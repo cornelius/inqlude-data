@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "glc-lib",
+  "display_name": "GLC lib",
   "version": "2.5.2",
   "release_date": "2013-09-26",
   "summary": "Library for high performance 3D applications based on OpenGL",
