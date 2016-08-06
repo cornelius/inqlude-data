@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/proprietary-release-manifest-v1#",
   "name": "qtitanribbon",
+  "display_name": "QtitanRibbon",
   "version": "3.1",
   "release_date": "2013-08-26",
   "summary": "Components for ribbon-style user interfaces",

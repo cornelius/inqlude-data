@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtilities",
+  "display_name": "Qtilities",
   "version": "1.4",
   "release_date": "2013-05-30",
   "summary": "Building blocks for Qt applications",

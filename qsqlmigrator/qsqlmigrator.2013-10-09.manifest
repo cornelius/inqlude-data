@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qsqlmigrator",
+  "display_name": "QSqlMigrator",
   "release_date": "2013-10-09",
   "version": "1.0",
   "summary": "QSqlMigrator - keep track of your database migrations",

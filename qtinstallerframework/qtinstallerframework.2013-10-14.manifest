@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtinstallerframework",
+  "display_name": "Qt Installer Framework",
   "release_date": "2013-10-14",
   "version": "1.4.0",
   "summary": "Tools and utilities to create installers for the supported desktop Qt platforms.",

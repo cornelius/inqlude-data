@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtioccontainer",
+  "display_name": "QtIOCContainer",
   "version": "3.5",
   "release_date": "2006-12-17",
   "summary": "Application framework inspired by Inversion Of Control concept",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "soqt",
+  "display_name": "Coin",
   "release_date": "2010-03-03",
   "version": "1.5.0",
   "summary": "Qt interface for 3D visualization library Coin",

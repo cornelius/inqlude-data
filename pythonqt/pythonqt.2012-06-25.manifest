@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "pythonqt",
+  "display_name": "PythonQt",
   "version": "2.1",
   "release_date": "2012-06-25",
   "summary": "Framework for embedding Python in Qt applications",

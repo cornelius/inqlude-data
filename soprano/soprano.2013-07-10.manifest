@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "soprano",
+  "display_name": "Soprano",
   "release_date": "2013-07-10",
   "version": "2.9.3",
   "summary": "Qt/C++ RDF framework",
