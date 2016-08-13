@@ -18,9 +18,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Communication",
-    "Data"
-  ]
+  "group": "kde-frameworks"
 }
