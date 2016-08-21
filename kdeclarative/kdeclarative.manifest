@@ -18,9 +18,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Desktop",
-    "QML"
-  ]
+  "group": "kde-frameworks"
 }

@@ -18,8 +18,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Artwork"
-  ]
+  "group": "kde-frameworks"
 }

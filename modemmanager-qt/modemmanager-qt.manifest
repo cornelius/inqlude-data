@@ -18,9 +18,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Communication",
-    "Bindings"
-  ]
+  "group": "kde-frameworks"
 }

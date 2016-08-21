@@ -18,9 +18,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Web",
-    "Scripting"
-  ]
+  "group": "kde-frameworks"
 }

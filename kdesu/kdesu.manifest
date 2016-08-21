@@ -18,9 +18,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Security",
-    "Desktop"
-  ]
+  "group": "kde-frameworks"
 }

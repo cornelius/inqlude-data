@@ -18,9 +18,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Security",
-    "API"
-  ]
+  "group": "kde-frameworks"
 }

@@ -18,9 +18,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Widgets",
-    "Development"
-  ]
+  "group": "kde-frameworks"
 }
