@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qoauth",
+  "display_name": "QOAuth",
   "release_date": "2010-08-01",
   "version": "1.0.1",
   "summary": "Library for OAuth authorization scheme",

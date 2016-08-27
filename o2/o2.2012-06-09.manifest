@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "o2",
+  "display_name": "O2",
   "release_date": "2012-06-09",
   "version": "1.0",
   "summary": "A library encapsulating OAuth 1.0 and 2.0 client authentication flows",

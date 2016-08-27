@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtftp",
+  "display_name": "QFtp",
   "summary": "FTP implementation",
   "urls": {
     "homepage": "http://code.qt.io/cgit/qt/qtftp.git/",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "tasks",
+  "display_name": "Tasks",
   "release_date": "2015-12-26",
   "version": "1.2.1",
   "summary": "a simple single header library that allows async programming in Qt/C++ using tasks,continuations and resumable functions",

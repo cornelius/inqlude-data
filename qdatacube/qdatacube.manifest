@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qdatacube",
+  "display_name": "QDataCube",
   "summary": "Datacube for Qt",
   "urls": {
     "homepage": "https://gitlab.com/AngeOptimization/qdatacube",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qimageblitz",
+  "display_name": "Blitz KDE",
   "release_date": "2007-11-16",
   "version": "0.0.4",
   "summary": "Image Effect Library for KDE",

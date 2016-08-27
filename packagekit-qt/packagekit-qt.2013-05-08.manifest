@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "packagekit-qt",
+  "display_name": "PackageKit",
   "release_date": "2013-05-08",
   "version": "0.8.8",
   "summary": "Qt bindings for PackageKit, the backend for managing software installation",

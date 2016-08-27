@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "phonon",
+  "display_name": "Phonon",
   "release_date": "2011-12-19",
   "version": "4.6.0",
   "summary": "Phonon Multimedia Platform Abstraction",

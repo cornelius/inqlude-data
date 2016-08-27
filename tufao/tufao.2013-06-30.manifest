@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "tufao",
+  "display_name": "Tufao",
   "release_date": "2013-06-30",
   "version": "1.0.2",
   "summary": "An asynchronous web framework for C++ built on top of Qt",

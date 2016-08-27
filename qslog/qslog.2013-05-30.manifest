@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qslog",
+  "display_name": "QsLog",
   "version": "2.0b1",
   "release_date": "2013-05-30",
   "summary": "Simple Qt logger",
