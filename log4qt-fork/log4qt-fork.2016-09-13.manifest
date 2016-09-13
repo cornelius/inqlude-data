@@ -29,7 +29,8 @@
     "OS X"
   ],
   "packages": {
-    "source": "https://github.com/MEONMedical/Log4Qt/archive/v1.3.0.tar.gz"
+    "source": "https://github.com/MEONMedical/Log4Qt/archive/v1.3.0.tar.gz",
+    "source": "https://github.com/MEONMedical/Log4Qt/archive/v1.3.0.zip"
   },
   "topics": [
     "Development",
