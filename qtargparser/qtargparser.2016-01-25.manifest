@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtargparser",
+  "display_name": "QtArg",
   "version": "2.0.0",
   "release_date": "2016-01-25",
   "summary": "Command line parsing",
@@ -22,5 +23,8 @@
   ],
   "packages": {
     "source": "https://github.com/igormironchik/qtargparser/archive/2.0.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Development"
+  ]
 }

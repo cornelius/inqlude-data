@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "tufao",
+  "display_name": "Tufao",
   "release_date": "2013-06-30",
   "version": "1.0.2",
   "summary": "An asynchronous web framework for C++ built on top of Qt",
@@ -10,12 +11,23 @@
     "download": "https://github.com/vinipsmaker/tufao",
     "api_docs": "http://vinipsmaker.github.io/tufao/ref/1.x/"
   },
-  "licenses": ["Library: LGPLv2, Documentation and Examples: MIT"],
+  "licenses": [
+    "Library: LGPLv2, Documentation and Examples: MIT"
+  ],
   "description": "Tufão is a web framework for C++ that makes use of Qt's object communication system (signals & slots). It features a high performance standalone server, good documentation, support for modern HTTP features (e.g. WebSocket), a flexible request router, a full-featured file server, a plugin-based server to allow to change the running code without restart the application, among other...",
-  "authors": ["Vinícius dos Santos Oliveira <vini.ipsmaker@gmail.com>"],
+  "authors": [
+    "Vinícius dos Santos Oliveira <vini.ipsmaker@gmail.com>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux", "Windows", "MacOS" ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
   "packages": {
     "source": "https://github.com/vinipsmaker/tufao/archive/1.0.2.zip"
-  }
+  },
+  "topics": [
+    "Web"
+  ]
 }

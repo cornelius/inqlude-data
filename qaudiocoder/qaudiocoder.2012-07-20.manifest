@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qaudiocoder",
+  "display_name": "QAudioCoder",
   "version": "0.1.0",
   "release_date": "2012-07-20",
   "summary": "Library for audio decoding, encoding and audio file conversion",
@@ -22,5 +23,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/qaudiocoder/files/Version%200.1.0/Source%20Code/qaudiocoder-0.1.0-source.gz/download"
-  }
+  },
+  "topics": [
+    "Multimedia"
+  ]
 }

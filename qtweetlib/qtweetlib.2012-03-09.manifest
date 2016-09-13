@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtweetlib",
+  "display_name": "QTweetLib",
   "release_date": "2012-03-09",
   "version": "0.5",
   "summary": "Library to access Twitter",
@@ -21,5 +22,8 @@
   ],
   "packages": {
     "source": "https://github.com/minimoog/QTweetLib/archive/0.5.tar.gz"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

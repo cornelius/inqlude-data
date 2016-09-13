@@ -11,14 +11,16 @@
     "LGPLv2.1+"
   ],
   "description": "Qt4 bindings for avahi.\n\nAvahi is an Implementation the DNS Service Discovery and Multicast DNS\nspecifications for Zeroconf Computing. It uses D-BUS for communication\nbetween user applications and a system daemon. The daemon is used to\ncoordinate application efforts in caching replies, necessary to\nminimize the traffic imposed on networks.\n\nThe Avahi mDNS responder is now feature complete implementing all MUSTs\nand the majority of the SHOULDs of the mDNS/DNS-SD RFCs. It passes all\ntests in the Apple Bonjour conformance test suite. In addition it\nsupports some nifty things that have never been seen elsewhere like\ncorrect mDNS reflection accross LAN segments.\n",
-  "authors": [
-
-  ],
+  "authors": [],
   "maturity": "stable",
   "platforms": [
     "Linux"
   ],
   "packages": {
     "source": "http://www.avahi.org/download/avahi-0.6.31.tar.gz"
-  }
+  },
+  "topics": [
+    "Bindings",
+    "Communication"
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "marble",
+  "display_name": "Marble",
   "release_date": "2013-10-01",
   "version": "1.6.1",
   "summary": "Marble Virtual Globe",
@@ -9,7 +10,7 @@
     "api_docs": "http://api.kde.org/4.11-api/kdeedu-apidocs/marble/html/",
     "tutorial": "http://techbase.kde.org/Projects/Marble/MarbleCPlusPlus",
     "vcs": "https://projects.kde.org/projects/kde/kdeedu/marble",
-    "download": "ftp://ftp.kde.org/pub/kde/stable/",
+    "download": "http://download.kde.org/stable/",
     "announcement": "http://kde.org/announcements/announce-4.11.1.php"
   },
   "licenses": [
@@ -28,6 +29,9 @@
     "MeeGo"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/4.11.1/src/marble-4.11.1.tar.xz"
-  }
+    "source": "http://download.kde.org/stable/4.11.1/src/marble-4.11.1.tar.xz"
+  },
+  "topics": [
+    "Widgets"
+  ]
 }

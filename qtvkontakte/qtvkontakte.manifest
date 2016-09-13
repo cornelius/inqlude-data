@@ -18,5 +18,8 @@
   "platforms": [
     "Android"
   ],
-  "group": "mobile"
+  "group": "mobile",
+  "topics": [
+    "Mobile"
+  ]
 }

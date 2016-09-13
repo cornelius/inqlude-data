@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kdepimlibs",
+  "display_name": "KDE PIM Libraries",
   "release_date": "2013-09-03",
   "version": "4.11.1",
   "summary": "KDE PIM Libraries",
@@ -8,7 +9,7 @@
     "homepage": "http://pim.kde.org",
     "api_docs": "http://api.kde.org/4.6-api/kdepimlibs-apidocs/",
     "vcs": "https://projects.kde.org/projects/kde/kdepimlibs/repository",
-    "download": "ftp://ftp.kde.org/pub/kde/stable/"
+    "download": "http://download.kde.org/stable/"
   },
   "licenses": [
     "LGPLv2.1+"
@@ -24,6 +25,10 @@
     "MacOS"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/4.11.1/src/kdepimlibs-4.11.1.tar.xz"
-  }
+    "source": "http://download.kde.org/stable/4.11.1/src/kdepimlibs-4.11.1.tar.xz"
+  },
+  "topics": [
+    "Data",
+    "Communication"
+  ]
 }

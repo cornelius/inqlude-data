@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "poppler-qt",
+  "display_name": "Poppler",
   "release_date": "2013-08-26",
   "version": "0.24.1",
   "summary": "Qt bindings for Poppler, the PDF rendering library",
@@ -23,5 +24,8 @@
   ],
   "packages": {
     "source": "http://poppler.freedesktop.org/poppler-0.24.1.tar.xz"
-  }
+  },
+  "topics": [
+    "Bindings"
+  ]
 }

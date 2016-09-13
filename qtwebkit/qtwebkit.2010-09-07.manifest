@@ -8,11 +8,21 @@
     "homepage": "http://trac.webkit.org/wiki/QtWebKit",
     "api_docs": "http://doc.qt.nokia.com/latest/qtwebkit.html"
   },
-  "licenses": ["GPLv3","LGPLv2.1+"],
+  "licenses": [
+    "GPLv3",
+    "LGPLv2.1+"
+  ],
   "description": "WebKit is an open source web browser engine. WebKit's HTML and JavaScript code began as a branch of the KHTML and KJS libraries from KDE. As part of KDE framework KHTML was based on Qt but during their porting efforts Apple's engineers made WebKit toolkit independent. QtWebKit is a project aiming at porting this fabulous engine back to Qt.\n\nQtWebKit 2.0 is released as part of Qt 4.7.",
-  "authors": ["Qt Software"],
+  "authors": [
+    "Qt Software"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux","Windows","MacOS","Symbian" ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS",
+    "Symbian"
+  ],
   "packages": {
     "source": "http://download.qt-project.org/official_releases/qtwebkit/2.0/qtwebkit-opensource-src-2.0.tar.xz",
     "openSUSE": {
@@ -25,5 +35,8 @@
         "source_rpm": "libqt4-4.7.1-7.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Web"
+  ]
 }

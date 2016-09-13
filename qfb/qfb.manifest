@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qfb",
+  "display_name": "QFB",
   "summary": "Client library for accessing Facebook graph API",
   "urls": {
     "homepage": "https://github.com/SfietKonstantin/qfb",
@@ -15,5 +16,8 @@
   ],
   "platforms": [
     "Linux"
+  ],
+  "topics": [
+    "API"
   ]
 }

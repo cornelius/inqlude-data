@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "log4qt",
+  "display_name": "Log4Qt",
   "version": "0.3",
   "release_date": "2009-03-01",
   "summary": "C++ port of the Log4j logging framework",
@@ -23,5 +24,9 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/log4qt/files/Log4Qt/0.3/log4qt-0.3.tar.gz/download"
-  }
+  },
+  "topics": [
+    "Development",
+    "Logging"
+  ]
 }

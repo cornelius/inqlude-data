@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libnm-qt",
+  "display_name": "libnm-qt",
   "release_date": "2014-07-01",
   "version": "0.9.8.2",
   "summary": "Qt wrapper for NetworkManager DBus API",
@@ -8,12 +9,24 @@
     "homepage": "https://projects.kde.org/projects/extragear/libs/libnm-qt",
     "vcs": "https://projects.kde.org/projects/extragear/libs/libnm-qt/repository"
   },
-  "licenses": ["LGPL"],
+  "licenses": [
+    "LGPL"
+  ],
   "description": "NetworkManager-qt (or libnm-qt) features a friendly Qt-style API for the NetworkManager interface.",
-  "authors": ["Lamarque Souza <lamarque@kde.org>", "Lukáš Tinkl <ltinkl@redhat.com>", "Jan Grulich <jgrulich@redhat.com>"],
+  "authors": [
+    "Lamarque Souza <lamarque@kde.org>",
+    "Lukáš Tinkl <ltinkl@redhat.com>",
+    "Jan Grulich <jgrulich@redhat.com>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "http://download.kde.org/unstable/networkmanager-qt/0.9.8.2/src/libnm-qt-0.9.8.2.tar.xz"
-  }
+  },
+  "topics": [
+    "Communication",
+    "Bindings"
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtspeech",
+  "display_name": "QtSpeech",
   "summary": "Cross-platform API to access and use system text-to-spech engines",
   "urls": {
     "homepage": "http://lynxline.com/projects/qtspeech/",
@@ -14,6 +15,12 @@
     "Oleksandr Iakovliev <yshurik@gmail.com>"
   ],
   "platforms": [
-    "Windows","Linux","OSX"
+    "Windows",
+    "Linux",
+    "OSX"
+  ],
+  "topics": [
+    "Bindings",
+    "Multimedia"
   ]
 }

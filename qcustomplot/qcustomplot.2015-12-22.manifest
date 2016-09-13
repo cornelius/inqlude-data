@@ -1,0 +1,36 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qcustomplot",
+  "display_name": "QCustomPlot",
+  "version": "1.3.2",
+  "release_date": "2015-12-22",
+  "summary": "Plotting widget for Qt",
+  "urls": {
+    "homepage": "http://www.qcustomplot.com/index.php/introduction",
+    "vcs": "https://gitlab.com/DerManu/QCustomPlot",
+    "api_docs": "http://www.qcustomplot.com/documentation/index.html",
+    "download": "http://www.qcustomplot.com/index.php/download",
+    "tutorial": "http://www.qcustomplot.com/index.php/tutorials/basicplotting",
+    "announcement": "http://www.qcustomplot.com/index.php/news",
+    "custom": {
+      "Contact": "http://www.qcustomplot.com/index.php/contact"
+    }
+  },
+  "licenses": [
+    "GPLv3+"
+  ],
+  "description": "QCustomPlot is a Qt C++ widget for plotting and data visualization. It has no further dependencies and is well documented. This plotting library focuses on making good looking, publication quality 2D plots, graphs and charts, as well as offering high performance for realtime visualization applications. Have a look at the Setting Up and the Basic Plotting tutorials to get started.\n\nQCustomPlot can export to various formats such as vectorized PDF files and rasterized images like PNG, JPG and BMP. All outputs look consistent across the supported formats and the generated PDF files can be imported and edited by vector editors like Inkscape, without trouble. So QCustomPlot is useful for both displaying of realtime data inside the application as well as producing high quality plots for other media.",
+  "maturity": "stable",
+  "authors": [
+    "Emanuel Eichhammer"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://www.qcustomplot.com/release/1.3.2/QCustomPlot.tar.gz"
+  },
+  "topics": [
+    "Graphics"
+  ]
+}

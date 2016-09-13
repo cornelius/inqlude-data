@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "exaro",
+  "display_name": "eXaro",
   "version": "2.0.0",
   "release_date": "2009-08-27",
   "summary": "Report engine",
@@ -24,5 +25,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/exaro/files/exaro/exaro%202.0.0/exaro_2.0.0.tar.lzma/download"
-  }
+  },
+  "topics": [
+    "Printing"
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kode",
+  "display_name": "Kode",
   "summary": "Code generation library",
   "urls": {
     "homepage": "http://www.lst.de/~cs/kode/",
@@ -17,5 +18,9 @@
   ],
   "platforms": [
     "Linux"
+  ],
+  "topics": [
+    "Development",
+    "Data"
   ]
 }

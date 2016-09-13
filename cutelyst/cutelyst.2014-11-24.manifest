@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "cutelyst",
+  "display_name": "Cutelyst",
   "version": "0.5.0",
   "release_date": "2014-11-24",
   "summary": "A Web Framework, using the simple approach of Catalyst (Perl) framework.",
@@ -24,5 +25,8 @@
   ],
   "packages": {
     "source": "https://gitorious.org/cutelyst/cutelyst/archive/c77510285823c87b20726e40cda1ec7247d91966.tar.gz"
-  }
+  },
+  "topics": [
+    "Web"
+  ]
 }

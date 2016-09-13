@@ -9,11 +9,17 @@
     "api_docs": "http://klatexformula.sourceforge.net/doc/apidoc/klfbackend/html/",
     "vcs": "http://sourceforge.net/scm/?type=svn&group_id=174270"
   },
-  "licenses": ["GPLv2+"],
+  "licenses": [
+    "GPLv2+"
+  ],
   "description": "A C++/Qt library to generate images (PNG, EPS, PDF, plus all Qt-supported image\nformats) from LaTeX equations.\n\nThis library implements the base functionality of KLatexFormula. This library\nis compiled for Qt 4.\n\nSee also packages klatexformula and libklfbackend-qt3.\n",
-  "authors": [ "Philippe Faist <philippe.faist@bluewin.ch>" ],
+  "authors": [
+    "Philippe Faist <philippe.faist@bluewin.ch>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "http://sourceforge.net/projects/klatexformula/files/klatexformula/klatexformula-3.2.2/klatexformula-3.2.2.tar.gz/download",
     "openSUSE": {
@@ -26,5 +32,9 @@
         "source_rpm": "klatexformula-3.2.2-3.2.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Graphics",
+    "Data"
+  ]
 }

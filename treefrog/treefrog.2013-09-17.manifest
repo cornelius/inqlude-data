@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "treefrog",
+  "display_name": "TreeFrog",
   "version": "1.7.1",
   "release_date": "2013-09-17",
   "summary": "Framework for developing web applications",
@@ -25,5 +26,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/treefrog/files/src/treefrog-1.7.1.tar.gz/download"
-  }
+  },
+  "topics": [
+    "Web"
+  ]
 }

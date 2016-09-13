@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kdchart",
+  "display_name": "KD Chart",
   "summary": "Creation of business charts",
   "urls": {
     "homepage": "http://www.kdab.com/kdab-products/kd-chart/",
@@ -15,6 +16,11 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Graphics"
   ]
 }

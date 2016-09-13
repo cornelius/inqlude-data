@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qlogsystem",
+  "display_name": "qlogsystem",
   "release_date": "2015-01-13",
   "version": "1.0.7",
   "summary": "qlogsystem is a very efficient and easy to use logger library",
@@ -24,6 +25,9 @@
   ],
   "packages": {
     "source": "https://github.com/balabit/qlogsystem/archive/v1.0.7.tar.gz"
-  }
+  },
+  "topics": [
+    "Development",
+    "Logging"
+  ]
 }
-

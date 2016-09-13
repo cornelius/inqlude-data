@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "telepathy-qt",
+  "display_name": "Telepathy",
   "version": "0.9.3",
   "release_date": "2012-07-13",
   "summary": "Qt bindings for the Telepathy communications framework",
@@ -22,5 +23,9 @@
   ],
   "packages": {
     "source": "http://telepathy.freedesktop.org/releases/telepathy-qt/telepathy-qt-0.9.3.tar.gz"
-  }
+  },
+  "topics": [
+    "Bindings",
+    "Communication"
+  ]
 }

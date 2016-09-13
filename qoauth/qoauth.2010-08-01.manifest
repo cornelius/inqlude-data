@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qoauth",
+  "display_name": "QOAuth",
   "release_date": "2010-08-01",
   "version": "1.0.1",
   "summary": "Library for OAuth authorization scheme",
@@ -9,11 +10,17 @@
     "api_docs": "http://files.ayoy.net/qoauth/1.0.1/doc/",
     "vcs": "http://github.com/ayoy/qoauth"
   },
-  "licenses": ["LGPL"],
+  "licenses": [
+    "LGPL"
+  ],
   "description": "QOAuth is an attempt to support interaction with OAuth-powered network services\nin a Qt way, i.e. simply, clearly and efficiently.\n\n",
-  "authors": ["Dominik Kapusta <d@ayoy.net>"],
+  "authors": [
+    "Dominik Kapusta <d@ayoy.net>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "https://github.com/ayoy/qoauth/archive/v1.0.1.tar.gz",
     "openSUSE": {
@@ -26,5 +33,9 @@
         "source_rpm": "qoauth-1.0.1-3.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Security",
+    "API"
+  ]
 }

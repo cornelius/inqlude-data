@@ -10,11 +10,18 @@
     "download": "http://sourceforge.net/projects/qwt/files/qwt/",
     "api_docs": "http://qwt.sourceforge.net/index.html"
   },
-  "licenses": ["Qwt License 1.0"],
+  "licenses": [
+    "Qwt License 1.0"
+  ],
   "description": "The Qwt library contains GUI Components and utility classes which are primarily useful for programs with a technical background. Beside a 2D plot widget it provides scales, sliders, dials, compasses, thermometers, wheels and knobs to control or display values, arrays, or ranges of type double.",
-  "authors": ["Uwe Rathmann <rathmann@users.sourceforge.net>","Josef Wilgen ( <= Qwt 0.2 )"],
+  "authors": [
+    "Uwe Rathmann <rathmann@users.sourceforge.net>",
+    "Josef Wilgen ( <= Qwt 0.2 )"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "http://sourceforge.net/projects/qwt/files/qwt/5.2.1/qwt-5.2.1.tar.bz2/download",
     "openSUSE": {
@@ -27,5 +34,9 @@
         "source_rpm": "qwt-5.2.1-1.2.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Widgets",
+    "Graphics"
+  ]
 }

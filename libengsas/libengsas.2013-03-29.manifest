@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libengsas",
+  "display_name": "LibEngsas",
   "release_date": "2013-03-29",
   "version": "0.5.2",
   "summary": "Widgets for technical applications",
@@ -25,5 +26,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/libengsas/files/libengsas0_0.5.2.orig.tar.bz2/download"
-  }
+  },
+  "topics": [
+    "Widgets"
+  ]
 }

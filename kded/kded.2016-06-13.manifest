@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kded",
+  "display_name": "KDED",
+  "release_date": "2016-06-13",
+  "version": "5.23.0",
+  "summary": "Extensible deamon for providing system level services",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kded/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.23/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kded/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KDED stands for KDE Daemon which isn't very descriptive.\nKDED runs in the background and performs a number of small tasks.\nSome of these tasks are built in, others are started on demand.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.23/kded-5.23.0.tar.xz"
+  },
+  "group": "kde-frameworks",
+  "topics": [
+    "Desktop"
+  ]
+}

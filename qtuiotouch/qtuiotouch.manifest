@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtuiotouch",
+  "display_name": "qtuiotouch",
   "summary": "Qt plugin for TUIO input devices",
   "urls": {
     "homepage": "https://github.com/dancasimiro/qtuiotouch",
@@ -15,5 +16,8 @@
   ],
   "platforms": [
     "Linux"
+  ],
+  "topics": [
+    "Mobile"
   ]
 }

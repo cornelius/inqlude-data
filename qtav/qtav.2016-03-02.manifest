@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtav",
+  "display_name": "QtAV",
   "release_date": "2016-03-02",
   "version": "1.10.0",
   "summary": "A cross-platform multimedia playback framework based on Qt and FFmpeg.",
@@ -10,11 +11,11 @@
     "download": "http://www.qtav.org/install.html",
     "announcement": "http://www.qtav.org/blog/1.10.0.html",
     "custom": {
-        "Wiki": "https://github.com/wang-bin/QtAV/wiki"
+      "Wiki": "https://github.com/wang-bin/QtAV/wiki"
     }
   },
   "licenses": [
-    "LGPLv2.1+", 
+    "LGPLv2.1+",
     "GPLv3"
   ],
   "description": "QtAV is a multimedia playback library based on Qt and FFmpeg. It provides high performance and supports cross platform. It can help you to write a player with less effort than ever before.",
@@ -23,10 +24,16 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Windows","Linux","OS X","Android","iOS"
+    "Windows",
+    "Linux",
+    "OS X",
+    "Android",
+    "iOS"
   ],
   "packages": {
     "source": "https://github.com/wang-bin/QtAV/archive/v1.10.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Multimedia"
+  ]
 }
-

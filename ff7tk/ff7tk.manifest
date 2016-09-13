@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "ff7tk",
+  "display_name": "FF7tk",
   "summary": "Toolkit for working with data from Final Fantasy 7",
   "urls": {
     "homepage": "http://forums.qhimm.com/index.php?topic=12938.msg184462",
@@ -18,6 +19,12 @@
     "And others"
   ],
   "platforms": [
-    "Linux", "Windows", "MacOs", "Android"
+    "Linux",
+    "Windows",
+    "MacOs",
+    "Android"
+  ],
+  "topics": [
+    "Data"
   ]
 }

@@ -24,7 +24,10 @@
     "Windows"
   ],
   "packages": {
-    "source": "https://github.com/podsvirov/osgqtquick/archive/v2.0.0-alpha-2.zip",
     "source": "https://github.com/podsvirov/osgqtquick/archive/v2.0.0-alpha-2.tar.gz"
-  }
+  },
+  "topics": [
+    "Graphics",
+    "QML"
+  ]
 }

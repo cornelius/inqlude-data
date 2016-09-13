@@ -1,11 +1,12 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libqxt",
+  "display_name": "Qxt",
   "version": "0.6.2",
   "release_date": "2011-11-24",
   "summary": "Utility classes for Qt",
   "urls": {
-    "homepage": "http://dev.libqxt.org/libqxt/wiki/Home",
+    "homepage": "https://bitbucket.org/libqxt/libqxt/wiki/Home",
     "vcs": "http://dev.libqxt.org/libqxt/src"
   },
   "licenses": [
@@ -26,5 +27,9 @@
   ],
   "packages": {
     "source": "http://dev.libqxt.org/libqxt/get/v0.6.2.tar.gz"
-  }
+  },
+  "topics": [
+    "Development",
+    "Widgets"
+  ]
 }

@@ -21,8 +21,12 @@
   "platforms": [
     "Linux",
     "Windows",
-    "OS X"  ],
+    "OS X"
+  ],
   "packages": {
     "source": "https://code.google.com/p/qdecimal/downloads/detail?name=qdecimal-1.0.1.tgz&can=2&q="
-  }
+  },
+  "topics": [
+    "Data"
+  ]
 }

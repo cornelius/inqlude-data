@@ -26,5 +26,8 @@
   ],
   "packages": {
     "source": "http://download.kde.org/stable/plasma/5.4.1/kwayland-5.4.1.tar.xz"
-  }
+  },
+  "topics": [
+    "Desktop"
+  ]
 }

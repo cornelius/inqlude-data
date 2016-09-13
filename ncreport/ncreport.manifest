@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "ncreport",
+  "display_name": "NCReport",
   "summary": "Report generator",
   "urls": {
     "homepage": "http://www.nocisoft.com/ncreport.html"
@@ -14,6 +15,12 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Linux","Windows","OS X"
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Printing",
+    "Data"
   ]
 }

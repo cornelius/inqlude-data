@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "quazip",
+  "display_name": "QuaZIP",
   "version": "0.7",
   "release_date": "2014-07-24",
   "summary": "Qt/C++ wrapper for ZIP/UNZIP package",
@@ -22,5 +23,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/quazip/files/quazip/0.7/quazip-0.7.tar.gz/download"
-  }
+  },
+  "topics": [
+    "Data"
+  ]
 }

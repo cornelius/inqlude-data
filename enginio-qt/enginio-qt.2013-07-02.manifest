@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "enginio-qt",
+  "display_name": "Enginio",
   "release_date": "2013-07-02",
   "version": "0.5.0",
   "summary": "Enginio client library for Qt platfom. Provides both Qt C++ and QML APIs to client applications.",
@@ -25,5 +26,10 @@
   ],
   "packages": {
     "source": "https://github.com/enginio/enginio-qt/archive/0.5.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Data",
+    "API",
+    "QML"
+  ]
 }

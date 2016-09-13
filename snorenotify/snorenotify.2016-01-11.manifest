@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "snorenotify",
+  "display_name": "Snorenotify",
   "release_date": "2016-01-11",
   "version": "0.7.0",
   "summary": "Snorenotify notification framework",
@@ -26,5 +27,8 @@
   ],
   "packages": {
     "source": "http://download.kde.org/stable/snorenotify/0.7.0/src/snorenotify-0.7.0.tar.xz"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

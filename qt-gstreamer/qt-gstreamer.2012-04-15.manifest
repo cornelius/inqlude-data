@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qt-gstreamer",
+  "display_name": "QtGStreamer",
   "version": "0.10.2",
   "release_date": "2012-04-15",
   "summary": "Qt bindings for GStreamer",
@@ -21,5 +22,9 @@
   ],
   "packages": {
     "source": "http://gstreamer.freedesktop.org/src/qt-gstreamer/qt-gstreamer-0.10.2.tar.gz"
-  }
+  },
+  "topics": [
+    "Bindings",
+    "Multimedia"
+  ]
 }

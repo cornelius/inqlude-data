@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qwtplot3d",
+  "display_name": "QwtPlot3D",
   "release_date": "2007-06-25",
   "version": "0.2.7",
   "summary": "3D plot widgets",
@@ -10,11 +11,17 @@
     "download": "http://sourceforge.net/projects/qwtplot3d/files/qwtplot3d/",
     "vcs": "http://qwtplot3d.svn.sourceforge.net/viewvc/qwtplot3d/"
   },
-  "licenses": ["zlib"],
+  "licenses": [
+    "zlib"
+  ],
   "description": "QwtPlot3D is a Qt/OpenGL-based C++\nprogramming library. It provides a set of 3D plot widgets.",
-  "authors": [ "Michael Bieber" ],
+  "authors": [
+    "Michael Bieber"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "http://sourceforge.net/projects/qwtplot3d/files/qwtplot3d/0.2.7/qwtplot3d-0.2.7.tgz/download",
     "openSUSE": {
@@ -27,5 +34,8 @@
         "source_rpm": "libqwtplot3d0-0.2.7-0.pm.9.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Graphics"
+  ]
 }

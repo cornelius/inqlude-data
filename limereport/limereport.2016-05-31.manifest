@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "limereport",
+  "display_name": "LimeReport",
+  "version": "1.3.11",
+  "release_date": "2016-05-31",
+  "summary": "Report printing engine",  
+  "urls": {
+    "homepage": "http://limereport.ru/",
+    "vcs": "https://github.com/fralx/LimeReport",
+    "download": "https://sourceforge.net/projects/limereport/files/",
+    "announcement": "",
+    "api_docs": "",
+    "mailing_list": "arin_a@bk.ru"
+  },
+  "licenses": [
+    "GPLv3+", "LGPLv2.1+"
+  ],
+  "description": "Report generator intended for software developers that would like to add into their application capability to form report or print forms generated using templates. Report designer included in the library allows to create fast and intuitive print form templates which can be saved in XML format and used to generate report pages. So formed pages could be send to preview, PDF file or printer. As a data source developer can use SQL database or data passed from application using QAbstractTableModel interface. Besides one can initialize variables which available as database request parameters. LimeReport goal is to provide your application with functionaly abundant and at the same time simple to use tool for a report generation to be used even by inexperienced in IT users.",
+  "maturity": "stable",
+  "authors": [
+    "Alexander Arin <arin_a@bk.ru>"
+  ],
+  "platforms": [
+    "Linux", "Windows", "OS X"
+  ],
+  "packages": {
+    "source": "https://sourceforge.net/projects/limereport/files/Sources/limereport_1_3_11.7z/download"
+  },
+  "topics": [
+    "Printing"
+  ]
+}

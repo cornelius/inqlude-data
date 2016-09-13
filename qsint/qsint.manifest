@@ -16,6 +16,11 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Linux","Windows","OS X"
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Widgets"
   ]
 }

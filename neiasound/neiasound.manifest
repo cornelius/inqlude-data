@@ -17,5 +17,9 @@
   "platforms": [
     "Cross-platform"
   ],
-  "group": "kde-frameworks"
+  "group": "kde-frameworks",
+  "topics": [
+    "Multimedia",
+    "Bindings"
+  ]
 }

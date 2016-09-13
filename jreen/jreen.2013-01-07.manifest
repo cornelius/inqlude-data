@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "jreen",
+  "display_name": "Jreen",
   "release_date": "2013-01-07",
   "version": "1.1.1",
   "summary": "XMPP client library",
@@ -21,5 +22,8 @@
   ],
   "packages": {
     "source": "http://qutim.org/dwnl/44/libjreen-1.1.1.tar.bz2"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

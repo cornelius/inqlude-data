@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtwebapp",
+  "display_name": "QtWebApp",
   "version": "1.3.1",
   "release_date": "2013-08-05",
   "summary": "Web application framework similar to Java Servlet API",
@@ -24,5 +25,8 @@
   ],
   "packages": {
     "source": "http://stefanfrings.de/qtwebapp/QtWebApp-src.zip"
-  }
+  },
+  "topics": [
+    "Web"
+  ]
 }

@@ -25,5 +25,8 @@
   "version": "5.1.0",
   "packages": {
     "source": "http://download.kde.org/stable/frameworks/5.1.0/kconfig-5.1.0.tar.xz"
-  }
+  },
+  "topics": [
+    "Development"
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kdreports",
+  "display_name": "KD Reports",
   "version": "1.5.0",
   "summary": "Report generator",
   "urls": {
@@ -9,7 +10,8 @@
     "vcs": "https://github.com/KDAB/KDReports"
   },
   "licenses": [
-    "LGPLv2.1+", "Commercial"
+    "LGPLv2.1+",
+    "Commercial"
   ],
   "description": "KD Reports generates printable and exportable reports from code and from XML descriptions.  Reports may contain text paragraphs, tables, headlines, charts, headers and footers, and more.",
   "authors": [
@@ -17,6 +19,11 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Printing"
   ]
 }

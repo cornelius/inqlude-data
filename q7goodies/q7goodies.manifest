@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "q7goodies",
+  "display_name": "Q7Goodies",
   "summary": "Windows 7 taskbar extensions",
   "urls": {
     "homepage": "http://www.strixcode.com/q7goodies/"
@@ -15,5 +16,8 @@
   "maturity": "stable",
   "platforms": [
     "Windows"
+  ],
+  "topics": [
+    "Widgets"
   ]
 }

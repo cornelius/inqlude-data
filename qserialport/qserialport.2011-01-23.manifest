@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qserialport",
+  "display_name": "QSerialPort",
   "version": "0.1.1",
   "release_date": "2011-01-23",
   "summary": "Cross-platform serial port driver",
@@ -22,5 +23,8 @@
   ],
   "packages": {
     "source": "http://sourceforge.net/projects/qserialport/files/qserialport-0.1.1.zip/download"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

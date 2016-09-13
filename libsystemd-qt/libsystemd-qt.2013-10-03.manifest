@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libsystemd-qt",
+  "display_name": "libsystemd-qt",
   "release_date": "2013-10-03",
   "version": "208",
   "summary": "Qt-only wrapper for the Systemd API",
@@ -21,5 +22,8 @@
   ],
   "packages": {
     "source": "https://github.com/andreascarpino/libsystemd-qt/archive/208.tar.gz"
-  }
+  },
+  "topics": [
+    "Bindings"
+  ]
 }

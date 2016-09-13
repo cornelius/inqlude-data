@@ -9,7 +9,7 @@
     "tutorial": "http://techbase.kde.org/Development/Tutorials/Collaboration/Attica/Introduction",
     "vcs": "https://projects.kde.org/projects/kdesupport/attica/repository",
     "description_source": "http://en.wikipedia.org/wiki/Open_Collaboration_Services",
-    "download": "ftp://ftp.kde.org/pub/kde/stable/attica/"
+    "download": "http://download.kde.org/stable/attica/"
   },
   "licenses": [
     "LGPLv2.1+"
@@ -24,6 +24,9 @@
     "Linux"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/attica/attica-0.4.2.tar.bz2"
-  }
+    "source": "http://download.kde.org/stable/attica/attica-0.4.2.tar.bz2"
+  },
+  "topics": [
+    "API"
+  ]
 }

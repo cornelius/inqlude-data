@@ -25,5 +25,9 @@
   "version": "4.97.0",
   "packages": {
     "source": "http://download.kde.org/unstable/frameworks/4.97.0/kdesu-4.97.0.tar.xz"
-  }
+  },
+  "topics": [
+    "Security",
+    "Desktop"
+  ]
 }

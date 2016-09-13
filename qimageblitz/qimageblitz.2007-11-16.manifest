@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qimageblitz",
+  "display_name": "Blitz KDE",
   "release_date": "2007-11-16",
   "version": "0.0.4",
   "summary": "Image Effect Library for KDE",
@@ -10,11 +11,17 @@
     "vcs": "http://websvn.kde.org/trunk/kdesupport/qimageblitz/",
     "download": "http://sourceforge.net/projects/qimageblitz/files/qimageblitz/"
   },
-  "licenses": ["BSD 3-Clause"],
+  "licenses": [
+    "BSD 3-Clause"
+  ],
   "description": "Blitz is an interm image effect library that people can use until KDE\n4.1 is released. KImageEffect, the old image effect class is being\ndropped for KDE 4.0 and the replacement, Quasar, won't be ready until\nKDE 4.1. Blitz gives people something to use in the meantime.\n\n\n\n",
-  "authors": ["Daniel Duley <daniel.duley@verizon.net>"],
+  "authors": [
+    "Daniel Duley <daniel.duley@verizon.net>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux" ],
+  "platforms": [
+    "Linux"
+  ],
   "packages": {
     "source": "http://sourceforge.net/projects/qimageblitz/files/qimageblitz/QImageBlitz%200.0.4/qimageblitz-0.0.4.tar.bz2/download",
     "openSUSE": {
@@ -27,5 +34,8 @@
         "source_rpm": "libqimageblitz4-0.0.4-106.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Graphics"
+  ]
 }

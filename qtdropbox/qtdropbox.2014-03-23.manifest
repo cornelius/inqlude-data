@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtdropbox",
+  "display_name": "QtDropbox",
   "release_date": "2014-03-23",
   "version": "5.0",
   "summary": "Qt Dropbox",
@@ -22,5 +23,8 @@
   ],
   "packages": {
     "source": "https://github.com/lycis/QtDropbox/archive/master.zip"
-  }
+  },
+  "topics": [
+    "API"
+  ]
 }

@@ -1,19 +1,26 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtmodeling",
+  "display_name": "QtModeling",
   "summary": "Framework for supporting model-driven engineering",
   "urls": {
     "homepage": "http://wiki.qt.io/QtModeling",
     "vcs": "http://code.qt.io/cgit/qt/qtmodeling.git/"
   },
   "licenses": [
-    "LGPLv2.1","GPLv3"
+    "LGPLv2.1",
+    "GPLv3"
   ],
   "description": "The Qt Modeling add-on module aims at providing basic model-driven features, such as the definition, storage, and manipulation of MOF/UML-based models as well as supporting new user-defined languages.",
   "authors": [
     "Sandro S. Andrade <sandroandrade@kde.org>"
   ],
   "platforms": [
-    "Linux","Windows","OSX"
+    "Linux",
+    "Windows",
+    "OSX"
+  ],
+  "topics": [
+    "Development"
   ]
 }

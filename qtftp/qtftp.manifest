@@ -1,19 +1,27 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtftp",
+  "display_name": "QFtp",
   "summary": "FTP implementation",
   "urls": {
     "homepage": "http://code.qt.io/cgit/qt/qtftp.git/",
     "vcs": "http://code.qt.io/cgit/qt/qtftp.git/"
   },
   "licenses": [
-    "LGPLv2.1", "GPLv3", "Commercial"
+    "LGPLv2.1",
+    "GPLv3",
+    "Commercial"
   ],
   "description": "This is the deprecated API for FTP support which has been removed from Qt in Qt 5. Applications are recommended to port to the supported APIs. However as some features are lost, these APIs are provided as standalone source code for applications that require removed features.",
   "authors": [
     "Digia"
   ],
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Communication"
   ]
 }

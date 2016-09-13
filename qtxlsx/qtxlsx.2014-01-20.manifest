@@ -18,9 +18,14 @@
   ],
   "maturity": "edge",
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
   ],
   "packages": {
     "source": "https://github.com/dbzhang800/QtXlsxWriter/archive/v0.2.2.tar.gz"
-  }
+  },
+  "topics": [
+    "Data"
+  ]
 }

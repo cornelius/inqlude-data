@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libqtlua",
+  "display_name": "QtLua",
   "version": "2.0",
   "release_date": "2013-04-01",
   "summary": "Framework for embedding Lua in Qt applications",
@@ -22,5 +23,8 @@
   ],
   "packages": {
     "source": "http://download.savannah.gnu.org/releases/libqtlua/libqtlua-2.0.tar.gz"
-  }
+  },
+  "topics": [
+    "Scripting"
+  ]
 }

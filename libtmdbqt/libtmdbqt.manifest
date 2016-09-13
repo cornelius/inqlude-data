@@ -15,5 +15,13 @@
     "David Faure <faure@kde.org>",
     "Vishesh Handa <me@vhanda.in>"
   ],
-  "platforms": [ "Linux","Windows","MacOS" ]
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "topics": [
+    "API",
+    "Data"
+  ]
 }

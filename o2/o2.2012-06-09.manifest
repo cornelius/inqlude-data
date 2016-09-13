@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "o2",
+  "display_name": "O2",
   "release_date": "2012-06-09",
   "version": "1.0",
   "summary": "A library encapsulating OAuth 1.0 and 2.0 client authentication flows",
@@ -9,12 +10,22 @@
     "api_docs": "https://github.com/pipacs/o2/blob/master/README.md",
     "vcs": "https://github.com/pipacs/o2"
   },
-  "licenses": ["Simplified BSD License"],
+  "licenses": [
+    "Simplified BSD License"
+  ],
   "description": "O2 is a Qt based library encapsulating the OAuth 1.0 and 2.0 client authentication flows and the sending of authenticated HTTP requests. The primary target is Qt Quick applications on mobile devices, though it also works well in browserless environments typical of embedded systems. It provides specialized classes for interacting with various popular OAuth providers like Twitter, Facebook, MS Skydrive, Flickr etc.",
-  "authors": ["Akos Polster <akos.polster@gmail.com>"],
+  "authors": [
+    "Akos Polster <akos.polster@gmail.com>"
+  ],
   "maturity": "stable",
-  "platforms": [ "All platforms supported by Qt" ],
+  "platforms": [
+    "All platforms supported by Qt"
+  ],
   "packages": {
-    "source" : "https://github.com/pipacs/o2/archive/master.zip"
-  }
+    "source": "https://github.com/pipacs/o2/archive/master.zip"
+  },
+  "topics": [
+    "Security",
+    "Bindings"
+  ]
 }

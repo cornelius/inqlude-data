@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libkexiv2",
+  "display_name": "Libkexiv2",
   "release_date": "2013-09-03",
   "version": "4.11.1",
   "summary": "Qt bindings for Exiv2, the library to manipulate picture meta data",
@@ -8,7 +9,7 @@
     "homepage": "http://www.digikam.org/sharedlibs",
     "api_docs": "http://api.kde.org/4.x-api/kdegraphics-apidocs/libs/libkexiv2/libkexiv2/html/index.html",
     "vcs": "https://projects.kde.org/projects/kde/kdegraphics/libs/libkexiv2/repository",
-    "download": "ftp://ftp.kde.org/pub/kde/stable/",
+    "download": "http://download.kde.org/stable/",
     "custom": {
       "Exiv2": "http://www.exiv2.org/"
     }
@@ -26,6 +27,10 @@
     "Linux"
   ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/4.11.1/src/libkexiv2-4.11.1.tar.xz"
-  }
+    "source": "http://download.kde.org/stable/4.11.1/src/libkexiv2-4.11.1.tar.xz"
+  },
+  "topics": [
+    "Graphics",
+    "Bindings"
+  ]
 }

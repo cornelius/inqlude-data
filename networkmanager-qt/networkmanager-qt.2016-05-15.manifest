@@ -25,5 +25,9 @@
   "packages": {
     "source": "http://download.kde.org/stable/frameworks/5.22/networkmanager-qt-5.22.0.tar.xz"
   },
-  "group": "kde-frameworks"
+  "group": "kde-frameworks",
+  "topics": [
+    "Communication",
+    "Bindings"
+  ]
 }

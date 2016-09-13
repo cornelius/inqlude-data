@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qca",
+  "display_name": "QCA",
   "release_date": "2010-11-27",
   "version": "2.0.3",
   "summary": "Qt Cryptographic Architecture",
@@ -23,5 +24,8 @@
   ],
   "packages": {
     "source": "http://delta.affinix.com/download/qca/2.0/qca-2.0.3.tar.bz2"
-  }
+  },
+  "topics": [
+    "Security"
+  ]
 }

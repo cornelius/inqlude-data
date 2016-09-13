@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "liblastfm",
+  "display_name": "Last.fm",
   "release_date": "2013-09-03",
   "version": "1.0.8",
   "summary": "A Qt C++ library for the Last.fm webservices",
@@ -17,9 +18,15 @@
   ],
   "maturity": "stable",
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
   ],
   "packages": {
     "source": "https://github.com/lastfm/liblastfm/archive/1.0.8.tar.gz"
-  }
+  },
+  "topics": [
+    "API",
+    "Multimedia"
+  ]
 }

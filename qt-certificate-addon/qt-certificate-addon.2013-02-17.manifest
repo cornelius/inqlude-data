@@ -1,9 +1,10 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qt-certificate-addon",
+  "display_name": "Qt Certificate Addon",
   "version": "edge",
   "release_date": "2013-02-17",
-  "summary": "Qt Certificate Addon",
+  "summary": "Qt Certificate Addon",  
   "urls": {
     "homepage": "http://xmelegance.org/devel/qt-certificate-addon/",
     "vcs": "https://gitorious.org/qt-certificate-addon"
@@ -18,5 +19,8 @@
   ],
   "packages": {
     "source": "https://gitorious.org/qt-certificate-addon/qt-certificate-addon/archive/f807e92da99d0a770d2bf22adff8b728dab83d29.tar.gz"
-  }
+  },
+  "topics": [
+    "Security"
+  ]
 }

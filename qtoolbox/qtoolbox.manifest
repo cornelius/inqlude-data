@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtoolbox",
+  "display_name": "qtoolbox",
   "summary": "Set of tools for Qt development",
   "urls": {
     "homepage": "https://github.com/detro/qtoolbox",
@@ -15,6 +16,12 @@
     "Luca Colantonio <luca.colantonio@gmail.com>"
   ],
   "platforms": [
-    "Linux", "Windows", "OS X"
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Data",
+    "Logging"
   ]
 }

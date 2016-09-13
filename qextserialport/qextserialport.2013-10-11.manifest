@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qextserialport",
+  "display_name": "QextSerialPort",
   "version": "1.2RC",
   "release_date": "2013-10-11",
   "summary": "Cross platform interface to serial ports.",
@@ -19,5 +20,8 @@
   ],
   "packages": {
     "source": "https://qextserialport.googlecode.com/files/qextserialport-1.2rc.zip"
-  }
+  },
+  "topics": [
+    "Communication"
+  ]
 }

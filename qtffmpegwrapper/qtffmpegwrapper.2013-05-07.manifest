@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtffmpegwrapper",
+  "display_name": "QtFFmpegWrapper",
   "version": "20130507",
   "release_date": "2013-05-07",
   "summary": "Qt FFmpeg Wrapper for video frame encoding and decoding",
@@ -22,5 +23,8 @@
   ],
   "packages": {
     "source": "https://qtffmpegwrapper.googlecode.com/files/qtffmpegwrapper_src-20130507.zip"
-  }
+  },
+  "topics": [
+    "Multimedia"
+  ]
 }

@@ -9,13 +9,21 @@
     "api_docs": "http://api.kde.org/4.6-api/kdepimlibs-apidocs/",
     "vcs": "https://projects.kde.org/projects/kde/kdepimlibs/repository"
   },
-  "licenses": ["LGPLv2.1+"],
+  "licenses": [
+    "LGPLv2.1+"
+  ],
   "description": "The KDE PIM libraries provide frameworks for personal information management. This includes among other things, handling of contacts, calendars, emails, blogs, feeds, and libraries to access Akonadi, the KDE PIM storage service.",
-  "authors": ["The KDE PIM Team <kde-pim@kde.org>"],
+  "authors": [
+    "The KDE PIM Team <kde-pim@kde.org>"
+  ],
   "maturity": "stable",
-  "platforms": [ "Linux","Windows","MacOS" ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
   "packages": {
-    "source": "ftp://ftp.kde.org/pub/kde/stable/4.6.0/src/kdepimlibs-4.6.0.tar.xz",
+    "source": "http://download.kde.org/stable/4.6.0/src/kdepimlibs-4.6.0.tar.xz",
     "openSUSE": {
       "11.4": {
         "package_name": "libkdepimlibs4-devel",
@@ -26,5 +34,9 @@
         "source_rpm": "kdepimlibs4-4.6.0-4.7.1.src.rpm"
       }
     }
-  }
+  },
+  "topics": [
+    "Data",
+    "Communication"
+  ]
 }

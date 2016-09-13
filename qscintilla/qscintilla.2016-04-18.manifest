@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qscintilla",
+  "display_name": "QScintilla",
   "version": "2.9.2",
   "release_date": "2016-04-18",
   "summary": "Qt port of Scintilla C++ editor control",
@@ -28,6 +29,9 @@
     "Android"
   ],
   "packages": {
-    "source": "https://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.9.2/QScintilla_gpl-2.9.2.tar.gz/download"    
-  }
+    "source": "https://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.9.2/QScintilla_gpl-2.9.2.tar.gz/download"
+  },
+  "topics": [
+    "Text"
+  ]
 }
