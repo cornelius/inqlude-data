@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kpackage",
-  "display_name": "Using KPackage",
+  "display_name": "Note for packagers",
   "summary": "Library to load and install packages of non binary files as they were a plugin",
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kpackage/html/index.html",
@@ -11,7 +11,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "The KPackage framework lets the user install and load packages of non binary content such as scripted extensions or graphic assets, as if they were traditional plugins.\n\n",
+  "description": "\nThe KPackage framework lets the user install and load packages of non binary content such as scripted extensions or graphic assets, as if they were traditional plugins.\n\n",
   "authors": [
     "The KDE Community"
   ],
