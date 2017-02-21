@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kjobwidgets",
+  "display_name": "KJobWidgets",
+  "release_date": "2016-09-10",
+  "version": "5.26.0",
+  "summary": "Widgets for tracking KJob instances",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kjobwidgets/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.26/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kjobwidgets/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKJobWIdgets provides widgets for showing progress of asynchronous jobs.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.26/kjobwidgets-5.26.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
