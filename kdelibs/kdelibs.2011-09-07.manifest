@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kdelibs",
+  "display_name": "KDE 4 Libraries",
   "release_date": "2011-09-07",
   "version": "4.7.1",
   "summary": "KDE Development Platform",

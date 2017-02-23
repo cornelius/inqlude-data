@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtdropbox",
+  "display_name": "QtDropbox",
   "release_date": "2013-07-12",
   "version": "4.8",
   "summary": "Qt Dropbox",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qjson",
+  "display_name": "QJson",
   "release_date": "2009-12-04",
   "version": "0.7.1",
   "summary": "JSON parser for Qt",

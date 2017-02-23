@@ -5,6 +5,9 @@
   "release_date": "2016-07-09",
   "version": "5.24.0",
   "summary": "Access to the windowing system",
+  "topics": [
+    "Desktop"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kwindowsystem/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.24/",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "cutereport",
+  "display_name": "CuteReport",
   "version": "1.0 rc4",
   "release_date": "2015-03-14",
   "summary": "Report solution",

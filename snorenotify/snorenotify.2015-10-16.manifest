@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "snorenotify",
+  "display_name": "Snorenotify",
   "release_date": "2015-10-16",
   "version": "0.6.0",
   "summary": "Snorenotify notification framework",

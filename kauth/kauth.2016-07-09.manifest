@@ -5,6 +5,10 @@
   "release_date": "2016-07-09",
   "version": "5.24.0",
   "summary": "Abstraction to system policy and authentication features",
+  "topics": [
+    "Security",
+    "API"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kauth/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.24/",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "extra-cmake-modules",
+  "display_name": "Extra CMake Modules",
   "release_date": "2016-05-15",
   "version": "5.22.0",
   "summary": "Extensions for software using the CMake build system",

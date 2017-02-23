@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kdtools",
+  "display_name": "KD Tools",
   "summary": "Productivity tools",
   "urls": {
     "homepage": "http://www.kdab.com/kdab-products/kd-tools/"

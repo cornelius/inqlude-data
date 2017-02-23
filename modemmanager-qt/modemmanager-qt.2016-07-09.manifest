@@ -5,6 +5,10 @@
   "release_date": "2016-07-09",
   "version": "5.24.0",
   "summary": "Qt wrapper for ModemManager API",
+  "topics": [
+    "Communication",
+    "Bindings"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/modemmanager-qt/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.24/",

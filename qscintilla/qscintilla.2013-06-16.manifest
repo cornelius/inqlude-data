@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qscintilla",
+  "display_name": "QScintilla",
   "version": "2.7.2",
   "release_date": "2013-06-16",
   "summary": "Qt port of Scintilla C++ editor control",

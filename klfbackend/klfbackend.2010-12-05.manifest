@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "klfbackend",
+  "display_name": "KLFBackend",
   "release_date": "2010-12-05",
   "version": "3.2.2",
   "summary": "KLatexFormula backend library",

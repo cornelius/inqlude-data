@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qcustomplot",
+  "display_name": "QCustomPlot",
   "version": "1.0.1",
   "release_date": "2013-09-05",
   "summary": "Plotting widget",

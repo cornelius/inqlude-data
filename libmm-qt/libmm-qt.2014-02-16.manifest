@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libmm-qt",
+  "display_name": "libmm-qt",
   "release_date": "2014-02-16",
   "version": "1.0.1",
   "summary": "Qt wrapper for ModemManager DBus API",

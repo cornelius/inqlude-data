@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtweetlib",
+  "display_name": "QTweetLib",
   "release_date": "2010-10-13",
   "version": "1306193028",
   "summary": "Library to access Twitter",

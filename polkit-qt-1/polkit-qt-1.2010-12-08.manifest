@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "polkit-qt-1",
+  "display_name": "Polkit-qt-1",
   "release_date": "2010-12-08",
   "version": "0.99.1",
   "summary": "Qt bindings for PolicyKit",

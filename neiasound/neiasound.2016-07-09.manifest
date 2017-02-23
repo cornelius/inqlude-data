@@ -5,6 +5,10 @@
   "release_date": "2016-07-09",
   "version": "5.24.0",
   "summary": "OpenAl wrapper for Qt apps and games",
+  "topics": [
+    "Multimedia",
+    "Bindings"
+  ],
   "urls": {
     "homepage": "https://github.com/lucaspcamargo/neiasound",
     "download": "http://download.kde.org/stable/frameworks/5.24/",

@@ -5,6 +5,9 @@
   "release_date": "2016-09-10",
   "version": "5.26.0",
   "summary": "Open Collaboration Services API",
+  "topics": [
+    "API"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/attica/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.26/",

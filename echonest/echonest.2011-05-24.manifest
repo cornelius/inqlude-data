@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "echonest",
+  "display_name": "Echo Nest Client",
   "release_date": "2011-05-24",
   "version": "1.1.8",
   "summary": "Qt library for communicating with The Echo Nest",

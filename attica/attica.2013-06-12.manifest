@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "attica",
+  "display_name": "Attica",
   "release_date": "2013-06-12",
   "version": "0.4.2",
   "summary": "Open Collaboration Service client library",

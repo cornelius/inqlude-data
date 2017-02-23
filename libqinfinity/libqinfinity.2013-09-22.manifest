@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "libqinfinity",
+  "display_name": "libqinfinity",
   "version": "0.5.1",
   "release_date": "2013-09-22",
   "summary": "Qt wrapper around libinfinity, a library for collaborative editing",

@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "qtav",
+  "display_name": "QtAV",
   "release_date": "2015-12-21",
   "version": "1.9.0",
   "summary": "A cross-platform multimedia playback framework based on Qt and FFmpeg.",

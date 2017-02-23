@@ -5,6 +5,10 @@
   "release_date": "2016-09-10",
   "version": "5.26.0",
   "summary": "Widget addons for Qt Model/View",
+  "topics": [
+    "Widgets",
+    "Development"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kitemviews/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.26/",

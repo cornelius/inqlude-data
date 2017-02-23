@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "lxqt_wallet",
+  "display_name": "LXQt Wallet",
   "release_date": "2013-11-17",
   "version": "2.0.0",
   "summary": "Secure storage of data in an internal storage system or in KDE KWallet or GNOME libsecret",

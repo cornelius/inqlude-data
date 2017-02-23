@@ -5,6 +5,9 @@
   "release_date": "2016-07-09",
   "version": "5.24.0",
   "summary": "Preview of audio files",
+  "topics": [
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kfileaudiopreview",
     "download": "http://download.kde.org/stable/frameworks/5.24/",

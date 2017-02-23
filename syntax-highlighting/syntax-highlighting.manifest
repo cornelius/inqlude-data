@@ -3,6 +3,9 @@
   "name": "syntax-highlighting",
   "display_name": "Syntax Highlighting",
   "summary": "Syntax Highlighting",
+  "topics": [
+    "Text"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/syntax-highlighting/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/syntax-highlighting/repository",

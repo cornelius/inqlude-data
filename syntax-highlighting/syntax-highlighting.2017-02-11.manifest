@@ -5,6 +5,9 @@
   "release_date": "2017-02-11",
   "version": "5.31.0",
   "summary": "Syntax Highlighting",
+  "topics": [
+    "Text"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/syntax-highlighting/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.31/",

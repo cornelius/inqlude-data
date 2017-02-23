@@ -1,6 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qtav",
+  "display_name": "QtAV",
   "summary": "A cross-platform media playback framework based on Qt and FFmpeg.",
   "urls": {
     "homepage": "http://www.qtav.org",
