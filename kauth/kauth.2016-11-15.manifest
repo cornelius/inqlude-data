@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kauth",
+  "display_name": "KAuth",
+  "release_date": "2016-11-15",
+  "version": "5.28.0",
+  "summary": "Abstraction to system policy and authentication features",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kauth/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.28/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kauth/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KAuth provides a convenient, system-integrated way to offload actions that need\nto be performed as a privileged user (root, for example) to small (hopefully\nsecure) helper utilities.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.28/kauth-5.28.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

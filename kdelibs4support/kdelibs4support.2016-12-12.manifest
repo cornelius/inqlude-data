@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kdelibs4support",
+  "display_name": "KDELibs 4 Support",
+  "release_date": "2016-12-12",
+  "version": "5.29.0",
+  "summary": "Porting aid from KDELibs4",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdelibs4support/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.29/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdelibs4support/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThis framework provides code and utilities to ease the transition from\nkdelibs 4 to KDE Frameworks 5.  This includes CMake macros and C++\nclasses whose functionality has been replaced by code in CMake, Qt and\nother frameworks.\n\nCode should aim to port away from this framework eventually.  The API\ndocumentation of the classes in this framework and the notes at\n<http://community.kde.org/Frameworks/Porting_Notes> should help with\nthis.\n\nNote that some of the classes in this framework, especially\nKStandardDirs, may not work correctly unless any libraries and other\nsoftware using the KDELibs 4 Support framework are installed to the same\nlocation as KDELibs4Support, although it may be sufficient to set the\nKDEDIRS environment variable correctly.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.29/kdelibs4support-5.29.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

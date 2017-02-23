@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kprintutils",
+  "display_name": "KPrintUtils",
+  "release_date": "2016-11-15",
+  "version": "5.28.0",
+  "summary": "Print dialogs",
+  "topics": [
+    "Printing"
+  ],
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kprintutils",
+    "download": "http://download.kde.org/stable/frameworks/5.28/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kprintutils/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKPrintUtils provides enhanced print dialogs.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.28/kprintutils-5.28.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
