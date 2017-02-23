@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kpeople",
+  "display_name": "KPeople",
+  "release_date": "2017-02-11",
+  "version": "5.31.0",
+  "summary": "Provides access to all contacts and the people who hold them",
+  "topics": [
+    "Communication",
+    "Data"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kpeople/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.31/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kpeople/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KPeople offers unified access to our contacts from different sources, grouping\nthem by person while still exposing all the data.\n\nFurthermore, KPeople will also provide facilities to integrate the data provided\nin user interfaces by providing QML and Qt Widgets components.\n\nThe sources are plugin-based, allowing to easily extend the contacts collection.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.31/kpeople-5.31.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
