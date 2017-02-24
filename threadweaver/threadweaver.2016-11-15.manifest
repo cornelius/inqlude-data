@@ -5,6 +5,9 @@
   "release_date": "2016-11-15",
   "version": "5.28.0",
   "summary": "High-level multithreading framework",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/threadweaver/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.28/",
