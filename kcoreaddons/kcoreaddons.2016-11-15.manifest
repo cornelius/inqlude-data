@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kcoreaddons",
+  "display_name": "KCoreAddons",
+  "release_date": "2016-11-15",
+  "version": "5.28.0",
+  "summary": "Addons to QtCore",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kcoreaddons/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.28/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kcoreaddons/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKCoreAddons provides classes built on top of QtCore to perform various tasks\nsuch as manipulating mime types, autosaving files, creating backup files,\ngenerating random sequences, performing text manipulations such as macro\nreplacement, accessing user information and many more.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.28/kcoreaddons-5.28.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

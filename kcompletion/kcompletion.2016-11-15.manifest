@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kcompletion",
+  "display_name": "KCompletion",
+  "release_date": "2016-11-15",
+  "version": "5.28.0",
+  "summary": "Text completion helpers and widgets",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kcompletion/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.28/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kcompletion/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "When typing filenames, email addresses and other text where the user often wants\nto select from existing data (including what they previously typed) rather than\nenter anything wholly original, users often find it helpful if they only need to\ntype the first few characters, and then have the application offer them a set of\nchoices or attempt to finish off what they were typing. Email clients, shells\nand \"open file\" dialogs often provide this functionality.\n\nThis framework helps implement this in Qt-based applications. You can use one of\nthe completion-ready widgets provided by this framework, or integrate it into\nyour application's other widgets directly.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.28/kcompletion-5.28.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

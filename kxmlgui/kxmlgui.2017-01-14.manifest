@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kxmlgui",
+  "display_name": "KXMLGUI",
+  "release_date": "2017-01-14",
+  "version": "5.30.0",
+  "summary": "User configurable main windows",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kxmlgui/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.30/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kxmlgui/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KXMLGUI provides a framework for managing menu and toolbar actions in an\nabstract way. The actions are configured through a XML description and hooks\nin the application code. The framework supports merging of multiple\ndescription for example for integrating actions from plugins.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.30/kxmlgui-5.30.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
