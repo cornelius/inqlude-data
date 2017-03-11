@@ -3,6 +3,10 @@
   "name": "knewstuff",
   "display_name": "KNewStuff",
   "summary": "Support for downloading application assets from the network",
+  "topics": [
+    "Data",
+    "Communication"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/knewstuff/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/knewstuff/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Data",
-    "Communication"
-  ]
+  "group": "kde-frameworks"
 }

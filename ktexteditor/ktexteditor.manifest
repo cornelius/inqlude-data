@@ -3,6 +3,10 @@
   "name": "ktexteditor",
   "display_name": "KTextEditor",
   "summary": "Advanced embeddable text editor",
+  "topics": [
+    "Text",
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/ktexteditor/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/ktexteditor/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Text",
-    "Widgets"
-  ]
+  "group": "kde-frameworks"
 }

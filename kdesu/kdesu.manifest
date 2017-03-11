@@ -3,6 +3,10 @@
   "name": "kdesu",
   "display_name": "KDESU",
   "summary": "Integration with su for elevated privileges",
+  "topics": [
+    "Security",
+    "Desktop"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdesu/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kdesu/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Security",
-    "Desktop"
-  ]
+  "group": "kde-frameworks"
 }

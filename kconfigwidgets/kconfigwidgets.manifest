@@ -3,6 +3,10 @@
   "name": "kconfigwidgets",
   "display_name": "KConfigWidgets",
   "summary": "Widgets for configuration dialogs",
+  "topics": [
+    "Development",
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kconfigwidgets/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kconfigwidgets/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Development",
-    "Widgets"
-  ]
+  "group": "kde-frameworks"
 }

@@ -3,6 +3,9 @@
   "name": "kactivities-stats",
   "display_name": "KActivitiesStats",
   "summary": "A library for accessing the usage data collected by the activities system.",
+  "topics": [
+    "Desktop"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kactivities-stats/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kactivities-stats/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Desktop"
-  ]
+  "group": "kde-frameworks"
 }

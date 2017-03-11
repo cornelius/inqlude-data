@@ -3,6 +3,10 @@
   "name": "kauth",
   "display_name": "KAuth",
   "summary": "Abstraction to system policy and authentication features",
+  "topics": [
+    "Security",
+    "API"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kauth/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kauth/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Security",
-    "API"
-  ]
+  "group": "kde-frameworks"
 }

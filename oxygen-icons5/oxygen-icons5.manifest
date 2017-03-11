@@ -3,6 +3,9 @@
   "name": "oxygen-icons5",
   "display_name": "Oxygen Icons",
   "summary": "Oxygen icon theme",
+  "topics": [
+    "Artwork"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/oxygen-icons5/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/oxygen-icons5/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Artwork"
-  ]
+  "group": "kde-frameworks"
 }

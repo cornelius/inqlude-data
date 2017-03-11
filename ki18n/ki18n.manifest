@@ -3,6 +3,10 @@
   "name": "ki18n",
   "display_name": "KI18n",
   "summary": "Advanced internationalization framework",
+  "topics": [
+    "Development",
+    "Text"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/ki18n/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/ki18n/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Development",
-    "Text"
-  ]
+  "group": "kde-frameworks"
 }
