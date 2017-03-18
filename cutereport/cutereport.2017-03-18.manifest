@@ -1,0 +1,39 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "cutereport",
+  "display_name": "CuteReport",
+  "version": "1.3.2",
+  "release_date": "2017-03-18",
+  "summary": "Report solution",
+  "urls": {
+    "homepage": "http://cute-report.com/",
+    "vcs": "",
+    "download": "https://cute-report.com/en/download",
+    "announcement": "https://cute-report.com/en/article/34",
+    "api_docs": "https://cute-report.com/en/article/documentation",
+    "mailing_list": "cutereport@gmail.com"
+  },
+  "licenses": [
+    "GPLv3+",
+    "Commercial"
+  ],
+  "description": "CuteReport is a report solution. It is based on Qt framework and can be integrated into any Qt application. It has a template designer with form designer, page editor, dataset editor, and other modules. The functionality of CuteReport designer and the CuteReport library can be extended by writing custom plugins.",
+  "maturity": "stable",
+  "authors": [
+    "Alexander Mikhalov <alexander.mikhalov@gmail.com>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "packages": {
+    "source": "https://cute-report.com/en/download/203",
+    "windows": "https://cute-report.com/en/download/197",
+    "linux": "https://cute-report.com/en/download/182",
+    "osx": "https://cute-report.com/en/download/202"
+  },
+  "topics": [
+    "Printing"
+  ]
+}
