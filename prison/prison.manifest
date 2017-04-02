@@ -3,6 +3,10 @@
   "name": "prison",
   "display_name": "Prison",
   "summary": "Barcode abstraction layer providing uniform access to generation of barcodes",
+  "topics": [
+    "Graphics",
+    "Printing"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/prison/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/prison/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Graphics",
-    "Printing"
-  ]
+  "group": "kde-frameworks"
 }

@@ -3,6 +3,9 @@
   "name": "kplotting",
   "display_name": "KPlotting",
   "summary": "Lightweight plotting framework",
+  "topics": [
+    "Graphics"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kplotting/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kplotting/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Graphics"
-  ]
+  "group": "kde-frameworks"
 }

@@ -3,6 +3,10 @@
   "name": "ktextwidgets",
   "display_name": "KTextWidgets",
   "summary": "Advanced text editing widgets",
+  "topics": [
+    "Text",
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/ktextwidgets/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/ktextwidgets/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Text",
-    "Widgets"
-  ]
+  "group": "kde-frameworks"
 }

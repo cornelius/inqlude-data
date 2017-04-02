@@ -3,6 +3,10 @@
   "name": "modemmanager-qt",
   "display_name": "ModemManagerQt",
   "summary": "Qt wrapper for ModemManager API",
+  "topics": [
+    "Communication",
+    "Bindings"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/modemmanager-qt/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/modemmanager-qt/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Communication",
-    "Bindings"
-  ]
+  "group": "kde-frameworks"
 }

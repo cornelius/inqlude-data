@@ -3,6 +3,9 @@
   "name": "baloo",
   "display_name": "Baloo",
   "summary": "Baloo is a file indexing and searching framework",
+  "topics": [
+    "Development"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/baloo/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/baloo/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Development"
-  ]
+  "group": "kde-frameworks"
 }

@@ -3,6 +3,9 @@
   "name": "kross",
   "display_name": "Kross",
   "summary": "Multi-language application scripting",
+  "topics": [
+    "Scripting"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kross/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kross/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Scripting"
-  ]
+  "group": "kde-frameworks"
 }

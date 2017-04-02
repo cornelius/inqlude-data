@@ -3,6 +3,10 @@
   "name": "kitemviews",
   "display_name": "KItemViews",
   "summary": "Widget addons for Qt Model/View",
+  "topics": [
+    "Widgets",
+    "Development"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kitemviews/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kitemviews/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Widgets",
-    "Development"
-  ]
+  "group": "kde-frameworks"
 }

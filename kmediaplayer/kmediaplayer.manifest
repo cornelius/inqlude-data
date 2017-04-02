@@ -3,6 +3,9 @@
   "name": "kmediaplayer",
   "display_name": "KMediaPlayer",
   "summary": "Plugin interface for media player features",
+  "topics": [
+    "Multimedia"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kmediaplayer/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kmediaplayer/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Multimedia"
-  ]
+  "group": "kde-frameworks"
 }

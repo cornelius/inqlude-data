@@ -3,6 +3,10 @@
   "name": "kjsembed",
   "display_name": "KJSEmbed",
   "summary": "Embedded JS",
+  "topics": [
+    "Web",
+    "Scripting"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kjsembed/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kjsembed/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Web",
-    "Scripting"
-  ]
+  "group": "kde-frameworks"
 }

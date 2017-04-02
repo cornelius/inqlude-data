@@ -3,6 +3,10 @@
   "name": "networkmanager-qt",
   "display_name": "NetworkManagerQt",
   "summary": "Qt wrapper for NetworkManager API",
+  "topics": [
+    "Communication",
+    "Bindings"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/networkmanager-qt/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/networkmanager-qt/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Communication",
-    "Bindings"
-  ]
+  "group": "kde-frameworks"
 }

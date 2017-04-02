@@ -3,6 +3,10 @@
   "name": "kcoreaddons",
   "display_name": "KCoreAddons",
   "summary": "Addons to QtCore",
+  "topics": [
+    "Text",
+    "Data"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kcoreaddons/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kcoreaddons/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Text",
-    "Data"
-  ]
+  "group": "kde-frameworks"
 }

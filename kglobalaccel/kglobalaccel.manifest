@@ -3,6 +3,9 @@
   "name": "kglobalaccel",
   "display_name": "KGlobalAccel",
   "summary": "Add support for global workspace shortcuts",
+  "topics": [
+    "Desktop"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kglobalaccel/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kglobalaccel/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Desktop"
-  ]
+  "group": "kde-frameworks"
 }

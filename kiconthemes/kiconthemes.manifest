@@ -3,6 +3,9 @@
   "name": "kiconthemes",
   "display_name": "KIconThemes",
   "summary": "Support for icon themes",
+  "topics": [
+    "Artwork"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kiconthemes/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kiconthemes/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Artwork"
-  ]
+  "group": "kde-frameworks"
 }

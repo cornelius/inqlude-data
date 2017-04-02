@@ -3,6 +3,9 @@
   "name": "kxmlgui",
   "display_name": "KXMLGUI",
   "summary": "User configurable main windows",
+  "topics": [
+    "Widgets"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kxmlgui/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kxmlgui/repository",
@@ -18,8 +21,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Widgets"
-  ]
+  "group": "kde-frameworks"
 }

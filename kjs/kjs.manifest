@@ -3,6 +3,10 @@
   "name": "kjs",
   "display_name": "KJS",
   "summary": "Support for JS scripting in applications",
+  "topics": [
+    "Web",
+    "Scripting"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kjs/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kjs/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Web",
-    "Scripting"
-  ]
+  "group": "kde-frameworks"
 }

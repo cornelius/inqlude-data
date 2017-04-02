@@ -3,6 +3,10 @@
   "name": "kio",
   "display_name": "KIO",
   "summary": "Resource and network access abstraction",
+  "topics": [
+    "Communication",
+    "Data"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kio/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kio/repository",
@@ -18,9 +22,5 @@
   "platforms": [
     "Linux"
   ],
-  "group": "kde-frameworks",
-  "topics": [
-    "Communication",
-    "Data"
-  ]
+  "group": "kde-frameworks"
 }
