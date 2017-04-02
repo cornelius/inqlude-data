@@ -25,7 +25,7 @@
   "maturity": "stable",
   "platforms": [
     "Linux",
-    "Windos",
+    "Windows",
     "OS X"
   ],
   "packages": {
