@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qhttpengine",
+  "display_name": "QHttpEngine",
+  "version": "0.1.0",
+  "release_date": "2015-07-18",
+  "summary": "HTTP server and utilities",
+  "urls": {
+    "homepage": "https://github.com/nitroshare/qhttpengine",
+    "download": "https://github.com/nitroshare/qhttpengine/releases",
+    "vcs": "https://github.com/nitroshare/qhttpengine.git"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "QHttpEngine provides a set of classes that simplify the process of adding an HTTP server to a Qt application. This includes low-level classes for interacting directly with HTTP sockets and higher-level classes for building REST APIs. The library can also serve static files both from the local filesystem and from the Qt resource system.",
+  "authors": [
+    "Nathan Osman <nathan@quickmediasolutions.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "OS X"
+  ],
+  "packages": {
+    "source": "https://github.com/nitroshare/qhttpengine/archive/0.1.0.tar.gz"
+  },
+  "topics": [
+    "Web"
+  ]
+}
