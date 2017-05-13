@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kfileaudiopreview",
+  "display_name": "KFileAudioPreview",
+  "release_date": "2017-03-11",
+  "version": "5.32.0",
+  "summary": "Preview of audio files",
+  "topics": [
+    "Multimedia"
+  ],
+  "urls": {
+    "homepage": "https://projects.kde.org/projects/frameworks/kfileaudiopreview",
+    "download": "http://download.kde.org/stable/frameworks/5.32/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kfileaudiopreview/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThis is a plugin for KIO that provides a component for previewing audio\nfiles, for example in the Open File dialog.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.32/kfileaudiopreview-5.32.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
