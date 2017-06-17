@@ -28,10 +28,9 @@
     "Windows",
     "OS X"
   ],
-
-    "source": "https://github.com/MEONMedical/Log4Qt/tree/v1.4.1",    
-    "source": "https://github.com/MEONMedical/Log4Qt/archive/v1.4.1.tar.gz",
-    "source": "https://github.com/MEONMedical/Log4Qt/archive/v1.4.1.zip"
+  "packages": {  
+      "source": "https://github.com/MEONMedical/Log4Qt/archive/v1.4.1.tar.gz",
+      "source": "https://github.com/MEONMedical/Log4Qt/archive/v1.4.1.zip"
   },
   "topics": [
     "Development",
