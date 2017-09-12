@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qmdnsengine",
+  "display_name": "QMdnsEngine",
+  "version": "0.1.0",
+  "release_date": "2017-09-07",
+  "summary": "Multicast DNS library for Qt",
+  "urls": {
+    "homepage": "https://github.com/nitroshare/qmdnsengine",
+    "download": "https://github.com/nitroshare/qmdnsengine/releases",
+    "vcs": "https://github.com/nitroshare/qmdnsengine.git"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "QMdnsEngine provides an implementation of multicast DNS as per RFC 6762, enabling Qt applications to provide mDNS services on the local network, respond to mDNS queries from other devices, and browse mDNS services provided by other devices on the local network.",
+  "authors": [
+    "Nathan Osman <nathan@quickmediasolutions.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "OS X"
+  ],
+  "packages": {
+    "source": 
+"https://github.com/nitroshare/qmdnsengine/archive/0.1.0.tar.gz"
+  },
+  "topics": [
+    "Web"
+  ]
+}
