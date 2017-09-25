@@ -13,7 +13,7 @@
   ],
   "description": "QtFirebase aims to bring all the features of the Firebase C++ SDK to Qt 5 - both as C++ wrappers and as QML components.",
   "authors": [
-    "Lars Pontoppidan"
+    "Lars Pontoppidan and contributors"
   ],
   "platforms": [
     "Android",
