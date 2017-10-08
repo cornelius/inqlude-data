@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kirigami",
-  "display_name": "A set of QtQuick components targeted for mobile use",
+  "display_name": "Kirigami",
   "release_date": "2017-09-09",
   "version": "5.38.0",
   "summary": "QtQuick plugins to build user interfaces based on the KDE UX guidelines",
