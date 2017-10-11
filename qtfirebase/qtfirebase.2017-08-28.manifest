@@ -27,8 +27,9 @@
     "source": "https://github.com/Larpon/QtFirebase/archive/v1.3.zip"
   },
   "topics": [
-    "Firebase",
     "QML",
-    "C++"
+    "Mobile",
+    "API",
+    "Data"
   ]
 }
