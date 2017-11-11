@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "breeze-icons",
+  "display_name": "Breeze Icons",
+  "release_date": "2017-11-11",
+  "version": "5.40.0",
+  "summary": "Breeze icon theme",
+  "topics": [
+    "Artwork"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/breeze-icons/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.40/",
+    "vcs": "https://projects.kde.org/projects/frameworks/breeze-icons/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Breeze-icons is a freedesktop.org compatible icon theme. It's developed by the KDE Community as part of KDE Frameworks 5 and it's used by default in KDE Plasma 5 and KDE Applications.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.40/breeze-icons-5.40.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
