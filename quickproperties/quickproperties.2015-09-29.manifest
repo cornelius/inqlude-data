@@ -14,7 +14,7 @@
   "licenses": [
     "GPLv3+"
   ],
-  "description": "QuickProperties is a C++/QML properties edition library for Qt5 wuite similar to the old Qt Solutions Property Browser",
+  "description": "QuickProperties is a C++/QML properties edition library for Qt5 similar to the old Qt Solutions Property Browser",
   "authors": [
     "cneben <benoit@qanava.org>"
   ],
