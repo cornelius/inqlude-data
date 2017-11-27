@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "libqemf",
+  "display_name": "libqemf",
+  "version": "0.6",
+  "release_date": "2017-06-06",
+  "summary": "Qt based image reader for Enhanced-Format Metafiles (*.emf)",
+  "urls": {
+    "homepage": "http://soft.proindependent.com/qemf/index.html",
+    "download": "http://soft.proindependent.com/qemf/download.html",
+  },
+  "licenses": [
+    "GPLv3",
+    "Commercial"
+  ],
+  "description": "libqemf enables Qt applications to draw the contents of Enhanced-Format Metafiles onto paint devices.",
+  "authors": [
+    "Ion Vasilief <ion_vasilief@yahoo.fr>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "OS X"
+  ],
+  "packages": {
+    "source": "http://sourceforge.net/projects/libqemf/files/libqemf-gpl-0.6.zip/download"
+  },
+  "topics": [
+    "Graphics"
+  ]
+}
