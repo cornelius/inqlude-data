@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kguiaddons",
+  "display_name": "KDE GUI Addons",
+  "release_date": "2018-01-13",
+  "version": "5.42.0",
+  "summary": "Addons to QtGui",
+  "topics": [
+    "Widgets"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kguiaddons/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.42/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kguiaddons/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThe KDE GUI addons provide utilities for graphical user interfaces in the areas\nof colors, fonts, text, images, keyboard input.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.42/kguiaddons-5.42.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
