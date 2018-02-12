@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kxmlrpcclient",
+  "display_name": "KXmlRpcClient",
+  "release_date": "2018-02-12",
+  "version": "5.43.0",
+  "summary": "Interaction with XMLRPC services",
+  "topics": [
+    "Communication"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kxmlrpcclient/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.43/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kxmlrpcclient/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This library contains simple XML-RPC Client support. It is a complete\nclient and is quite easy to use. Only one interface is exposed to the\nworld, kxmlrpcclient/client.h and of that interface, you only need to\nuse 3 methods: setUrl, setUserAgent and call.\n\nA small note on authentication. If you will be accessing an XML-RPC server\nwhich uses HTTP-AUTH, simply set the user and pass in the URL. To use\nDigest authentication, call setDigestAuthEnabled(true).",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.43/kxmlrpcclient-5.43.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

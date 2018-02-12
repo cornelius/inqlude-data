@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "attica",
+  "display_name": "Attica",
+  "release_date": "2018-02-12",
+  "version": "5.43.0",
+  "summary": "Open Collaboration Services API",
+  "topics": [
+    "API"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/attica/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.43/",
+    "vcs": "https://projects.kde.org/projects/frameworks/attica/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nAttica is a Qt library that implements the Open Collaboration Services API version 1.6.\nThe REST API is defined here:\nhttp://freedesktop.org/wiki/Specifications/open-collaboration-services/\n\nIt grants easy access to the services such as querying information about persons and contents.\nThe library is used in KNewStuff3 as content provider.\nIn order to integrate with KDE's Plasma Desktop, a platform plugin exists in kdebase.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.43/attica-5.43.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
