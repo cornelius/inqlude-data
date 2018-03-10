@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kdeclarative",
+  "display_name": "KDeclarative",
+  "release_date": "2018-03-10",
+  "version": "5.44.0",
+  "summary": "Provides integration of QML and KDE Frameworks",
+  "topics": [
+    "Desktop",
+    "QML"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdeclarative/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.44/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdeclarative/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KDeclarative provides integration of QML and KDE work spaces.\nIt's comprises two parts: a library used by the C++ part of your application\nto intergrate QML with KDE Frameworks specific features, and a series of\nQML imports that offer bindings to some of the Frameworks.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.44/kdeclarative-5.44.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
