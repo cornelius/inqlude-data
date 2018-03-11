@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kholidays",
-  "display_name": "KHolidays #",
+  "display_name": "KHolidays",
   "release_date": "2018-03-10",
   "version": "5.44.0",
   "summary": "Holiday calculation library",
