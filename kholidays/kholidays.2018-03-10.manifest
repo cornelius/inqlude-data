@@ -5,6 +5,9 @@
   "release_date": "2018-03-10",
   "version": "5.44.0",
   "summary": "Holiday calculation library",
+  "topics": [
+    "Data"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kholidays/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.44/",
@@ -14,6 +17,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
+  "description": "This library provides a C++ API that determines holiday and other special events for a geographical region.",
   "authors": [
     "The KDE Community"
   ],
