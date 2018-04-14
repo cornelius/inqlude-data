@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kglobalaccel",
+  "display_name": "KGlobalAccel",
+  "release_date": "2018-04-14",
+  "version": "5.45.0",
+  "summary": "Add support for global workspace shortcuts",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kglobalaccel/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.45/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kglobalaccel/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKGlobalAccel allows you to have global accelerators that are independent of\nthe focused window.  Unlike regular shortcuts, the application's window does not\nneed focus for them to be activated.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.45/kglobalaccel-5.45.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
