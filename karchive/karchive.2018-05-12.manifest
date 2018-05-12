@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "karchive",
+  "display_name": "KArchive",
+  "release_date": "2018-05-12",
+  "version": "5.46.0",
+  "summary": "File compression",
+  "topics": [
+    "Data"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/karchive/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.46/",
+    "vcs": "https://projects.kde.org/projects/frameworks/karchive/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KArchive provides classes for easy reading, creation and manipulation of\n\"archive\" formats like ZIP and TAR.\n\nIt also provides transparent compression and decompression of data, like the\nGZip format, via a subclass of QIODevice.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.46/karchive-5.46.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
