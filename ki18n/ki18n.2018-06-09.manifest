@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "ki18n",
+  "display_name": "KI18n",
+  "release_date": "2018-06-09",
+  "version": "5.47.0",
+  "summary": "Advanced internationalization framework",
+  "topics": [
+    "Development",
+    "Text"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/ki18n/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.47/",
+    "vcs": "https://projects.kde.org/projects/frameworks/ki18n/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KI18n provides functionality for internationalizing user interface text\nin applications, based on the GNU Gettext translation system.\nIt wraps the standard Gettext functionality, so that the programmers\nand translators can use the familiar Gettext tools and workflows.\n\nKI18n provides additional functionality as well, for both programmers\nand translators, which can help to achieve a higher overall quality\nof source and translated text. This includes argument capturing,\ncustomizable markup, and translation scripting.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.47/ki18n-5.47.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
