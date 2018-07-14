@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kemoticons",
+  "display_name": "KEmoticons",
+  "release_date": "2018-07-14",
+  "version": "5.48.0",
+  "summary": "Support for emoticons and emoticons themes",
+  "topics": [
+    "Artwork"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kemoticons/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.48/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kemoticons/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKEmoticons converts emoticons from text to a graphical representation with\nimages in HTML. It supports setting different themes for emoticons coming\nfrom different providers.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.48/kemoticons-5.48.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
