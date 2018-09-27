@@ -1,0 +1,25 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qskinny",
+  "display_name": "QSkinny",
+  "summary": "lightweight Qt UI library",
+  "urls": {
+    "homepage": "https://www.peter.hartmann.tk/single-post/2018/09/18/Meet-QSkinny-a-lightweight-Qt-UI-library",
+    "vcs": "https://github.com/uwerat/qskinny"
+  },
+  "licenses": [
+    "LGPLv2"
+  ],
+  "description": "QSkinny offers a QWidget-like library built on top of the modern Qt graphic stack. It is using the Qt scene graph and is written fully in C++, thus making QML optional.",
+  "authors": [
+    "Uwe Rathmann", "Andrew Knight", "Peter Hartmann"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Development"
+  ]
+}
