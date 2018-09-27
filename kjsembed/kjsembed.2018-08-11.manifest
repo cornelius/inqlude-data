@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kjsembed",
+  "display_name": "KJSEmbed",
+  "release_date": "2018-08-11",
+  "version": "5.49.0",
+  "summary": "Embedded JS",
+  "topics": [
+    "Web",
+    "Scripting"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kjsembed/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.49/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kjsembed/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KSJEmbed provides a method of binding JavaScript objects to QObjects,\nso you can script your applications.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.49/kjsembed-5.49.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

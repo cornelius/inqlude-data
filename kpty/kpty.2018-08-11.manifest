@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kpty",
+  "display_name": "KPty",
+  "release_date": "2018-08-11",
+  "version": "5.49.0",
+  "summary": "Pty abstraction",
+  "topics": [
+    "Communication"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kpty/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.49/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kpty/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThis library provides primitives to interface with pseudo terminal devices\nas well as a KProcess derived class for running child processes and\ncommunicating with them using a pty.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.49/kpty-5.49.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

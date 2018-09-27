@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "knotifications",
+  "display_name": "KNotification",
+  "release_date": "2018-09-08",
+  "version": "5.50.0",
+  "summary": "Abstraction for system notifications",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/knotifications/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.50/",
+    "vcs": "https://projects.kde.org/projects/frameworks/knotifications/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKNotification is used to notify the user of an event. It covers feedback and\npersistent events.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.50/knotifications-5.50.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

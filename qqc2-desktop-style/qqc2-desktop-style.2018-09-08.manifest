@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qqc2-desktop-style",
+  "display_name": "QQC2StyleBridge",
+  "release_date": "2018-09-08",
+  "version": "5.50.0",
+  "summary": "QtQuickControls 2 style that integrates with the desktop",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/qqc2-desktop-style/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.50/",
+    "vcs": "https://projects.kde.org/projects/frameworks/qqc2-desktop-style/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThis is a style for QtQuickControls 2 that uses QWidget's QStyle for painting, making possible to achieve an higher deree of consistency between QWidget-based and QML-based apps.\n\nNOTE: the application must be a QApplication rather than a QGuiApplication instance in order for this style to be used\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.50/qqc2-desktop-style-5.50.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
