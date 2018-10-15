@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kwallet",
+  "display_name": "KWallet Framework",
+  "release_date": "2018-10-15",
+  "version": "5.51.0",
+  "summary": "Secure and unified container for user passwords",
+  "topics": [
+    "Security"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kwallet/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.51/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kwallet/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThis framework contains two main components:\n* Interface to KWallet, the safe desktop-wide storage for passwords on KDE work \nspaces.\n* The kwalletd used to safely store the passwords on KDE work spaces.\n\nThe library can be built alone, without kwalletd, by setting the\n`BUILD_KWALLETD` option to `OFF`.\n\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.51/kwallet-5.51.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
