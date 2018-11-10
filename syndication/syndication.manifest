@@ -1,0 +1,22 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "syndication",
+  "display_name": "Syndication",
+  "summary": "An RSS/Atom parser library",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/syndication/html/index.html",
+    "vcs": "https://projects.kde.org/projects/frameworks/syndication/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nRSS (0.9/1.0, 0.91..2.0) and Atom (0.3 and 1.0) feeds are supported.\nsyndication offers a unified, format-agnostic view on the parsed feed, \nso that the using application does not need to distinguish between feed\nformats.\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "group": "kde-frameworks"
+}
