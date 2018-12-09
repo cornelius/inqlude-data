@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "oxygen-icons5",
+  "display_name": "Oxygen Icons",
+  "release_date": "2018-12-09",
+  "version": "5.53.0",
+  "summary": "Oxygen icon theme",
+  "topics": [
+    "Artwork"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/oxygen-icons5/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.53/",
+    "vcs": "https://projects.kde.org/projects/frameworks/oxygen-icons5/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nOxygen-icons is a freedesktop.org compatible icon theme.\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.53/oxygen-icons5-5.53.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

@@ -1,13 +1,16 @@
 {
-  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kunitconversion",
   "display_name": "KUnitConversion",
+  "release_date": "2018-12-09",
+  "version": "5.53.0",
   "summary": "Support for unit conversion",
   "topics": [
     "Data"
   ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kunitconversion/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.53/",
     "vcs": "https://projects.kde.org/projects/frameworks/kunitconversion/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
@@ -18,8 +21,12 @@
   "authors": [
     "The KDE Community"
   ],
+  "maturity": "stable",
   "platforms": [
     "Linux"
   ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.53/kunitconversion-5.53.0.tar.xz"
+  },
   "group": "kde-frameworks"
 }
