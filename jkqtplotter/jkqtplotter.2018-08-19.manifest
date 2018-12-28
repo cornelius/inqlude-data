@@ -2,14 +2,15 @@
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "jkqtplotter",
   "display_name": "JKQtPlotter",
-  "version": "master",
-  "release_date": "2018-12-28",
+  "version": "v2018.08",
+  "release_date": "2018-08-19",
   "summary": "Plotting widget for Qt, including data management and LaTeX rendering",
   "urls": {
-    "homepage": "https://github.com/jkriege2/JKQtPlotter",
+    "homepage": "https://github.com/jkriege2/JKQtPlotter/tree/v2018.08",
     "vcs": "https://github.com/jkriege2/JKQtPlotter",
     "api_docs": "https://github.com/jkriege2/JKQtPlotter",
-    "tutorial": "https://github.com/jkriege2/JKQtPlotter"
+    "download": "https://github.com/jkriege2/JKQtPlotter/releases/tag/v2018.08",
+    "tutorial": "https://github.com/jkriege2/JKQtPlotter/tree/v2018.08/test/jkqtplotter_simpletest"
   },
   "licenses": [
     "LGPLv2.1+"
@@ -25,7 +26,7 @@
     "OS X"
   ],
   "packages": {
-    "source": "https://github.com/jkriege2/JKQtPlotter/archive/master.zip"
+    "source": "https://github.com/jkriege2/JKQtPlotter/archive/v2018.08.tar.gz"
   },
   "topics": [
     "Graphics"

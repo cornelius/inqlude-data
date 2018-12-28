@@ -2,21 +2,20 @@
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "jkqtplotter",
   "display_name": "JKQtPlotter",
-  "version": "v2018.08",
-  "release_date": "2018-08-19",
+  "version": "master",
+  "release_date": "2018-12-28",
   "summary": "Plotting widget for Qt, including data management and LaTeX rendering",
   "urls": {
-    "homepage": "https://github.com/jkriege2/JKQtPlotter/tree/v2018.08",
+    "homepage": "https://github.com/jkriege2/JKQtPlotter",
     "vcs": "https://github.com/jkriege2/JKQtPlotter",
     "api_docs": "https://github.com/jkriege2/JKQtPlotter",
-    "download": "https://github.com/jkriege2/JKQtPlotter/releases/tag/v2018.08",
-    "tutorial": "https://github.com/jkriege2/JKQtPlotter/tree/v2018.08/test/jkqtplotter_simpletest"
+    "tutorial": "https://github.com/jkriege2/JKQtPlotter"
   },
   "licenses": [
     "LGPLv2.1+"
   ],
   "description": "This is an extensive library of function/data plotter classes for Qt (>= 4.7, tested with Qt up to 5.11).",
-  "maturity": "stable",
+  "maturity": "development",
   "authors": [
     "Jan Krieger <jan@jkrieger.de>"
   ],
@@ -26,7 +25,7 @@
     "OS X"
   ],
   "packages": {
-    "source": "https://github.com/jkriege2/JKQtPlotter/archive/v2018.08.tar.gz"
+    "source": "https://github.com/jkriege2/JKQtPlotter/archive/master.zip"
   },
   "topics": [
     "Graphics"
