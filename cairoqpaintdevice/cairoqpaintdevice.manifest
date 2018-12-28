@@ -1,0 +1,25 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "cairoqpaintdevice",
+  "display_name": "cairoQPaintDevice",
+  "summary": "QPaintDevice implementation that uses Cairo Graphics Library as a backend",
+  "urls": {
+    "homepage": "https://github.com/jkriege2/cairoQPaintDevice",
+    "vcs": "https://github.com/jkriege2/cairoQPaintDevice"
+  },
+  "licenses": [
+    "GPLv3+"
+  ],
+  "description": "QPaintDevice implementation that uses Cairo Graphics Library as a backend (e.g. for high-quality PDF/EPS/PNG/SVG output!). This library works and was tested with Qt >=4.7, but possibly works with all versions since Qt 4.0!",
+  "authors": [
+    "Jan Krieger <jan@jkrieger.de>"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Graphics"
+  ]
+}
