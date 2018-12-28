@@ -10,8 +10,7 @@
     "vcs": "https://github.com/jkriege2/JKQtPlotter",
     "api_docs": "https://github.com/jkriege2/JKQtPlotter",
     "download": "https://github.com/jkriege2/JKQtPlotter/releases/tag/v2018.08",
-    "tutorial": "https://github.com/jkriege2/JKQtPlotter/tree/v2018.08/test/jkqtplotter_simpletest",
-    "announcement": "",
+    "tutorial": "https://github.com/jkriege2/JKQtPlotter/tree/v2018.08/test/jkqtplotter_simpletest"
   },
   "licenses": [
     "LGPLv2.1+"
@@ -19,7 +18,7 @@
   "description": "This is an extensive library of function/data plotter classes for Qt (>= 4.7, tested with Qt up to 5.11).",
   "maturity": "stable",
   "authors": [
-    "Jan Krieger"
+    "Jan Krieger <jan@jkrieger.de>"
   ],
   "platforms": [
     "Linux",
