@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kcmutils",
+  "display_name": "KCMUtils",
+  "release_date": "2019-02-09",
+  "version": "5.55.0",
+  "summary": "Utilities for working with KCModules",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kcmutils/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.55/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kcmutils/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKCMUtils provides various classes to work with KCModules. KCModules can be\ncreated with the KConfigWidgets framework.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.55/kcmutils-5.55.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
