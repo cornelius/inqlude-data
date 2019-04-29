@@ -1,0 +1,28 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "easyqtsql",
+  "display_name": "EasyQtSql",
+  "summary": "A lightweight header-only C++11 library for quick and easy SQL querying with QtSql",
+  "urls": {
+    "homepage": "https://github.com/kramolnic/EasyQtSql",
+    "vcs": "https://github.com/kramolnic/EasyQtSql",
+    "api_docs": "https://kramolnic.github.io/EasyQtSql/"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "EasyQtSql makes it easy to execute SQL queries in your Qt5/C++11 application with automatic parameters/results binding. The library is very small and easy to use - just add Qt SQL module and include header file.",
+  "authors": [
+    "Alexey Kramin"
+  ],  
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "packages": {
+    "source": "https://github.com/kramolnic/EasyQtSql/archive/master.zip"
+  },
+  "topics": [
+    "Data"
+  ]
+}
