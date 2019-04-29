@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qtpromise",
+  "display_name": "QtPromise",
+  "release_date": "2018-09-09",
+  "version": "0.4.0",
+  "summary": "Promises/A+ implementation for Qt/C++",
+  "description": "[Promises/A+](https://promisesaplus.com/) implementation for Qt/C++",
+  "topics": [
+    "Data",
+    "Development"
+  ],
+  "urls": {
+    "homepage": "https://qtpromise.netlify.com",
+    "vcs": "https://github.com/simonbrunel/qtpromise",
+    "download": "https://github.com/simonbrunel/qtpromise/releases",
+    "tutorial": "https://qtpromise.netlify.com/qtpromise/getting-started.html",
+    "api_docs": "https://qtpromise.netlify.com/qtpromise/api-reference.html"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "authors": [
+    "Simon Brunel"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Any"
+  ],
+  "packages": {
+    "source": "https://github.com/simonbrunel/qtpromise/archive/v0.4.0.zip"
+  }
+}
