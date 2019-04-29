@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qmarkdowntextedit",
+  "display_name": "QMarkdownTextEdit",
+  "release_date": "2019-04-10",
+  "version": "2019.4.0",
+  "summary": "C++ Qt QPlainTextEdit widget with markdown highlighting and some other goodies.",
+  "urls": {
+    "homepage": "https://github.com/pbek/qmarkdowntextedit",
+    "download": "https://github.com/pbek/qmarkdowntextedit/releases",
+    "vcs": "https://github.com/pbek/qmarkdowntextedit"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "description": "\nQMarkdownTextEdit is a C++ Qt QPlainTextEdit widget with markdown highlighting and some other goodies.\n",
+  "authors": [
+    "Patrizio Bekerle <patrizio@bekerle.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "packages": {
+    "source": "https://github.com/pbek/qmarkdowntextedit/archive/2019.4.0.tar.gz"
+  },
+  "topics": [
+    "Text"
+  ]
+}
