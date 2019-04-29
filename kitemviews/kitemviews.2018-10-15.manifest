@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kitemviews",
+  "display_name": "KItemViews",
+  "release_date": "2018-10-15",
+  "version": "5.51.0",
+  "summary": "Widget addons for Qt Model/View",
+  "topics": [
+    "Widgets",
+    "Development"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kitemviews/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.51/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kitemviews/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKItemViews includes a set of views, which can be used with item models. It\nincludes views for categorizing lists and to add search filters to flat and\nhierarchical lists.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.51/kitemviews-5.51.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

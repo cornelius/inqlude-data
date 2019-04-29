@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kpackage",
+  "display_name": "Note for packagers",
+  "release_date": "2019-01-12",
+  "version": "5.54.0",
+  "summary": "Library to load and install packages of non binary files as they were a plugin",
+  "topics": [
+    "Development"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kpackage/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.54/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kpackage/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThe KPackage framework lets the user install and load packages of non binary content such as scripted extensions or graphic assets, as if they were traditional plugins.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.54/kpackage-5.54.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kservice",
+  "display_name": "KService",
+  "release_date": "2018-11-10",
+  "version": "5.52.0",
+  "summary": "Advanced plugin and service introspection",
+  "topics": [
+    "Development"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kservice/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.52/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kservice/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KService provides a plugin framework for handling desktop services. Services can\nbe applications or libraries. They can be bound to MIME types or handled by\napplication specific code.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.52/kservice-5.52.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

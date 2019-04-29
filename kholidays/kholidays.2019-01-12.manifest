@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kholidays",
+  "display_name": "KHolidays #",
+  "release_date": "2019-01-12",
+  "version": "5.54.0",
+  "summary": "Holiday calculation library",
+  "topics": [
+    "Data"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kholidays/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.54/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kholidays/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This library provides a C++ API that determines holiday and other\nspecial events for a geographical region.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.54/kholidays-5.54.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

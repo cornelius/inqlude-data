@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThis library provides a C++ API that determines holiday and other\nspecial events for a geographical region.\n",
+  "description": "This library provides a C++ API that determines holiday and other\nspecial events for a geographical region.",
   "authors": [
     "The KDE Community"
   ],

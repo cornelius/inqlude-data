@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "krunner",
+  "display_name": "KRunner",
+  "release_date": "2018-11-10",
+  "version": "5.52.0",
+  "summary": "Parallelized query system",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/krunner/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.52/",
+    "vcs": "https://projects.kde.org/projects/frameworks/krunner/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nThe Plasma workspace provides an application called KRunner which, among other\nthings, allows one to type into a text area which causes various actions and\ninformation that match the text appear as the text is being typed.\n\nOne application for this is the universal runner you can launch with ALT-F2.\n\nThis functionality is provided via plugins loaded at runtime called \"Runners\".\nThese plugins can be used by any application using the Plasma library. The\nKRunner framework is used to write these plugins, as explained in\n[this tutorial](http://techbase.kde.org/Development/Tutorials/Plasma/AbstractRunner)\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.52/krunner-5.52.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "neiasound",
+  "display_name": "neiasound",
+  "release_date": "2019-02-09",
+  "version": "5.55.0",
+  "summary": "OpenAl wrapper for Qt apps and games",
+  "topics": [
+    "Multimedia",
+    "Bindings"
+  ],
+  "urls": {
+    "homepage": "https://github.com/lucaspcamargo/neiasound",
+    "download": "http://download.kde.org/stable/frameworks/5.55/",
+    "vcs": "https://github.com/lucaspcamargo/neiasound"
+  },
+  "licenses": [
+    "BSD 2-clause"
+  ],
+  "description": "\nneiasound is a Qt-style OpenAL wrapper for games. Not yet complete but already very useful. It is a clean, convenient api that can be plugged directly into your main loop. It comes with a (very primitive) .wav file reader, and includes stb_vorbis directly in the source tree. Also supports libsndfile.\n\nThere is also support for streaming dynamic playlists with intros and seamless looping.\n\n",
+  "authors": [
+    "Lucas Pires Camargo <camargo@lisha.ufsc.br>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.55/neiasound-5.55.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

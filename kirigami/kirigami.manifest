@@ -2,7 +2,7 @@
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kirigami",
   "display_name": "Build a QMake-based application",
-  "summary": "QtQuick plugins to build user interfaces based on the KDE UX guidelines",
+  "summary": "QtQuick plugins to build user interfaces based on the KDE human interface guidelines",
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kirigami/html/index.html",
     "vcs": "https://projects.kde.org/projects/frameworks/kirigami/repository",

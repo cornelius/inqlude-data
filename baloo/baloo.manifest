@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "Baloo provides file searching and indexing. It does so by maintaining an index of the contents\nof your files.",
+  "description": "Baloo is the file indexing and file search framework for KDE Plasma. It focuses \non speed and a very small memory footprint. It maintains an index of your files \nand optionally their contents which [you can search](@ref searching).",
   "authors": [
     "The KDE Community"
   ],

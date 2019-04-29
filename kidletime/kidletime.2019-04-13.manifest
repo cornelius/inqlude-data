@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kidletime",
+  "display_name": "KIdleTime",
+  "release_date": "2019-04-13",
+  "version": "5.57.0",
+  "summary": "Monitoring user activity",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kidletime/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.57/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kidletime/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nKIdleTime is a singleton reporting information on idle time. It is useful not\nonly for finding out about the current idle time of the PC, but also for getting\nnotified upon idle time events, such as custom timeouts, or user activity.\n\n",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.57/kidletime-5.57.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
