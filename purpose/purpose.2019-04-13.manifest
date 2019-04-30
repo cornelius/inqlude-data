@@ -1,10 +1,13 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "purpose",
-  "display_name": "Disable KDE Connect and Imgur sharing plugins",
+  "display_name": "Purpose",
   "release_date": "2019-04-13",
   "version": "5.57.0",
   "summary": "Offers available actions for a specific purpose",
+  "topics": [
+    "Desktop"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/purpose/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.57/",

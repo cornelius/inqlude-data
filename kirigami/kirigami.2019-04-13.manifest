@@ -1,10 +1,14 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kirigami",
-  "display_name": "Build a QMake-based application",
+  "display_name": "Kirigami",
   "release_date": "2019-04-13",
   "version": "5.57.0",
   "summary": "QtQuick plugins to build user interfaces based on the KDE human interface guidelines",
+  "topics": [
+    "Mobile",
+    "QML"
+  ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kirigami/html/index.html",
     "download": "http://download.kde.org/stable/frameworks/5.57/",
