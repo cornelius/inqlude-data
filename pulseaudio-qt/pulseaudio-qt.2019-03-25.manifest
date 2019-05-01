@@ -10,6 +10,7 @@
     "Bindings"
   ],
   "urls": {
+    "homepage": "https://github.com/KDE/pulseaudio-qt",
     "vcs": "https://cgit.kde.org/pulseaudio-qt.git"
   },
   "licenses": [
