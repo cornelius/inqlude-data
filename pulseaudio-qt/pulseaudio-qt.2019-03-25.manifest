@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "pulseaudio-qt",
+  "display_name": "PulseAudioQt",
+  "release_date": "2019-03-25",
+  "version": "1.0.1",
+  "summary": "Qt wrapper for PulseAudio API",
+  "topics": [
+    "Multimedia",
+    "Bindings"
+  ],
+  "urls": {
+    "vcs": "https://cgit.kde.org/pulseaudio-qt.git"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "\nPulseAudioQt provides a Qt-style abstraction of libpulse. It can be used to create applications that manage PulseAudio objects like sinks and sources and control their properties",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "https://download.kde.org/stable/pulseaudio-qt/pulseaudio-qt-1.0.1.tar.xz"
+  }
+}
