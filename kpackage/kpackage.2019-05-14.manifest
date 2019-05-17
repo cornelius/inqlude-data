@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kpackage",
-  "display_name": "Note for packagers",
+  "display_name": "KPackage Framework",
   "release_date": "2019-05-14",
   "version": "5.58.0",
   "summary": "Library to load and install packages of non binary files as they were a plugin",

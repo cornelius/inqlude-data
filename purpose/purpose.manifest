@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "purpose",
-  "display_name": "Disable KDE Connect and Imgur sharing plugins",
+  "display_name": "Purpose",
   "summary": "Offers available actions for a specific purpose",
   "topics": [
     "Desktop"

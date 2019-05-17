@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kpackage",
-  "display_name": "Note for packagers",
+  "display_name": "KPackage Framework",
   "summary": "Library to load and install packages of non binary files as they were a plugin",
   "topics": [
     "Development"

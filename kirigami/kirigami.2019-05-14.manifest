@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "kirigami",
-  "display_name": "Build a QMake-based application",
+  "display_name": "Kirigami",
   "release_date": "2019-05-14",
   "version": "5.58.0",
   "summary": "QtQuick plugins to build user interfaces based on the KDE human interface guidelines",

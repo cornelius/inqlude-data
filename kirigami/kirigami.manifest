@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "kirigami",
-  "display_name": "Build a QMake-based application",
+  "display_name": "Kirigami",
   "summary": "QtQuick plugins to build user interfaces based on the KDE human interface guidelines",
   "topics": [
     "Mobile",

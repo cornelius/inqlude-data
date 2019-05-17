@@ -1,7 +1,7 @@
 {
   "$schema": "http://inqlude.org/schema/release-manifest-v1#",
   "name": "purpose",
-  "display_name": "Disable KDE Connect and Imgur sharing plugins",
+  "display_name": "Purpose",
   "release_date": "2019-05-14",
   "version": "5.58.0",
   "summary": "Offers available actions for a specific purpose",
