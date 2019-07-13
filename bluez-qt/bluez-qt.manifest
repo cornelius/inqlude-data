@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nBluezQt is a library for communication with BlueZ system and session daemons.\n\n<ul>\n  <li>BluezQt::Manager class is used to communicate with system daemon - org.bluez</li>\n  <li>BluezQt::ObexManager class is used to communicate with session daemon - org.bluez.obex</li>\n</ul>\n\nAll method calls are asynchronous using BluezQt::PendingCall that helps tracking\nthe call progress and handle errors.\n\n",
+  "description": "BluezQt is a library for communication with BlueZ system and session daemons.\n\n<ul>\n  <li>BluezQt::Manager class is used to communicate with system daemon - org.bluez</li>\n  <li>BluezQt::ObexManager class is used to communicate with session daemon - org.bluez.obex</li>\n</ul>\n\nAll method calls are asynchronous using BluezQt::PendingCall that helps tracking\nthe call progress and handle errors.",
   "authors": [
     "The KDE Community"
   ],

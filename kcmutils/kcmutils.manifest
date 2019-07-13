@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKCMUtils provides various classes to work with KCModules. KCModules can be\ncreated with the KConfigWidgets framework.\n\n",
+  "description": "KCMUtils provides various classes to work with KCModules. KCModules can be\ncreated with the KConfigWidgets framework.",
   "authors": [
     "The KDE Community"
   ],

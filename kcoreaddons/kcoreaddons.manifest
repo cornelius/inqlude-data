@@ -15,7 +15,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKCoreAddons provides classes built on top of QtCore to perform various tasks\nsuch as manipulating mime types, autosaving files, creating backup files,\ngenerating random sequences, performing text manipulations such as macro\nreplacement, accessing user information and many more.\n\n",
+  "description": "KCoreAddons provides classes built on top of QtCore to perform various tasks\nsuch as manipulating mime types, autosaving files, creating backup files,\ngenerating random sequences, performing text manipulations such as macro\nreplacement, accessing user information and many more.",
   "authors": [
     "The KDE Community"
   ],

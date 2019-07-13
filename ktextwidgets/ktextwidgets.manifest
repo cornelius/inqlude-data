@@ -15,7 +15,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKTextWidgets provides widgets for displaying and editing text. It supports\nrich text as well as plain text.\n\n",
+  "description": "KTextWidgets provides widgets for displaying and editing text. It supports\nrich text as well as plain text.",
   "authors": [
     "The KDE Community"
   ],

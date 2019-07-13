@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKCodecs provide a collection of methods to manipulate strings using various\nencodings.\n\nIt can automatically determine the charset of a string, translate XML entities,\nvalidate email addresses, and find encodings by name in a more tolerant way than QTextCodec\n(useful e.g. for data coming from the Internet).\n\n\n",
+  "description": "KCodecs provide a collection of methods to manipulate strings using various\nencodings.\n\nIt can automatically determine the charset of a string, translate XML entities,\nvalidate email addresses, and find encodings by name in a more tolerant way than QTextCodec\n(useful e.g. for data coming from the Internet).",
   "authors": [
     "The KDE Community"
   ],

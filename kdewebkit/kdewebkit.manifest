@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThis library provides KDE integration of the QtWebKit library. If you are\nusing QtWebKit in your KDE application, you are encouraged to use this layer\ninstead of using the QtWebKit classes directly.\n\nIn particular, you should use KWebView in place of QWebView, KGraphicsWebView\nin place of QGraphicsWebView and KWebPage in place of QWebPage.  See the\ndocumentation for those classes for more information.\n\n",
+  "description": "This library provides KDE integration of the QtWebKit library. If you are\nusing QtWebKit in your KDE application, you are encouraged to use this layer\ninstead of using the QtWebKit classes directly.\n\nIn particular, you should use KWebView in place of QWebView, KGraphicsWebView\nin place of QGraphicsWebView and KWebPage in place of QWebPage.  See the\ndocumentation for those classes for more information.",
   "authors": [
     "The KDE Community"
   ],

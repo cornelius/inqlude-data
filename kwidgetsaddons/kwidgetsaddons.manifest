@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThis repository contains add-on widgets and classes for applications\nthat use the Qt Widgets module. If you are porting applications from\nKDE Platform 4 \"kdeui\" library, you will find many of its classes here.\n\nProvided are action classes that can be added to toolbars or menus,\na wide range of widgets for selecting characters, fonts, colors,\nactions, dates and times, or MIME types, as well as platform-aware\ndialogs for configuration pages, message boxes, and password requests.\n",
+  "description": "This repository contains add-on widgets and classes for applications\nthat use the Qt Widgets module. If you are porting applications from\nKDE Platform 4 \"kdeui\" library, you will find many of its classes here.\n\nProvided are action classes that can be added to toolbars or menus,\na wide range of widgets for selecting characters, fonts, colors,\nactions, dates and times, or MIME types, as well as platform-aware\ndialogs for configuration pages, message boxes, and password requests.",
   "authors": [
     "The KDE Community"
   ],

@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKGlobalAccel allows you to have global accelerators that are independent of\nthe focused window.  Unlike regular shortcuts, the application's window does not\nneed focus for them to be activated.\n\n",
+  "description": "KGlobalAccel allows you to have global accelerators that are independent of\nthe focused window.  Unlike regular shortcuts, the application's window does not\nneed focus for them to be activated.",
   "authors": [
     "The KDE Community"
   ],

@@ -15,7 +15,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKDESU provides functionality for building GUI front ends for\n(password asking) console mode programs. For example, kdesu and\nkdessh use it to interface with su and ssh respectively.\n\n",
+  "description": "KDESU provides functionality for building GUI front ends for\n(password asking) console mode programs. For example, kdesu and\nkdessh use it to interface with su and ssh respectively.",
   "authors": [
     "The KDE Community"
   ],

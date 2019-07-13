@@ -15,7 +15,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKConfigWidgets provides easy-to-use classes to create configuration dialogs, as\nwell as a set of widgets which uses KConfig to store their settings.\n\n",
+  "description": "KConfigWidgets provides easy-to-use classes to create configuration dialogs, as\nwell as a set of widgets which uses KConfig to store their settings.",
   "authors": [
     "The KDE Community"
   ],

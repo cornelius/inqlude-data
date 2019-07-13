@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKNotification is used to notify the user of an event. It covers feedback and\npersistent events.\n\n",
+  "description": "KNotification is used to notify the user of an event. It covers feedback and\npersistent events.",
   "authors": [
     "The KDE Community"
   ],

@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKBookmarks lets you access and manipulate bookmarks stored using the\n[XBEL format][1].\n\n[1]: http://pyxml.sourceforge.net/topics/xbel/\n\nThe most common use for bookmarks is web browsers, but this can also\nbe useful in any application where local files or URLs can be saved as bookmarks.\n\n",
+  "description": "KBookmarks lets you access and manipulate bookmarks stored using the\n[XBEL format][1].\n\n[1]: http://pyxml.sourceforge.net/topics/xbel/\n\nThe most common use for bookmarks is web browsers, but this can also\nbe useful in any application where local files or URLs can be saved as bookmarks.",
   "authors": [
     "The KDE Community"
   ],

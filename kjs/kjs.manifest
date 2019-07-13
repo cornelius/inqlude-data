@@ -15,7 +15,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThis library provides an ECMAScript compatible interpreter. The ECMA standard\nis based on well known scripting languages such as Netscape's JavaScript and\nMicrosoft's JScript.\n\n",
+  "description": "This library provides an ECMAScript compatible interpreter. The ECMA standard\nis based on well known scripting languages such as Netscape's JavaScript and\nMicrosoft's JScript.",
   "authors": [
     "The KDE Community"
   ],

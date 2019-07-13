@@ -15,7 +15,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nModemManagerQt provides access to all ModemManager features\nexposed on DBus. It allows you to manage modem devices and access\nto information available for your modem devices, like signal, location\nand messages.\n\n",
+  "description": "ModemManagerQt provides access to all ModemManager features\nexposed on DBus. It allows you to manage modem devices and access\nto information available for your modem devices, like signal, location\nand messages.",
   "authors": [
     "The KDE Community"
   ],

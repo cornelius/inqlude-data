@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKJobWIdgets provides widgets for showing progress of asynchronous jobs.\n\n",
+  "description": "KJobWIdgets provides widgets for showing progress of asynchronous jobs.",
   "authors": [
     "The KDE Community"
   ],

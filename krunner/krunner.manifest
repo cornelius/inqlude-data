@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThe Plasma workspace provides an application called KRunner which, among other\nthings, allows one to type into a text area which causes various actions and\ninformation that match the text appear as the text is being typed.\n\nOne application for this is the universal runner you can launch with ALT-F2.\n\nThis functionality is provided via plugins loaded at runtime called \"Runners\".\nThese plugins can be used by any application using the Plasma library. The\nKRunner framework is used to write these plugins, as explained in\n[this tutorial](http://techbase.kde.org/Development/Tutorials/Plasma/AbstractRunner)\n\n",
+  "description": "The Plasma workspace provides an application called KRunner which, among other\nthings, allows one to type into a text area which causes various actions and\ninformation that match the text appear as the text is being typed.\n\nOne application for this is the universal runner you can launch with ALT-F2.\n\nThis functionality is provided via plugins loaded at runtime called \"Runners\".\nThese plugins can be used by any application using the Plasma library. The\nKRunner framework is used to write these plugins, as explained in\n[this tutorial](http://techbase.kde.org/Development/Tutorials/Plasma/AbstractRunner)",
   "authors": [
     "The KDE Community"
   ],

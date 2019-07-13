@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThe Extra CMake Modules package, or ECM, adds to the modules provided by CMake,\nincluding ones used by ``find_package()`` to find common software, ones that\ncan be used directly in ``CMakeLists.txt`` files to perform common tasks and\ntoolchain files that must be specified on the commandline by the user.\n\nIn addition, it provides common build settings used in software produced by the\nKDE community.\n\nWhile the driving force of this module is to reduce duplication in CMake scripts\nacross KDE software, it is intended to be useful for any software that uses the\nCMake build system.\n\nFor more information visit the documentation at https://api.kde.org/ecm/\n",
+  "description": "The Extra CMake Modules package, or ECM, adds to the modules provided by CMake,\nincluding ones used by ``find_package()`` to find common software, ones that\ncan be used directly in ``CMakeLists.txt`` files to perform common tasks and\ntoolchain files that must be specified on the commandline by the user.\n\nIn addition, it provides common build settings used in software produced by the\nKDE community.\n\nWhile the driving force of this module is to reduce duplication in CMake scripts\nacross KDE software, it is intended to be useful for any software that uses the\nCMake build system.\n\nFor more information visit the documentation at https://api.kde.org/ecm/",
   "authors": [
     "The KDE Community"
   ],

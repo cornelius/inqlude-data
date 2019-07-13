@@ -15,7 +15,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nNetworkManagerQt provides access to all NetworkManager features\nexposed on DBus. It allows you to manage your connections and control\nyour network devices and also provides a library for parsing connection\nsettings which are used in DBus communication.\n\n",
+  "description": "NetworkManagerQt provides access to all NetworkManager features\nexposed on DBus. It allows you to manage your connections and control\nyour network devices and also provides a library for parsing connection\nsettings which are used in DBus communication.",
   "authors": [
     "The KDE Community"
   ],

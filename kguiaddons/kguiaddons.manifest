@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThe KDE GUI addons provide utilities for graphical user interfaces in the areas\nof colors, fonts, text, images, keyboard input.\n\n",
+  "description": "The KDE GUI addons provide utilities for graphical user interfaces in the areas\nof colors, fonts, text, images, keyboard input.",
   "authors": [
     "The KDE Community"
   ],

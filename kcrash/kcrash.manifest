@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKCrash provides support for intercepting and handling application crashes.\n\n",
+  "description": "KCrash provides support for intercepting and handling application crashes.",
   "authors": [
     "The KDE Community"
   ],

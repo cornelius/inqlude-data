@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKNotifyConfig provides a configuration dialog for desktop notifications which\ncan be embedded in your application.\n\n",
+  "description": "KNotifyConfig provides a configuration dialog for desktop notifications which\ncan be embedded in your application.",
   "authors": [
     "The KDE Community"
   ],

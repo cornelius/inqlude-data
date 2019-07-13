@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKEmoticons converts emoticons from text to a graphical representation with\nimages in HTML. It supports setting different themes for emoticons coming\nfrom different providers.\n\n",
+  "description": "KEmoticons converts emoticons from text to a graphical representation with\nimages in HTML. It supports setting different themes for emoticons coming\nfrom different providers.",
   "authors": [
     "The KDE Community"
   ],

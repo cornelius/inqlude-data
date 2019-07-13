@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKDBusAddons provides convenience classes on top of QtDBus, as well as an API to\ncreate KDED modules.\n\n",
+  "description": "KDBusAddons provides convenience classes on top of QtDBus, as well as an API to\ncreate KDED modules.",
   "authors": [
     "The KDE Community"
   ],

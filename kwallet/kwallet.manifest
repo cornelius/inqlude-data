@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThis framework contains two main components:\n* Interface to KWallet, the safe desktop-wide storage for passwords on KDE work \nspaces.\n* The kwalletd used to safely store the passwords on KDE work spaces.\n\nThe library can be built alone, without kwalletd, by setting the\n`BUILD_KWALLETD` option to `OFF`.\n\n\n",
+  "description": "This framework contains two main components:\n* Interface to KWallet, the safe desktop-wide storage for passwords on KDE work \nspaces.\n* The kwalletd used to safely store the passwords on KDE work spaces.\n\nThe library can be built alone, without kwalletd, by setting the\n`BUILD_KWALLETD` option to `OFF`.",
   "authors": [
     "The KDE Community"
   ],

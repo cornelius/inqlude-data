@@ -15,7 +15,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nKItemViews includes a set of views, which can be used with item models. It\nincludes views for categorizing lists and to add search filters to flat and\nhierarchical lists.\n\n",
+  "description": "KItemViews includes a set of views, which can be used with item models. It\nincludes views for categorizing lists and to add search filters to flat and\nhierarchical lists.",
   "authors": [
     "The KDE Community"
   ],

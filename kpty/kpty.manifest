@@ -14,7 +14,7 @@
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "\nThis library provides primitives to interface with pseudo terminal devices\nas well as a KProcess derived class for running child processes and\ncommunicating with them using a pty.\n\n",
+  "description": "This library provides primitives to interface with pseudo terminal devices\nas well as a KProcess derived class for running child processes and\ncommunicating with them using a pty.",
   "authors": [
     "The KDE Community"
   ],
