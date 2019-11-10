@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "syntax-highlighting",
+  "display_name": "Syntax Highlighting",
+  "release_date": "2019-11-10",
+  "version": "5.64.0",
+  "summary": "Syntax Highlighting",
+  "topics": [
+    "Text"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/syntax-highlighting/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.64/",
+    "vcs": "https://projects.kde.org/projects/frameworks/syntax-highlighting/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This is a stand-alone implementation of the Kate syntax highlighting engine.\nIt's meant as a building block for text editors as well as for simple highlighted\ntext rendering (e.g. as HTML), supporting both integration with a custom editor\nas well as a ready-to-use QSyntaxHighlighter sub-class.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.64/syntax-highlighting-5.64.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
