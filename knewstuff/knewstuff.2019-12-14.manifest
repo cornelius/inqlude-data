@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "knewstuff",
+  "display_name": "KNewStuff",
+  "release_date": "2019-12-14",
+  "version": "5.65.0",
+  "summary": "Support for downloading application assets from the network",
+  "topics": [
+    "Data",
+    "Communication"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/knewstuff/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.65/",
+    "vcs": "https://projects.kde.org/projects/frameworks/knewstuff/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "The KNewStuff library implements collaborative data sharing for\napplications. It uses libattica to support the Open Collaboration Services\nspecification.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.65/knewstuff-5.65.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "threadweaver",
+  "display_name": "ThreadWeaver",
+  "release_date": "2019-12-14",
+  "version": "5.65.0",
+  "summary": "High-level multithreading framework",
+  "topics": [
+    "Development"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/threadweaver/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.65/",
+    "vcs": "https://projects.kde.org/projects/frameworks/threadweaver/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "ThreadWeaver is a helper for multithreaded programming.  It uses a job-based\ninterface to queue tasks and execute them in an efficient way.\n\nYou simply divide the workload into jobs, state the dependencies between the jobs\nand ThreadWeaver will work out the most efficient way of dividing the work between\nthreads within a set of resource limits.\n\nSee the information on [use cases](@ref usecases) and\n[why multithreading can help](@ref multithreading), as well as the usage\nsection below, for more detailed information.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.65/threadweaver-5.65.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

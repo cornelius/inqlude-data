@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "modemmanager-qt",
+  "display_name": "ModemManagerQt",
+  "release_date": "2019-12-14",
+  "version": "5.65.0",
+  "summary": "Qt wrapper for ModemManager API",
+  "topics": [
+    "Communication",
+    "Bindings"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/modemmanager-qt/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.65/",
+    "vcs": "https://projects.kde.org/projects/frameworks/modemmanager-qt/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "ModemManagerQt provides access to all ModemManager features\nexposed on DBus. It allows you to manage modem devices and access\nto information available for your modem devices, like signal, location\nand messages.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.65/modemmanager-qt-5.65.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
