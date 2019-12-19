@@ -1,21 +1,23 @@
 {
   "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
   "name": "qdbf",
-  "display_name": "qdbf",
-  "summary": "Library for handling dbf files",
+  "display_name": "QDbf",
+  "summary": "Library for handling DBF files",
   "urls": {
-    "homepage": "https://code.google.com/p/qdbf/",
-    "vcs": "https://code.google.com/p/qdbf/source/browse/"
+    "homepage": "https://github.com/IvanPinezhaninov/QDbf/",
+    "vcs": "https://github.com/IvanPinezhaninov/QDbf/"
   },
   "licenses": [
-    "LGPLv2.1+"
+    "LGPLv3.0+"
   ],
-  "description": "Library for reading and writing dbf files, as used by dBase and other data bases.",
+  "description": "A library for reading and writing xBase database files",
   "authors": [
-    "arial79@gmail.com"
+    "ivan.pinezhaninov@gmail.com"
   ],
   "platforms": [
-    "Linux"
+    "Linux",
+    "Windows",
+    "OS X"
   ],
   "topics": [
     "Data"
