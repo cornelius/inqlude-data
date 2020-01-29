@@ -1,0 +1,28 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "liquidequalizerwidget",
+  "display_name": "LiquidEqualizerWidget",
+  "summary": "Minimalistic 10-band Equalizer",
+  "urls": {
+    "homepage": "https://github.com/ThePBone/LiquidEqualizerWidget",
+    "vcs": "https://github.com/ThePBone/LiquidEqualizerWidget",
+    "api_docs": "https://github.com/ThePBone/LiquidEqualizerWidget#documentation"
+  },
+  "licenses": [
+    "GPLv3+"
+  ],
+  "description": "Minimalistic 10-band equalizer with interpolation using high shelf biquad filters and animation capabilities",
+  "authors": [
+    "Tim Schneeberger <tim.schneeberger@outlook.de> (@ThePBone)"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "topics": [
+    "Graphics",
+    "Desktop",
+    "Widgets"
+  ]
+}
