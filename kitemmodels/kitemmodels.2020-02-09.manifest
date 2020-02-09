@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kitemmodels",
+  "display_name": "KItemModels",
+  "release_date": "2020-02-09",
+  "version": "5.67.0",
+  "summary": "Models for Qt Model/View system",
+  "topics": [
+    "Development"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kitemmodels/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.67/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kitemmodels/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KItemModels provides the following models:\n\n* KBreadcrumbSelectionModel - Selects the parents of selected items to create\n  breadcrumbs\n* KCheckableProxyModel - Adds a checkable capability to a source model\n* KConcatenateRowsProxyModel - Concatenates rows from multiple source models\n* KDescendantsProxyModel - Proxy Model for restructuring a Tree into a list\n* KExtraColumnsProxyModel - Adds columns after existing columns\n* KLinkItemSelectionModel - Share a selection in multiple views which do not\n  have the same source model\n* KModelIndexProxyMapper - Mapping of indexes and selections through proxy\n  models\n* KNumberModel - Creates a model of entries from N to M with rows at a given interval\n* KRearrangeColumnsProxyModel - Can reorder and hide columns from the source model\n* KRecursiveFilterProxyModel - Recursive filtering of models\n* KSelectionProxyModel - A Proxy Model which presents a subset of its source\n  model to observers",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.67/kitemmodels-5.67.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
