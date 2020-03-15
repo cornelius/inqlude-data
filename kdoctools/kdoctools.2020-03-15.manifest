@@ -3,7 +3,7 @@
   "name": "kdoctools",
   "display_name": "KDocTools",
   "release_date": "2020-03-15",
-  "version": "5.69.0",
+  "version": "5.68.0",
   "summary": "Documentation generation from docbook",
   "topics": [
     "Development",
@@ -11,7 +11,7 @@
   ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdoctools/html/index.html",
-    "download": "http://download.kde.org/stable/frameworks/5.69/",
+    "download": "http://download.kde.org/stable/frameworks/5.68/",
     "vcs": "https://projects.kde.org/projects/frameworks/kdoctools/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
@@ -27,7 +27,7 @@
     "Linux"
   ],
   "packages": {
-    "source": "http://download.kde.org/stable/frameworks/5.69/kdoctools-5.69.0.tar.xz"
+    "source": "http://download.kde.org/stable/frameworks/5.68/kdoctools-5.68.0.tar.xz"
   },
   "group": "kde-frameworks"
 }

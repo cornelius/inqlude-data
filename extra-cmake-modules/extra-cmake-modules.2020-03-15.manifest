@@ -3,14 +3,14 @@
   "name": "extra-cmake-modules",
   "display_name": "Extra CMake Modules",
   "release_date": "2020-03-15",
-  "version": "5.69.0",
+  "version": "5.68.0",
   "summary": "Extra CMake modules",
   "topics": [
     "Development"
   ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/extra-cmake-modules/html/index.html",
-    "download": "http://download.kde.org/stable/frameworks/5.69/",
+    "download": "http://download.kde.org/stable/frameworks/5.68/",
     "vcs": "https://projects.kde.org/projects/frameworks/extra-cmake-modules/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
@@ -28,7 +28,7 @@
     "Windows"
   ],
   "packages": {
-    "source": "http://download.kde.org/stable/frameworks/5.69/extra-cmake-modules-5.69.0.tar.xz"
+    "source": "http://download.kde.org/stable/frameworks/5.68/extra-cmake-modules-5.68.0.tar.xz"
   },
   "group": "kde-frameworks"
 }

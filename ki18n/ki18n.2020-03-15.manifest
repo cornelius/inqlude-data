@@ -3,7 +3,7 @@
   "name": "ki18n",
   "display_name": "KI18n",
   "release_date": "2020-03-15",
-  "version": "5.69.0",
+  "version": "5.68.0",
   "summary": "Advanced internationalization framework",
   "topics": [
     "Development",
@@ -11,7 +11,7 @@
   ],
   "urls": {
     "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/ki18n/html/index.html",
-    "download": "http://download.kde.org/stable/frameworks/5.69/",
+    "download": "http://download.kde.org/stable/frameworks/5.68/",
     "vcs": "https://projects.kde.org/projects/frameworks/ki18n/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
@@ -27,7 +27,7 @@
     "Linux"
   ],
   "packages": {
-    "source": "http://download.kde.org/stable/frameworks/5.69/ki18n-5.69.0.tar.xz"
+    "source": "http://download.kde.org/stable/frameworks/5.68/ki18n-5.68.0.tar.xz"
   },
   "group": "kde-frameworks"
 }

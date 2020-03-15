@@ -3,14 +3,14 @@
   "name": "kfileaudiopreview",
   "display_name": "KFileAudioPreview",
   "release_date": "2020-03-15",
-  "version": "5.69.0",
+  "version": "5.68.0",
   "summary": "Preview of audio files",
   "topics": [
     "Multimedia"
   ],
   "urls": {
     "homepage": "https://projects.kde.org/projects/frameworks/kfileaudiopreview",
-    "download": "http://download.kde.org/stable/frameworks/5.69/",
+    "download": "http://download.kde.org/stable/frameworks/5.68/",
     "vcs": "https://projects.kde.org/projects/frameworks/kfileaudiopreview/repository",
     "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
   },
@@ -26,7 +26,7 @@
     "Linux"
   ],
   "packages": {
-    "source": "http://download.kde.org/stable/frameworks/5.69/kfileaudiopreview-5.69.0.tar.xz"
+    "source": "http://download.kde.org/stable/frameworks/5.68/kfileaudiopreview-5.68.0.tar.xz"
   },
   "group": "kde-frameworks"
 }
