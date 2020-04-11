@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kdewebkit",
+  "display_name": "KDE WebKit",
+  "release_date": "2020-04-11",
+  "version": "5.69.0",
+  "summary": "KDE Integration for QtWebKit",
+  "topics": [
+    "Web"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdewebkit/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.69/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdewebkit/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This library provides KDE integration of the QtWebKit library. If you are\nusing QtWebKit in your KDE application, you are encouraged to use this layer\ninstead of using the QtWebKit classes directly.\n\nIn particular, you should use KWebView in place of QWebView, KGraphicsWebView\nin place of QGraphicsWebView and KWebPage in place of QWebPage.  See the\ndocumentation for those classes for more information.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.69/kdewebkit-5.69.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

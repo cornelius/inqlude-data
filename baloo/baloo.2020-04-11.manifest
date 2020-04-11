@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "baloo",
+  "display_name": "Baloo",
+  "release_date": "2020-04-11",
+  "version": "5.69.0",
+  "summary": "Baloo is a file indexing and searching framework",
+  "topics": [
+    "Development"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/baloo/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.69/",
+    "vcs": "https://projects.kde.org/projects/frameworks/baloo/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Baloo is the file indexing and file search framework for KDE Plasma. It focuses \non speed and a very small memory footprint. It maintains an index of your files \nand optionally their contents which [you can search](@ref searching).",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.69/baloo-5.69.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
