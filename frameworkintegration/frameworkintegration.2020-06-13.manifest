@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "frameworkintegration",
+  "display_name": "Framework Integration",
+  "release_date": "2020-06-13",
+  "version": "5.71.0",
+  "summary": "Workspace and cross-framework integration plugins",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/frameworkintegration/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.71/",
+    "vcs": "https://projects.kde.org/projects/frameworks/frameworkintegration/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Framework Integration is a set of plugins responsible for better integration of\nQt applications when running on a KDE Plasma workspace.\n\nApplications do not need to link to this directly.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.71/frameworkintegration-5.71.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

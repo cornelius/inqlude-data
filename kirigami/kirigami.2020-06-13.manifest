@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kirigami",
+  "display_name": "Kirigami",
+  "release_date": "2020-06-13",
+  "version": "5.71.0",
+  "summary": "QtQuick plugins to build user interfaces based on the KDE human interface guidelines",
+  "topics": [
+    "Mobile",
+    "QML"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kirigami/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.71/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kirigami/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Kirigami is a set of QtQuick components at the moment targeted for mobile use (in the future desktop as well) targeting both Plasma Mobile and Android. It’s not a whole set of components, all the “Primitive” ones like buttons and textboxes are a job for QtQuickControls (soon QtQuickControls2) but it’s a set of high level components to make the creation of applications that look and feel great on mobile as well as desktop devices and follow the Kirigami Human Interface Guidelines.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.71/kirigami-5.71.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

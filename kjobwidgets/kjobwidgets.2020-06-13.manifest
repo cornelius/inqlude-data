@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kjobwidgets",
+  "display_name": "KJobWidgets",
+  "release_date": "2020-06-13",
+  "version": "5.71.0",
+  "summary": "Widgets for tracking KJob instances",
+  "topics": [
+    "Widgets"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kjobwidgets/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.71/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kjobwidgets/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KJobWIdgets provides widgets for showing progress of asynchronous jobs.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.71/kjobwidgets-5.71.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

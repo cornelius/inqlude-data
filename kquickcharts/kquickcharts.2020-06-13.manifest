@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kquickcharts",
+  "display_name": "KQuickCharts",
+  "release_date": "2020-06-13",
+  "version": "5.71.0",
+  "summary": "A QtQuick module providing high-performance charts.",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kquickcharts/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.71/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kquickcharts/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "The Quick Charts module provides a set of charts that can be used from QtQuick\napplications. They are intended to be used for both simple display of data as\nwell as continuous display of high-volume data (often referred to as plotters).\nThe charts use a system called distance fields for their accelerated rendering,\nwhich provides ways of using the GPU for rendering 2D shapes without loss of\nquality.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.71/kquickcharts-5.71.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
