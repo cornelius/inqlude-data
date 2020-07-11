@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kimageformats",
+  "display_name": "KImageFormats",
+  "release_date": "2020-07-11",
+  "version": "5.72.0",
+  "summary": "Image format plugins for Qt",
+  "topics": [
+    "Graphics",
+    "Data"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kimageformats/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.72/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kimageformats/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This framework provides additional image format plugins for QtGui.  As\nsuch it is not required for the compilation of any other software, but\nmay be a runtime requirement for Qt-based software to support certain\nimage formats.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.72/kimageformats-5.72.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kdav",
+  "display_name": "KDAV",
+  "release_date": "2020-07-11",
+  "version": "5.72.0",
+  "summary": "The KDav library",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kdav/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.72/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kdav/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.72/kdav-5.72.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
