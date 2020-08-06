@@ -1,0 +1,37 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qxmpp",
+  "display_name": "QXmpp",
+  "release_date": "2020-02-10",
+  "version": "1.2.0",
+  "summary": "XMPP client and server library",
+  "urls": {
+    "homepage": "https://qxmpp.org/",
+    "vcs": "https://github.com/qxmpp-project/qxmpp",
+    "download": "https://github.com/qxmpp-project/qxmpp/releases",
+    "api_docs": "https://doc.qxmpp.org/qxmpp-1.2.0/"
+  },
+  "licenses": [
+    "LGPL 2.1 or later"
+  ],
+  "description": "QXmpp is a cross-platform C++ XMPP client and server library. QXmpp strives to be as easy to use as possible, the underlying TCP socket, the core XMPP RFCs (RFC3920 and RFC3921) and XMPP extensions have been encapsulated into classes and functions. QXmpp comes with full API documentation, automatic tests and numerous examples.",
+  "authors": [
+    "Manjeet Dahiya <manjeetdahiya@gmail.com>",
+    "Jeremy Lainé <jeremy.laine@m4x.org>",
+    "Linus Jahn <lnj@kaidan.im>",
+    "Ian Reinhart Geiser <geiseri@kde.org>",
+    "Georg Rudoy <0xd34df00d@gmail.com>",
+    "Niels Ole Salscheider <niels_ole@salscheider-online.de>",
+    "Oliver Goffart <ogoffart@woboq.com>"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "packages": {
+    "source": "https://github.com/qxmpp-project/qxmpp/archive/v1.2.0.tar.gz"
+  },
+  "topics": [
+    "Communication"
+  ]
+}
