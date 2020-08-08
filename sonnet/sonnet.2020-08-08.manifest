@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "sonnet",
+  "display_name": "Sonnet",
+  "release_date": "2020-08-08",
+  "version": "5.73.0",
+  "summary": "Support for spellchecking",
+  "topics": [
+    "Text"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/sonnet/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.73/",
+    "vcs": "https://projects.kde.org/projects/frameworks/sonnet/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Sonnet is a plugin-based spell checking library for Qt-based\napplications. It supports several different plugins, including\nHSpell, Enchant, ASpell and HUNSPELL.\n\nIt also supports automated language detection, based on a\ncombination of different algorithms.\n\nThe simplest way to use Sonnet in your application is to use the\nSpellCheckDecorator class on your QTextEdit.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.73/sonnet-5.73.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

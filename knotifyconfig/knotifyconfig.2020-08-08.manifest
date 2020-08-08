@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "knotifyconfig",
+  "display_name": "KNotifyConfig",
+  "release_date": "2020-08-08",
+  "version": "5.73.0",
+  "summary": "Configuration system for KNotify",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/knotifyconfig/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.73/",
+    "vcs": "https://projects.kde.org/projects/frameworks/knotifyconfig/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KNotifyConfig provides a configuration dialog for desktop notifications which\ncan be embedded in your application.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.73/knotifyconfig-5.73.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
