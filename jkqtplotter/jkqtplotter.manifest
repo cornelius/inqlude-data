@@ -3,18 +3,18 @@
   "name": "jkqtplotter",
   "display_name": "JKQtPlotter",
   "version": "master",
-  "release_date": "2018-12-28",
+  "release_date": "2020-06-28",
   "summary": "Plotting widget for Qt, including data management and LaTeX rendering",
   "urls": {
     "homepage": "https://github.com/jkriege2/JKQtPlotter",
     "vcs": "https://github.com/jkriege2/JKQtPlotter",
-    "api_docs": "https://github.com/jkriege2/JKQtPlotter",
-    "tutorial": "https://github.com/jkriege2/JKQtPlotter"
+    "api_docs": "http://jkriege2.github.io/JKQtPlotter/index.html",
+    "tutorial": "http://jkriege2.github.io/JKQtPlotter/example_tutorial_projects.html"
   },
   "licenses": [
     "LGPLv2.1+"
   ],
-  "description": "This is an extensive library of function/data plotter classes for Qt (>= 4.7, tested with Qt up to 5.11).",
+  "description": "an extensive Qt5 Plotter framework (including a feature-richt plotter widget, a speed-optimized, but limited variant and a LaTeX equation renderer!), written fully in C/C++ and without external dependencies.",
   "maturity": "development",
   "authors": [
     "Jan Krieger <jan@jkrieger.de>"
