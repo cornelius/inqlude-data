@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "prison",
+  "display_name": "Prison",
+  "release_date": "2020-09-12",
+  "version": "5.74.0",
+  "summary": "Barcode abstraction layer providing uniform access to generation of barcodes",
+  "topics": [
+    "Graphics",
+    "Printing"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/prison/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.74/",
+    "vcs": "https://projects.kde.org/projects/frameworks/prison/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "Prison has a Prison::AbstractBarcode, which is the base class for the actual\nbarcode generators, currently Prison::QRCodeBarcode and Prison::DataMatrixBarcode\nare the two implemented barcode generators.\n\nPrison currently ships a BarcodeWidget, which is a QWidget with a barcode\npainted upon, as well as a BarcodeItem, which is a QGraphicsItem with a\nbarcode painted upon.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.74/prison-5.74.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

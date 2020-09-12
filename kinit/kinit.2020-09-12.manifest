@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kinit",
+  "display_name": "KInit",
+  "release_date": "2020-09-12",
+  "version": "5.74.0",
+  "summary": "Process launcher to speed up launching KDE applications",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kinit/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.74/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kinit/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "kdeinit is a process launcher somewhat similar to the famous init used for\nbooting UNIX.\n\nIt launches processes by forking and then loading a dynamic library which\nshould contain a 'kdemain(...)' function.\n\nUsing kdeinit to launch KDE applications makes starting a typical KDE\napplications 2.5 times faster (100ms instead of 250ms on a P-III 500) It\nreduces memory consumption by approx. 350Kb per application.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.74/kinit-5.74.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
