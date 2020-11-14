@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kpackage",
+  "display_name": "KPackage Framework",
+  "release_date": "2020-11-14",
+  "version": "5.76.0",
+  "summary": "Library to load and install packages of non binary files as they were a plugin",
+  "topics": [
+    "Development"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kpackage/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.76/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kpackage/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "The KPackage framework lets the user install and load packages of non binary content such as scripted extensions or graphic assets, as if they were traditional plugins.\n\n# Using KPackage\n\nThe frameworks consists of 3 classes: PackageStructure, PackageLoader and Package\nThe central class is Package, that represents an installed package and is used to access its file, install, update or uninstall it.\n\nIn order to use the framework the developer has to define a package structure. (the package type, that will be depending on the particular application, and the type of content that will be provided, may be a sound theme, graphics assets, qml files etc).\n\nThe package loader is used to load instances of Package of a given type.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.76/kpackage-5.76.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

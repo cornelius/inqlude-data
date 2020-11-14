@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kactivities",
+  "display_name": "KActivities",
+  "release_date": "2020-11-14",
+  "version": "5.76.0",
+  "summary": "Runtime and library to organize the user work in separate activities",
+  "topics": [
+    "Desktop"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kactivities/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.76/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kactivities/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "When a user is interacting with a computer, there are three main areas of\ncontextual information that may affect the behaviour of the system: who the user\nis, where they are, and what they are doing.\n\n*Activities* deal with the last one. An activity might be \"developing a KDE\napplication\", \"studying 19th century art\", \"composing music\" or \"watching funny\nvideos\". Each of these activites may involve multiple applications, and a single\napplication may be used in multiple activities (for example, most activities are\nlikely to involve using a web browser, but different activities will probably\ninvolve different websites).\n\nKActivities provides the infrastructure needed to manage a user's activites,\nallowing them to switch between tasks, and for applications to update their\nstate to match the user's current activity. This includes a daemon, a library\nfor interacting with that daemon, and plugins for integration with other\nframeworks.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.76/kactivities-5.76.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
