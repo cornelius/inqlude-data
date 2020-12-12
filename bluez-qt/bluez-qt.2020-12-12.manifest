@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "bluez-qt",
+  "display_name": "BluezQt",
+  "release_date": "2020-12-12",
+  "version": "5.77.0",
+  "summary": "Qt wrapper for BlueZ 5 DBus API",
+  "topics": [
+    "Communication"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/bluez-qt/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.77/",
+    "vcs": "https://projects.kde.org/projects/frameworks/bluez-qt/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "BluezQt is a library for communication with BlueZ system and session daemons.\n\n<ul>\n  <li>BluezQt::Manager class is used to communicate with system daemon - org.bluez</li>\n  <li>BluezQt::ObexManager class is used to communicate with session daemon - org.bluez.obex</li>\n</ul>\n\nAll method calls are asynchronous using BluezQt::PendingCall that helps tracking\nthe call progress and handle errors.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.77/bluez-qt-5.77.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

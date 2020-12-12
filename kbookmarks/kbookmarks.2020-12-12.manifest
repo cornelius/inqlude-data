@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kbookmarks",
+  "display_name": "KBookmarks",
+  "release_date": "2020-12-12",
+  "version": "5.77.0",
+  "summary": "Support for bookmarks and the XBEL format",
+  "topics": [
+    "Web"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kbookmarks/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.77/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kbookmarks/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KBookmarks lets you access and manipulate bookmarks stored using the\n[XBEL format][1].\n\n[1]: http://pyxml.sourceforge.net/topics/xbel/\n\nThe most common use for bookmarks is web browsers, but this can also\nbe useful in any application where local files or URLs can be saved as bookmarks.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.77/kbookmarks-5.77.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}

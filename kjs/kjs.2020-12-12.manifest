@@ -1,0 +1,33 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kjs",
+  "display_name": "KJS",
+  "release_date": "2020-12-12",
+  "version": "5.77.0",
+  "summary": "Support for JS scripting in applications",
+  "topics": [
+    "Web",
+    "Scripting"
+  ],
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kjs/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.77/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kjs/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "This library provides an ECMAScript compatible interpreter. The ECMA standard\nis based on well known scripting languages such as Netscape's JavaScript and\nMicrosoft's JScript.",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.77/kjs-5.77.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
