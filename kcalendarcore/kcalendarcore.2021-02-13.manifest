@@ -1,0 +1,29 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "kcalendarcore",
+  "display_name": "KCalendarCore",
+  "release_date": "2021-02-13",
+  "version": "5.79.0",
+  "summary": "The KDE calendar access library",
+  "urls": {
+    "homepage": "http://api.kde.org/frameworks-api/frameworks5-apidocs/kcalendarcore/html/index.html",
+    "download": "http://download.kde.org/stable/frameworks/5.79/",
+    "vcs": "https://projects.kde.org/projects/frameworks/kcalendarcore/repository",
+    "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-frameworks-devel"
+  },
+  "licenses": [
+    "LGPLv2.1+"
+  ],
+  "description": "KCalendarCore supports the standard formats iCalendar and vCalendar and the\ngroup scheduling standard iTIP.\n\nA calendar contains information like incidences (events, to-dos, journals),\nalarms, time zones, and other useful information.  This API provides\naccess to that calendar information via well known calendar formats\n[iCalendar (or iCal)](https://en.wikipedia.org/wiki/Icalendar) and the older\n[vCalendar](https://en.wikipedia.org/wiki/VCalendar).",
+  "authors": [
+    "The KDE Community"
+  ],
+  "maturity": "stable",
+  "platforms": [
+    "Linux"
+  ],
+  "packages": {
+    "source": "http://download.kde.org/stable/frameworks/5.79/kcalendarcore-5.79.0.tar.xz"
+  },
+  "group": "kde-frameworks"
+}
