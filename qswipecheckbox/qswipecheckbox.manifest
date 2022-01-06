@@ -1,0 +1,28 @@
+{
+  "$schema": "http://inqlude.org/schema/generic-manifest-v1#",
+  "name": "qswipecheckbox",
+  "display_name": "QSwipeCheckbox",
+  "summary": "Flippable-Style Checkbox Widget",
+  "urls": {
+    "homepage": "https://github.com/tobiasvogel/QSwipeCheckbox",
+    "vcs": "https://github.com/tobiasvogel/QSwipeCheckbox"
+  },
+  "licenses": [
+    "GPLv2+"
+  ],
+  "description": "Alternative implementation of regular Checkboxes in Swipe-Checkbox-Style (a.k.a. Flippable-Checkbox, Flip-Switch, etc.) for the Qt Framework supporting different styles and lots of customization options.",
+  "authors": [
+    "Tobias X. Vogel <tobias.vogel@linux.com>"
+  ],
+  "maturity": [
+    "beta"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "OS X"
+  ],
+  "topics": [
+    "Widgets"
+  ]
+}
